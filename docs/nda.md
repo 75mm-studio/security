@@ -11,11 +11,12 @@ Non-Disclosure Agreement abbreviates to NDA.
   - services companies
   - launch of project
   - organazing TF
+  
 This agreement is for:
   - the protection of confidential business information between business and business or business and customer.
   - the maintainance of confidential relationship.
   
-## 임직원 정보기록/ 
+## 임직원 정보기록
 임직원 보안서약서 작성시 필수로 필요한 항목입니다.
 입사시 작성합니다. 필요시 문서를 갱신합니다.
 
