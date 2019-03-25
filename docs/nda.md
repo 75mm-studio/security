@@ -1,11 +1,24 @@
-# 기밀유지협약
+# 기밀유지협약/Non-Disclosure Agreement(NDA)
 Non-Disclosure Agreement 축약해서 NDA로 불립니다.
 75미리스튜디오(주)는 임직원의 입사 및 퇴사, 협력업체 임직원, 외부업체, 용역업체 임직원, 기술협력, 공동개발, 용역계약, 프로젝트, TF 진행시 기밀유지협약서(NDA)를 작성합니다.
 회사와 개인간, 회사와 회사간 영업비밀을 보호하고 사업정보 보호 신뢰관계를 유지하기 위해서 사용합니다.
 
-## 임직원 정보기록
+Non-Disclosure Agreement abbreviates to NDA.
+75mm-studio Inc. draws up NDA in the case of:
+  - join and resignation of employer
+  - employer of partner companies
+  - external companies
+  - services companies
+  - launch of project
+  - organazing TF
+This agreement is for:
+  - the protection of confidential business information between business and business or business and customer.
+  - the maintainance of confidential relationship.
+  
+## 임직원 정보기록/ 
 임직원 보안서약서 작성시 필수로 필요한 항목입니다.
 입사시 작성합니다. 필요시 문서를 갱신합니다.
+
 
 - 성 명
 - 주 소
@@ -13,6 +26,13 @@ Non-Disclosure Agreement 축약해서 NDA로 불립니다.
 - 전화번호
 - 서명일
 - 서 명
+
+- name
+- address
+- resident registration number
+- telephone No.
+- signed date
+- signature
 
 ## 협력업체 정보기록
 협력업체 보안서약서 작성시 필요한 항목입니다.
@@ -24,6 +44,14 @@ Non-Disclosure Agreement 축약해서 NDA로 불립니다.
 - 대표를 포함한 프로젝트 참여 서약자 테이블과 서명리스트
 - 서명일
 
+- name of company
+- location
+- business registration number(Korean EID)
+- telephone No.
+- signatory table for project participant including representative
+- signature list of project participant including representative
+- signed date
+
 ## 외부용역인력 정보기록
 외부 용역인력 보안서약서 작성시 필수로 필요한 항목입니다.
 
@@ -34,6 +62,14 @@ Non-Disclosure Agreement 축약해서 NDA로 불립니다.
 - 서명일
 - 서 명
 
+- name
+- address
+- resident registration number
+- telephone No.
+- signed date
+- signature
+
+
 ## 75mm-studio 정보기록
 
 - 기업명 : 75미리스튜디오(주)
@@ -42,6 +78,12 @@ Non-Disclosure Agreement 축약해서 NDA로 불립니다.
 - 전화번호 : 02-512-7520
 - 대표서명 : 신철호(인)
 
+- name of company : 75mm-studio Inc.
+- location : 502, 6, Nonhyeon-ro 164-gil, Gangnam-gu, Seoul, Republic of Korea
+- business registration number(Korean EID) : 110-86-18266
+- telephone No. : 02-512-7520
+- signature of representative: 신철호(signature)
+
 ## 보안서약서 항목
 
 #### 보유정보의 비밀유지 조항
@@ -49,11 +91,16 @@ Non-Disclosure Agreement 축약해서 NDA로 불립니다.
 - 회사에서 진행하는 모든 프로젝트 정보를 외부에 공개, 발설하지 않습니다.
 - 본인은 75미리스튜디오(주)의 영업비밀 또는 회사의 정보에 대하여 재직중 또는 퇴사 이후에도 비밀을 유지할 것을 맹세합니다.
 
+- coverage : employer
+- Party shall not divulge confidential information to anyone outside the company.
+- 
 
 #### 권한 외 접근이나 출입 금지 조항
 - 적용대상 : 임직원
 - 본인은 인가받지 않은 정보나 서류등에 접근하지 않을 것 입니다.
 - 출입이 금지된 장소나 시설에 출입을 하지 않겠습니다.
+
+- coverage : employer
 
 #### 회사의 보안정책 준수 및 관리상의 주의의무 조항
 - 적용대상 : 임직원
