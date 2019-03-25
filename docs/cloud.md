@@ -22,18 +22,28 @@ MPAA-related Rule : MS-4.0(Business Continuity Plan), MS-6.0(Business Continuity
 
 ## 퇴사자 / Retiree
 - 퇴사발표 이후 보안서약서를 작성후 즉시 AWS IAM 키를 제거합니다.
+- After dismissal announcement, retiree shall draw up security pladge.
+- Immediately after drawing up, Company shall remove AWS IAM.
 
 ## 클라이언트 데이터 / Data of Client
 - 클라이언트가 문의한 작업데이터는 클라우드에 저장됩니다.
-- 건물의 재난, 화재 대비 사업의 연속성을 위해서 클라우드로 위험을 분산합니다.
-
+- 건물의 재난, 화재를 대비하고 사업의 연속성을 유지하기 위해서 클라우드로 위험을 분산합니다.
+- Work data that client has requested will be stored at cloud.
+- Company shall store data on cloud:
+    - to spread risk of building collapse and fire.
+    - for BCP.
+    
 ## 프로젝트 백업 / Project Backup
 - 프로젝트가 종료되면 완료된 데이터는 클라우드(AWS Glacier)로 백업합니다.
 - 건물의 재난, 화재 대비 사업의 연속성을 위해서 클라우드로 위험을 분산합니다.
-
-## 클라우드 Log / Cloud Log
+- Every completed data will be backed up on cloud(AWS Glacier) at the end of the project.
+- Company shall store data on cloud:
+    - to spread risk of building collapse and fire.
+    - for BCP.
+    
+## 클라우드 Logs / Cloud Logs
 - Log는 MPAA기준 12개월을 보관합니다. (MPAA 관련규칙 : PS-16.2)
 - 스토리지에 저장되는 데이터는 [액세스 로그정책](https://docs.aws.amazon.com/ko_kr/AmazonS3/latest/dev/ServerLogs.html#BucketLoggingStatusChanges)에 따라서 Log가 생성됩니다.
 <br/>
-- Log is storaged 12 months on the basis of MPAA. (MPAA-related Rule : PS-16.2)
-- 
+- Log will be storaged for 12 months on the basis of MPAA. (MPAA-related Rule : PS-16.2)
+- Every data that will be stored at storage  generate logs according to [access log policy](https://docs.aws.amazon.com/ko_kr/AmazonS3/latest/dev/ServerLogs.html#BucketLoggingStatusChanges)
