@@ -20,7 +20,7 @@ This agreement is for:
 임직원 보안서약서 작성시 필수로 필요한 항목입니다.
 입사시 작성합니다. 필요시 문서를 갱신합니다.
 
-Mentatory items for NDA with employer. Employer shall draw up at the time of enterance. If necessary, company may update the document.(어떤 문서인지 모호하다)
+Mentatory items for NDA with employer. Employer shall draw up at the time of enterance. If necessary, company may update the document.*(어떤 문서인지 모호하다)*
 
 
 - 성 명
@@ -87,7 +87,7 @@ Mentatory items for NDA with external subcontractor.
 - location : 502, 6, Nonhyeon-ro 164-gil, Gangnam-gu, Seoul, Republic of Korea
 - business registration number(Korean EID) : 110-86-18266
 - telephone No. : 02-512-7520
-- signature of representative: 신철호(signature)
+- signature of representative: 신철호(signature)*사장님 영문 이름*
 
 ## 보안서약서 항목
 
@@ -128,7 +128,7 @@ Mentatory items for NDA with external subcontractor.
 #### 퇴사시 반납 및 개인적 보유 금지 조항
 - 적용대상 : 임직원
 - 본인은, 재직 중에 보유하였던 회사의 영업비밀 등 정보, 회사의 연구개발, 영업, 재산 등에 영향을 미칠 수 있는 유형, 무형의 정보 기타 회의 주요 영업자산과 관련된 자료 모두를 회사에 반납하고, 이에 관한 어떠한 형태의 사본도 개인적으로 보유하지 않으며, 반납할 수 없는 것은 폐기할 것을 서약합니다.
-- 퇴사시에 최초 고용시 작성하는 근로 계약서 [ 제8조 기밀유지 ] 조항에 원칙이 시행됩니다.
+- 퇴사시에 최초 고용시 작성하는 근로 계약서 [ 제8조 기밀유지 ] 조항에 의해 원칙이 시행됩니다.
 
 - coverage : employment
 - Recipient hereby agrees as follow:
@@ -142,12 +142,14 @@ Mentatory items for NDA with external subcontractor.
 - 본인은 통상적인 학술 활동이나 교수 활동으로서 회사의 사전 승인을 득한 경우를 제외하고는 재직중 회사의 영업비밀 또는 영업자산이 누설 될 수 있는 자문활동이나 교육활동 등을 수행하지 않겠습니다.
 
 - coverage : employer
+- 
 
 #### 생성정보의 회사 소유 인정 조항
 - 적용대상 : 임직원
 - 본인은 재직 중 업무와 관련하여 취득하거나 독자적으로 또는 다른 사람과 공동으로 작성, 개발, 설계, 고안한 기술과 정보 및 이에 준하는 산출물에 관한 소유권 또는 지식재산권이 회사에 있음을 인정합니다.
 
 - coverage : employer
+- Recipient agrees 
 
 #### 감사 수인 또는 분쟁시 회사에 대한 협조 조항
 - 적용대상 : 임직원
