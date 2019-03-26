@@ -18,7 +18,6 @@ MPAA-related Rule : MS-4.0(Business Continuity Plan), MS-6.0(Business Continuity
     - MFA(Multi-Factor Authentication)
 - In the case of client, account is available only for a maximum of 90 days.
 - On the day of end of project, accounts of externel parties related to the project are removed upon the mutual consultation between the parties.
-- In the case of robbery of On-set devices that have cloud authority, Employer shall report to administrator immediately and remove cloud key.
 
 ## 퇴사자 / Retiree
 - 퇴사발표 이후 보안서약서를 작성후 즉시 AWS IAM 키를 제거합니다.
