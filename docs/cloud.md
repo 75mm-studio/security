@@ -20,9 +20,9 @@ MPAA-related Rule : MS-4.0(Business Continuity Plan), MS-6.0(Business Continuity
 - On the day of end of project, accounts of externel parties related to the project are removed upon the mutual consultation between the parties.
 
 ## 퇴사자 / Retiree
-- 퇴사발표 이후 보안서약서를 작성후 즉시 AWS IAM 키를 제거합니다.
+- 퇴사발표 이후 보안서약서를 작성후 즉시 AWS IAM 접근키를 제거합니다.
 - After dismissal announcement, retiree shall draw up security pladge.
-- Immediately after drawing up, Company shall remove AWS IAM.
+- Immediately after drawing up, Company shall remove AWS IAM access key.
 
 ## 클라이언트 데이터 / Data of Client
 - 클라이언트가 문의한 작업데이터는 클라우드에 저장됩니다.
@@ -30,7 +30,7 @@ MPAA-related Rule : MS-4.0(Business Continuity Plan), MS-6.0(Business Continuity
 - Work data that client has requested will be stored at cloud.
 - Company shall store data on cloud:
     - to spread risk of building collapse and fire.
-    - for BCP.
+    - for BCP(Business Continuity Plan).
     
 ## 프로젝트 백업 / Project Backup
 - 프로젝트가 종료되면 완료된 데이터는 클라우드(AWS Glacier)로 백업합니다.
@@ -38,7 +38,7 @@ MPAA-related Rule : MS-4.0(Business Continuity Plan), MS-6.0(Business Continuity
 - Every completed data will be backed up on cloud(AWS Glacier) at the end of the project.
 - Company shall store data on cloud:
     - to spread risk of building collapse and fire.
-    - for BCP.
+    - for BCP(Business Continuity Plan).
     
 ## 클라우드 Logs / Cloud Logs
 - Log는 MPAA기준 12개월을 보관합니다. (MPAA 관련규칙 : PS-16.2)
