@@ -1,4 +1,4 @@
-# 75mm Studio security policy
+# 75mm Studio Co.,Ltd. Security policy
 
 75미리스튜디오(주) 보안정책 문서입니다.
 
