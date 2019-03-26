@@ -1,7 +1,7 @@
 # 기밀유지협약/Non-Disclosure Agreement(NDA)
 Non-Disclosure Agreement 축약해서 NDA로 불립니다.
 75미리스튜디오(주)는 임직원의 입사 및 퇴사, 협력업체 임직원, 외부업체, 용역업체 임직원, 기술협력, 공동개발, 용역계약, 프로젝트, TF 진행시 기밀유지협약서(NDA)를 작성합니다.
-회사와 개인간, 회사와 회사간 영업비밀을 보호하고 사업정보 보호 신뢰관계를 유지하기 위해서 사용합니다.
+회사와 개인간, 회사와 회사간 영업비밀 보호와 신뢰관계 유지를 위해서 사용합니다.
 
 Non-Disclosure Agreement abbreviates to NDA.
 75mm-studio Inc. draws up NDA in the case of:
