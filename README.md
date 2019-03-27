@@ -9,7 +9,6 @@
 This document is about security policy of  75mm Studio Co.,Ltd..
 This repository is written for the purpose of security education of employer and cooperative firm.
 this document will be updated in the case of:
-- 
 
 ## 세부보안정책
 - [기밀유지협약](docs/nda.md)
