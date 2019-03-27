@@ -35,6 +35,7 @@ MPAA-related rule : DS-3.0, MS-6.0, DS-1.6
 
 ## UPS(Uninterruptible Power Supply)
 주요 장비는 UPS에 물려있으며 정전시 가용시간은 30분입니다.(MPAA 기준 시간은 최소 15분입니다.)
+
 Main Device is connected to UPS. Its available time is 30 minutes.(According to MPAA, minimum available time is 15 minutes.)
 
 ## 네트워크 구성도/Network Block Diagram
