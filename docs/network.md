@@ -1,25 +1,41 @@
-# Network / Server
-
-MPAA 관련규칙 : DS-3.0, MS-6.0, DS-1.6
+# Network, Server/Network, Server
 인터넷망과 인트라넷망은 물리적으로 완전히 분리되어있습니다.
+MPAA 관련규칙 : DS-3.0, MS-6.0, DS-1.6
 
-## 방화벽
+Internet network and Intranet network is physically separated.
+MPAA-related rule : DS-3.0, MS-6.0, DS-1.6
+
+## 방화벽/Firewall
 - 담당업체 : 아이티레이
-- [ ] 외부에서 방화벽을 원격관리 할 수 없도록 한다. DS-1.6 / 적용일 : 방화벽 셋팅 스케줄 보고 적용함.
+- 외부에서 방화벽을 원격관리 할 수 없도록 한다. DS-1.6
 
-## 서버접근
+- Subcontractor : ITRAY *홈페이지가 유지보수중이라 정확한 명칭은 아직 모름*
+- Firewall shall not be managed in remote environment outside the company. DS-1.6
+
+## 서버접근/Server Access
 - 지문이 등록된 관리자만 접근가능하며 서버실까지 총 3중 인증단계를 거쳐야합니다.
-- CCTV 녹화중, 어플리케이션을 이용하여 핸드폰으로 실시간 확인 가능
+- CCTV 녹화중, 어플리케이션을 이용하여 핸드폰으로 실시간 확인 가능합니다.
 
-## 인터넷
-- 손님은 인터넷을 통해서 인터넷 사용이 가능합니다.
-- 회사 공용PC에서 인터넷이 사용가능합니다.
+- Only authorized sever manager whose fingerprint is enrolled may access to server room.
+- Server manager shall pass 3-step verification to access server room.
+- Server room is recorded via CCTV.
+- () can watch server room in real time via mobile application.
+*서버룸을 볼 수 있는 권한이 있는 사람을 특정짓기*
 
-## 인트라넷
+## 인터넷/Internet
+- 손님용 Wifi를 이용해서 인터넷 사용이 가능합니다.
+- Internet is available by guest Wifi.
+
+## 인트라넷/Intranet
 - 아티스트의 모든 컴퓨터는 인터넷과 물리적으로 분리된 네트워크를 사용합니다.
+- 사용하지 않는 랜소켓은 보안씰이 부착되어 있습니다.
 
-## UPS
-주요 장비는 UPS에 물려있으며 정전시 가용시간은 30분입니다.(MPAA 기준인 15분보다 15분 더 가용가능합니다.)
+- Without exception, computers of artists shall use physically seperated network from internet.
+- Security seals shall be attached to unused lan sockets.
 
-## 네트워크 구성도
+## UPS(Uninterruptible Power Supply)
+주요 장비는 UPS에 물려있으며 정전시 가용시간은 30분입니다.(MPAA 기준 시간은 최소 15분입니다.)
+Main Device is connected to UPS. Its available time is 30 minutes.(According to MPAA, minimum available time is 15 minutes.)
+
+## 네트워크 구성도/Network Block Diagram
 ![network](../figures/network.png)
