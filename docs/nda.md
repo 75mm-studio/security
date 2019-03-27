@@ -18,7 +18,7 @@ This agreement is for:
   
 ## 임직원 정보기록
 임직원 보안서약서 작성시 필수로 필요한 항목입니다.
-입사시 작성합니다. 필요시 문서를 갱신합니다.
+입사시 작성합니다. 보안서약서 항목 변경시, 기존 서명한 보안서약서를 갱신합니다.
 
 Mentatory items for NDA with employer. Employer shall draw up at the time of enterance. If necessary, company may update the document.*(어떤 문서인지 모호하다)*
 
@@ -87,7 +87,7 @@ Mentatory items for NDA with external subcontractor.
 - location : 502, 6, Nonhyeon-ro 164-gil, Gangnam-gu, Seoul, Republic of Korea
 - business registration number(Korean EID) : 110-86-18266
 - telephone No. : 02-512-7520
-- signature of representative: 신철호(signature)*사장님 영문 이름*
+- signature of representative: Chul Ho Chin(signature)
 
 ## 보안서약서 항목
 
@@ -177,7 +177,7 @@ Mentatory items for NDA with external subcontractor.
 
 #### 위약벌 또는 손해배상액의 예정
 - 적용대상 : 임직원, 협력업체, 외부용역
-- 보안사항을 위반하였을 경우에는 문제의 경중을 논하여 "부정경쟁방지 및 영업비밀보호에 관한 법률", "정보통신망이용촉진 및 법률" 등 관련법령에 의한 민·형사상의 책임 이외에도, 회사에 끼친 손해에 대해 변상을 회사가 요구할 수 있습니다.
+- 보안사항을 위반하였을 경우에는 문제의 경중을 논하여 "부정경쟁방지 및 영업비밀보호에 관한 법률", "정보통신망 이용촉진 및 정보보호 등에 관한 법률" 등 관련법령에 의한 민·형사상의 책임 이외에도, 회사에 끼친 손해에 대해 변상을 회사가 요구할 수 있습니다.
 
 - 보안사항 위반시 발생할 수 있는 형태로는 "손해배상", "형사처벌-영업비밀 침해죄", "형사처벌-업무상 배임죄"가 있습니다.
 
@@ -190,7 +190,7 @@ Mentatory items for NDA with external subcontractor.
 
 
 ## 방문협약이 불가능시
-클라이언트 또는 75mm Studio 측에서 발송한 기밀유지협약서에 성함 및 주소등의 정보를 기재후 서명합니다.
+클라이언트 또는 75미리스튜디오(주) 측에서 발송한 기밀유지협약서에 성함 및 주소등의 정보를 기재후 서명합니다.
 
 원본을 스캔하고 PDF 사본을 E-mail을 통해서 발송합니다.
 
