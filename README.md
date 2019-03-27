@@ -6,6 +6,11 @@
 
 이 문서는 회사 구조의 변경, 업무장비, 서버장비, 네트워크 장비가 추가되어 보안이슈가 발생할 때마다 주기적으로 갱신됩니다.
 
+This document is about security policy of  75mm Studio Co.,Ltd..
+This repository is written for the purpose of security education of employer and cooperative firm.
+this document will be updated in the case of:
+- 
+
 ## 세부보안정책
 - [기밀유지협약](docs/nda.md)
 - [인터넷,무선정책](docs/internet.md)
