@@ -9,7 +9,7 @@ MPAA-related rule : DS-3.0, MS-6.0, DS-1.6
 - 담당업체 : 아이티레이
 - 외부에서 방화벽을 원격관리 할 수 없도록 한다. DS-1.6
 
-- Subcontractor : ITRAY *홈페이지가 유지보수중이라 정확한 명칭은 아직 모름*
+- Subcontractor : ITRAY (*홈페이지가 유지보수중이라 정확한 명칭은 아직 모름*)
 - Firewall shall not be managed in remote environment outside the company. DS-1.6
 
 ## 서버접근/Server Access
@@ -20,7 +20,7 @@ MPAA-related rule : DS-3.0, MS-6.0, DS-1.6
 - Server manager shall pass 3-step verification to access server room.
 - Server room is recorded via CCTV.
 - () can watch server room in real time via mobile application.
-*서버룸을 볼 수 있는 권한이 있는 사람을 특정짓기*
+(*서버룸을 볼 수 있는 권한이 있는 사람을 특정짓기*)
 
 ## 인터넷/Internet
 - 손님용 Wifi를 이용해서 인터넷 사용이 가능합니다.
