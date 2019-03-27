@@ -14,7 +14,8 @@ MPAA-related rule : DS-3.0, MS-6.0, DS-1.6
 
 ## 서버접근/Server Access
 - 지문이 등록된 관리자만 접근가능하며 서버실까지 총 3중 인증단계를 거쳐야합니다.
-- CCTV 녹화중, 어플리케이션을 이용하여 핸드폰으로 실시간 확인 가능합니다.
+- CCTV 는 항상 녹화중이다.
+- 보안관리자(정)은 항시 스마트폰 어플리케이션을 이용하여 핸드폰으로 CCTV를 실시간 확인 가능합니다.
 
 - Only authorized sever manager whose fingerprint is enrolled may access to server room.
 - Server manager shall pass 3-step verification to access server room.
