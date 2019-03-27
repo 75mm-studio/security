@@ -6,4 +6,4 @@
 
 ## 방문객/Visitors
 - 방문객은 손님용 Wifi를 통해서 인터넷 사용이 가능합니다.
-- 
+- Visitors may use internet only via guest Wifi.
