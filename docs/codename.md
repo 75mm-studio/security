@@ -4,16 +4,27 @@
 
 MPAA관련항목 : DS-12.3, DS-12.4
 
-## 클라이언트회사
+## 클라이언트회사/Client Company
 - 클라우드 계정을 포함하여 프로젝트마다 코드네임을 부여합니다.
 - 클라우드에서 데이터르 전송하는 폴더, 접근사용자 계정도 코드네임을 사용합니다.
 - 내부 회의석상에서도 코드네임으로 프로젝트를 진행합니다.
 
-## 프로젝트 이름
+- Code name is assigned for:
+  - every project including cloud accounts
+  - folders used for data transmission from cloud
+  - accounts of accessible user *접근 사용자를 지칭하는 말이 영어로 따로 있나요?*
+- Project shall be refered to as its code name even in thr internal meeting.
+
+## 프로젝트 이름/Project Name
 - 내부 스토리지에서 사용하는 모든 프로젝트의 폴더구조는 회의로 부여한 코드네임을 사용합니다.
-- 데이터베이스 역시 프로젝트 코드네임 관리 및 사용합니다.
+- 데이터베이스 역시 프로젝트 코드네임을 관리 및 사용합니다.
 
-## 이름생성기
-어떤 단어를 쓸지 모르겠다면 이름생성기를 웹유틸리티를 사용하세요.
+- Code name is assigned for folders belong to project.
+- The code name may be decided by meeting.
+- Database manages code name of project.
+- Code name is also assigned for database.
 
+## 이름생성기/Name generator
+어떤 단어를 쓸지 모르겠다면 이름생성기 웹유틸리티를 사용하세요.
+Name generating web utility would be useful, if it is hard to come up with code name.
 - https://passwordsgenerator.net/name-generator/
