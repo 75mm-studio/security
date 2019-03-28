@@ -87,7 +87,7 @@ Mentatory items for NDA with external subcontractor.
 - location : 502, 6, Nonhyeon-ro 164-gil, Gangnam-gu, Seoul, Republic of Korea
 - business registration number(Korean EID) : 110-86-18266
 - telephone No. : 02-512-7520
-- signature of representative: Chul Ho Chin(signature)
+- signature of representative: Chol Ho Chin(signature)
 
 ## 보안서약서 항목
 
