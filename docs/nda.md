@@ -194,7 +194,7 @@ Mentatory items for NDA with external subcontractor.
 
 원본을 스캔하고 PDF 사본을 E-mail을 통해서 발송합니다.
 
-## 양식 다운로드(항목 검토후 작성예정)
+## 양식 다운로드
 - [보안서약서(한글) - 임직원](../pdf/nda_employ.pdf)
 - [보안서약서(한글) - 외부용역](../pdf/nda_service.pdf)
 - [보안서약서(한글) - 협력업체](../pdf/nda_partners.pdf)
