@@ -28,6 +28,8 @@ MPAA-related rule :  PS-2.0, PS-2.1, PS-2.2, PS-2.3, PS-3.0
 	- 업무협의로 프로젝트 관련 미팅을 진행한다면 보안서약서를 작성합니다.
 	
 - 프로젝트와 밀접한 관련이 있지만 정보가 없는 첫 방문자는 사진이 있는 신분증으로 신분확인을 합니다.
+	- 유효한 신분증 : 국가에서 지정한 신분증. 예를 들어 여권, 주민등록증, 운전면허증이 있습니다.
+
 - [방문객 양식 다운로드](../pdf/visitor_table.pdf)
 
 - Visitors shall fill in visitors log with following elements.
