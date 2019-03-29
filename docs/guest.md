@@ -1,9 +1,11 @@
-# 방문객 보안
+# 방문객 보안/Visitor Security Policy
 방문객 보안지침입니다.
+This is document for visitor security policy.
 
 MPAA 관련규칙 : PS-2.0, PS-2.1, PS-2.2, PS-2.3, PS-3.0
+MPAA-related rule :  PS-2.0, PS-2.1, PS-2.2, PS-2.3, PS-3.0
 
-## 방문객 정보
+## 방문객 정보/Visitor Information
 - 방문자 기록표에 방문기록을 작성합니다.
 	- 날짜(visit_date)
 	- 방문자 이름(visitor_name)
@@ -28,6 +30,21 @@ MPAA 관련규칙 : PS-2.0, PS-2.1, PS-2.2, PS-2.3, PS-3.0
 - 프로젝트와 밀접한 관련이 있지만 정보가 없는 첫 방문자는 사진이 있는 신분증으로 신분확인을 합니다.
 - [방문객 양식 다운로드](../pdf/visitor_table.pdf)
 
+- Visitors shall fill in visitors log with following elements.
+	- visit_date
+	- visitor_name
+	- visited_to
+	- company/institution
+	- seal_number
+	- visit_subject
+	- visitor_sign
+	- start_time
+	- end_time
+	- visiting_card_number
+
+- Visitors got visiting card. Visiting card indicates temporal access rights.
+
+	
 ## 씰 부착예시
 ![seal_example](../figures/seal_example.png)
 
