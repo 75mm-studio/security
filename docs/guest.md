@@ -49,7 +49,8 @@ MPAA-related rule :  PS-2.0, PS-2.1, PS-2.2, PS-2.3, PS-3.0
 	- If visitor need to use labtop for Business reason, security seal shall attach to it.
 	- If visitor need to use private devices such as labtop, visitor may use guest Wifi.
 	- In the case of having meeting for the purpose of business meeting, *보안서약서* shall be drawn up first. 
-
+- Visitor
+- [Download Visitor Form](../pdf/visitor_table.pdf)
 	
 ## 씰 부착예시/How to attach seal
 ![seal_example](../figures/seal_example.png)
