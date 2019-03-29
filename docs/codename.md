@@ -8,7 +8,8 @@ MPAA-related rule : DS-12.3, DS-12.4
 
 ## 클라이언트회사/Client Company
 - 클라우드 계정을 포함하여 프로젝트마다 코드네임을 부여합니다.
-- 클라우드에서 데이터를 전송하는 폴더, 접근사용자 계정도 코드네임을 사용합니다.
+- 클라우드에서 데이터를 전송하는 폴더는 코드네임으 사용합니다.
+- 클라우드에 접속하는 클라이언트 계정이름도 동일한 코드네임을 사용합니다.
 - 내부 회의석상에서도 코드네임으로 프로젝트를 진행합니다.
 
 - Code name is assigned for:
@@ -19,7 +20,7 @@ MPAA-related rule : DS-12.3, DS-12.4
 
 ## 프로젝트 이름/Project Name
 - 내부 스토리지에서 사용하는 모든 프로젝트의 폴더구조는 회의로 부여한 코드네임을 사용합니다.
-- 데이터베이스 역시 프로젝트 코드네임을 관리 및 사용합니다.
+- 우리는 데이터베이스를 활용하여 프로젝트 코드네임을 관리합니다.
 
 - Code name is assigned for every folders used in internal storage.
 - The code name will be decided by meeting.
