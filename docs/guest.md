@@ -43,7 +43,7 @@ MPAA-related rule :  PS-2.0, PS-2.1, PS-2.2, PS-2.3, PS-3.0
 	- visiting_card_number
 
 - Visitors got visiting card. Visiting card indicates temporal access rights.
-- shall attach security seal to cameras of mobile phones.
+- Security seal shall be attached to cameras of visitor's mobile phones.
 - basie rules
 	- It is banned to use USB and external hard disk.
 	- If visitor need to use labtop for Business reason, security seal shall attach to it.
@@ -51,14 +51,14 @@ MPAA-related rule :  PS-2.0, PS-2.1, PS-2.2, PS-2.3, PS-3.0
 	- In the case of having meeting for the purpose of business meeting, *보안서약서* shall be drawn up first. 
 
 	
-## 씰 부착예시
+## 씰 부착예시/How to attach seal
 ![seal_example](../figures/seal_example.png)
 
-## 핸드폰 카메라 씰 구매처
+## 핸드폰 카메라 씰 구매처/Online buying source for mobile phone camera security seal
 - http://koreaseals.com/product_detail.php?no=69
 
-## 방문객 Name Plate
+## 방문객 Name Plate/Visitor Name Plate
 - [방문객 Name Plate 양식다운로드](../pdf/visitor_nameplate.pdf)
-
-## 참고사항
+- [Download Visitor Name Plate Form](../pdf/visitor_nameplate.pdf)
+## 참고사항/Reference Details
 - 방문객 정보란에 표기된 각 항목의 영문표기는 AWS DynamoDB Attribute로 사용할 수 있는 키워드로 작성되어 있습니다. 추후 서류가 아닌 DB로 방문객 시스템을 구축할 때 위에 선언된 영문표기를 사용합니다.
