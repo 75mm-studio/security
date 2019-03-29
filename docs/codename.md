@@ -24,7 +24,7 @@ MPAA-related rule : DS-12.3, DS-12.4
 
 - Code name is assigned for every folders used in internal storage.
 - The code name will be decided by meeting.
-- *문장의 뜻이 명확해지면 번역*
+- Code names are managed by database.
 
 ## 이름생성기/Name generator
 어떤 단어를 쓸지 모르겠다면 이름생성기 웹유틸리티를 사용하세요.
