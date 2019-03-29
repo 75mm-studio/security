@@ -10,9 +10,9 @@ MPAA관련항목 : DS-12.3, DS-12.4
 - 내부 회의석상에서도 코드네임으로 프로젝트를 진행합니다.
 
 - Code name is assigned for:
-  - every project including cloud accounts
+  - every project including cloud accounts..
   - folders used for data transmission from cloud
-  - accounts of accessible user *접근 사용자를 지칭하는 말이 영어로 따로 있나요?*
+  - accounts of accessible user. *접근 사용자를 지칭하는 말이 영어로 따로 있나요?*
 - Project shall be refered to as its code name even in thr internal meeting.
 
 ## 프로젝트 이름/Project Name
