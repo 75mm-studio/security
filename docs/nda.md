@@ -20,7 +20,7 @@ This agreement is for:
 임직원 보안서약서 작성시 필수로 필요한 항목입니다.
 입사시 작성합니다. 보안서약서 항목 변경시, 기존 서명한 보안서약서를 갱신합니다.
 
-Mentatory items for NDA with employer. Employer shall draw up at the time of enterance. If necessary, company may update the document.*(어떤 문서인지 모호하다)*
+Mendatory items for NDA with employer. Employer shall draw up at the time of enterance. If necessary, company may update the document.*(어떤 문서인지 모호하다)*
 
 
 - 성 명
