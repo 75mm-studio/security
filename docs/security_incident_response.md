@@ -19,4 +19,4 @@ This is response manual for divulgence accident of contents in the middle of pro
     - security official(main) : Chol Ho Chin(main) +82-10-5316-2746
     - security official(vice) : *조세환*(vice) +82-10-5430-6763
 1. Company notifies the situation to the client.
-1. Company shares further progess and holds a meeting with a client. 
+1. Company shares further progess and holds a meeting with a client.
