@@ -1,6 +1,8 @@
-# 보안사고 대응조치
+# 보안사고 대응조치/Countermeasures Against Security Accident
 
 프로젝트중 콘텐츠 유출 사고 발생시 조치사항입니다.
+This is manual for secu
+
 
 ## 보안사고 대응조치
 1. 프로젝트 담당자, 75미리스튜디오(주) 보안관계자 소집회의
