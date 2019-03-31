@@ -29,5 +29,7 @@ MPAA-related rule : DS-12.3, DS-12.4
 
 ## 이름생성기/Name generator
 어떤 단어를 쓸지 모르겠다면 이름생성기 웹유틸리티를 사용하세요.
- If it is hard to come up with code name, name generating web utility would be useful.
+
+If it is hard to come up with code name, name generating web utility would be useful.
+
 - https://passwordsgenerator.net/name-generator/
