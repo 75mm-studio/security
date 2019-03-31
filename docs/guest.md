@@ -44,12 +44,17 @@ MPAA-related rule :  PS-2.0, PS-2.1, PS-2.2, PS-2.3, PS-3.0
 
 - Visitors are may given visiting cards. Visiting card indicates temporary access rights.
 - Security seal shall be attached to cameras of visitor's mobile phones.
-- basie rules:
+- basic rules:
 	- It is banned to use USB and external hard disk.
 	- If visitor need to use labtop for Business reason, security seal shall attach to it.
 	- If visitor need to use private devices such as labtop, visitor may use guest Wifi.
 	- In the case of having meeting for the purpose of business meeting, NDA shall be drawn up first. 
 - If visitor is closely related to Project, Company comfirms the identity by identification card on the visitor's first visit.
+	- Validate identifications are as follow.
+		- passport
+		- certificate of residient registrantion
+		- driver's license
+		- government-issued identification.
 - [Download Visitor Form](../pdf/visitor_table.pdf)
 	
 ## 씰 부착예시/How to attach seal
