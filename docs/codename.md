@@ -15,7 +15,8 @@ MPAA-related rule : DS-12.3, DS-12.4
 - Code name is assigned for:
   - every project including cloud accounts.
   - folders used for data transmission from cloud.
-  - accounts of *accessible user*.
+  - client accounts for cloud
+ - Client accounts for cloud shall use the same code name with project code name.
 - Even in the internal meeting, project shall be refered to as its code name .
 
 ## 프로젝트 이름/Project Name
