@@ -12,11 +12,11 @@ This is response manual for divulgence accident of contents in the middle of pro
     - 보안담당자(부) : 조세환(부) +82-10-5430-6763
 1. 클라언트에게 보안사고 상황전파
 1. 추가 진행 상황을 클라이언트에게 공유, 대응회의 진행
-
+----------------------
 1. Company convenes project manager, security officials of 75mm Studio to a emergency meeting.
     - main number : +82-02-512-7520
     - phone number of representative of a Company : 신철호 +82-10-5316-2746
-    - security official(main) : +82-10-5316-2746
-    - security official(vice) : +82-10-5430-6763
+    - security official(main) : Chol Ho Chin(main) +82-10-5316-2746
+    - security official(vice) : *조세환*(vice) +82-10-5430-6763
 1. Company notifies the situation to the client.
 1. Company shares further progess and holds a meeting with a client. 
