@@ -13,7 +13,7 @@ This is response manual for divulgence accident of contents in the middle of pro
 1. 클라언트에게 보안사고 상황전파
 1. 추가 진행 상황을 클라이언트에게 공유, 대응회의 진행
 ----------------------
-1. Company convenes project manager, security officials of 75mm Studio to a emergency meeting.
+1. Company convenes project manager, security officials of Company to a emergency meeting.
     - main number : +82-02-512-7520
     - phone number of representative of a Company : 신철호 +82-10-5316-2746
     - security official(main) : Chol Ho Chin(main) +82-10-5316-2746
