@@ -43,7 +43,7 @@ this document will be updated in the the case of occurence of security issues in
 
 ## 담당자/ The Person in Charge
 - 대표번호 : +82-02-512-7520
-- telephone No. : +82-02-512-7520
+- Main Contact No. : +82-02-512-7520
 
 #### 보안담당자/Security official
 - 신철호(정) +82-10-5316-2746
