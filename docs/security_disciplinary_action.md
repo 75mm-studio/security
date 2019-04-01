@@ -29,7 +29,7 @@ Company may discipline accused person through discision of disciplinary commitee
 1. 해고 : 근로계약을 해지하는 것으로 한다.
 
 Each kind of disciplinary action shall be defined in detail as follows:
-1. reprimand: Discipline accused person shall be required to submit a written account of the affair.
+1. reprimand: Accused person shall be required to submit a written account of the affair.
 1. salary reduction: Salary shall be reduced by not more than half of 1일분 of average wage at a time and 10 percent of total amount of wages in total. 
 1. suspension from office: In the period of suspension, accused person shall not 종사 on his 직무. and shall not payed
 1. dismissal: Dismissal means termination of a employment contract.
