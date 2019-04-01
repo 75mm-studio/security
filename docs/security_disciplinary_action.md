@@ -1,4 +1,4 @@
-# 보안 징계 조치 / Measures for Discipline Action Againt Violation of Security Regulation.
+# 보안 징계 조치 / Measures for Discipline Againt Violation of Security Regulation.
 
 # 징계, 제재 정책 / Discipline and Sanction Policy
 이 문서는 회사 취업규칙 문서에서 "제9장 표창 및 징계 부분" 문서 내용중 보안항목만 작성한다.
@@ -49,8 +49,12 @@ Each kind of disciplinary action shall be defined in detail as follows:
 
 ## 제62조 : 징계결과 통보/ Article 62 :
 징계결과통보는 해당사원에게 징계처분사유 설명서로 통보한다.
-Commitee shall notify 징계처분사유 to 해당사원 in the written form of .
+Commitee shall notify ground for disciplinary action to 해당사원 in the written form of .
 
 ## 제63조 : 재심절차 / Article 63 : Procedure For a Retrial
 1. 징계처분을 받은 사원은 징계결정이 부당하다고 인정될 때 징계통보를 받은 날로부터 7일 이내에 서면으로 1회 재심신청을 할 수 있다.
 1. 재심을 요청받은 경우 징계위원회는 10일 이내에 재심을 위한 회의를 개최하여야 하며 그 절차는 제 61조 및 제 62조를 준용한다.
+
+1. If 00 is admitted, 징계처분을 받은 사원 may request a retrial 이내에 7 days in written form only once.
+1. Disciplinary commitee is under obligation to hold a meeting for a retrial within 10 days from request of a retrial.
+1. Procedure of retrial shall be in accordance with Article 61 and Article 62.
