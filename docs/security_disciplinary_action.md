@@ -14,11 +14,11 @@ Contents herein are posted for the purpose of education. Employee shall be requi
 1. 회사의 보안 규율을 어겨 질서를 문란하게 한 자
 1. 회사가 정한 보안규정을 위반한 자
 
-Company may discipline discipline accused person through discision of disciplinary commitee.
+Company may discipline accused person through discision of disciplinary commitee.
 
-1. Any person who provides 
-1. Any person who violate internal security discipline
-1. Any person who violate security policy provision
+1. Any person who cause damage or loss to Company by divulgence of confidential information.
+1. Any person who violate internal security discipline.
+1. Any person who violate security policy provision.
 
 ## 제60조 : 징계의 종류/ Article 60 : Kinds of disciplinary action
 징계의 종류는 다음과 같다.
@@ -30,8 +30,8 @@ Company may discipline discipline accused person through discision of disciplina
 
 Each kind of disciplinary action shall be defined in detail as follows:
 1. reprimand: Discipline accused person shall be required to submit a written account of the affair.
-1. salary reduction: It means recuduction of a salary by not more than half of 평균임금 1일분 at a time and 10 percent of total amount of wages at total. 
-1. suspension from office: 
+1. salary reduction: Salary shall be reduced by not more than half of 1일분 of average wage at a time and 10 percent of total amount of wages in total. 
+1. suspension from office: In the period of suspension, accused person shall not 종사 on his 직무. and shall not payed
 1. dismissal: Dismissal means termination of a employment contract.
 
 ## 제61조 : 징계심의/ Article 61 : Disciplinary Review
