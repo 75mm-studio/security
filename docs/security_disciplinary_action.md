@@ -1,8 +1,11 @@
 # 보안 징계 조치 / Measures for 
 
-# 징계, 제재 정책 / Discipline, Sanction Policy
+# 징계, 제재 정책 / Discipline and Sanction Policy
 이 문서는 회사 취업규칙 문서에서 "제9장 표창 및 징계 부분" 문서 내용중 보안항목만 작성한다.
 아래 내용은 교육을 위해서 게시하며, 입사이후 취업규칙 문서 각 장에 항목을 읽고 서명한다.
+
+This document only covers security part of "Article 9. Commendation and Disciline" of internal employment regulation document.
+Contents herein are posted for the purpose of education. Employee shall be required to complete and sign to each provision of employment regulation.
 
 ## 제59조 : 징계 / Article 59 : Discipline
 회사는 보안사고 관련하여 징계위원회의 의결을 거쳐 징계할 수 있다.
@@ -11,7 +14,7 @@
 1. 회사의 보안 규율을 어겨 질서를 문란하게 한 자
 1. 회사가 정한 보안규정을 위반한 자
 
-Company may discipline 보안사고 관련자를 through discision of disciplinary commitee.
+Company may discipline discipline accused person through discision of disciplinary commitee.
 
 1. Any person who provides 
 1. Any person who violate internal security discipline
@@ -27,7 +30,7 @@ Company may discipline 보안사고 관련자를 through discision of disciplina
 
 Each kind of disciplinary action shall be defined in detail as follows:
 1. reprimand: Discipline accused person shall be required to submit a written account of the affair.
-1. salary reduction: It means recuduction of a salary by not more than half of 평균임금 1일분 a time and 10percent of total amount of wages at total. 
+1. salary reduction: It means recuduction of a salary by not more than half of 평균임금 1일분 at a time and 10 percent of total amount of wages at total. 
 1. suspension from office: 
 1. dismissal: Dismissal means termination of a employment contract.
 
