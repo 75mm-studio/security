@@ -27,8 +27,8 @@ this document will be updated in the the case of occurence of security issues in
 - [사고대응 정책](docs/security_incident_response.md)
 - [징계/제재 정책](docs/security_disciplinary_action.md)
 - [Q & A](docs/qna.md)
-
-- [NDA(Non-Disclosure Agreement](docs/nda.md)
+---------------------------------
+- [NDA(Non-Disclosure Agreement)](docs/nda.md)
 - [Internet and Wireless Network Policy](docs/internet.md)
 - [Mobile Device Policy](docs/mobile.md)
 - [Network](docs/network.md)
