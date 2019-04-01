@@ -1,4 +1,4 @@
-# 보안 징계 조치 / Measures for 
+# 보안 징계 조치 / Measures for discipline violation of security regulation.
 
 # 징계, 제재 정책 / Discipline and Sanction Policy
 이 문서는 회사 취업규칙 문서에서 "제9장 표창 및 징계 부분" 문서 내용중 보안항목만 작성한다.
