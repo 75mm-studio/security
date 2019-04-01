@@ -55,6 +55,6 @@ Commitee shall notify ground for disciplinary action to 해당사원 in the writ
 1. 징계처분을 받은 사원은 징계결정이 부당하다고 인정될 때 징계통보를 받은 날로부터 7일 이내에 서면으로 1회 재심신청을 할 수 있다.
 1. 재심을 요청받은 경우 징계위원회는 10일 이내에 재심을 위한 회의를 개최하여야 하며 그 절차는 제 61조 및 제 62조를 준용한다.
 
-1. If 00 is admitted, 징계처분을 받은 사원 may request a retrial 이내에 7 days in written form only once.
+1. If 00 is admitted, 징계처분을 받은 사원 may request a retrial within 7 days in written form only once.
 1. Disciplinary commitee is under obligation to hold a meeting for a retrial within 10 days from request of a retrial.
 1. Procedure of retrial shall be in accordance with Article 61 and Article 62.
