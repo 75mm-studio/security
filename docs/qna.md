@@ -1,14 +1,18 @@
 콘텐츠 제작시 클라이언트 측에서 보안이슈 관련으로 75미리스튜디오(주)에 자주 물어보는 질문에 대한 답변입니다.
 These are frequently asked question in regard to security issues.
 
-### 당사는 보안전문 회사에 가입되어있습니까?/ Is the Company affiliated to security 
+### 당사는 보안전문 회사에 가입되어있습니까?/ Is the Company affiliated with security specialist?
 
 - KT 텔레캅으로 관리되고 있습니다.
+- The Company is managed by kt telecop Co., Ltd.
 
-### 당사는 기밀 데이터 및 정보를 보안하기 위한 체계로서 서면으로 작성된 정책 그리고 행정수칙이있습니까? 있다면 그 정책 문서를 제공할 수 있습니까?
+### 당사는 기밀 데이터 및 정보를 보안하기 위한 체계로서 서면으로 작성된 정책 그리고 행정수칙이있습니까? 있다면 그 정책 문서를 제공할 수 있습니까?/ Is there written policy and administrative intruction for security of confidential data and information? If so, is that document available to read?
 
 - 현재 접근하고 있는 문서는 75미리스튜디오(주) 회사 보안 정책 문서입니다.
 - 이 문서(리포지터리)를 통해서 입사자 보안교육, 협력사 보안교육, 고객에게 보안정책을 전달하고 있습니다.
+
+- This repository is the document for security policy of the Company.
+- With this document(repository), the Company instruct security awareness training for employee and 
 
 ### 현재 모든 피고용인들은 정보 보안에 대해 충분한 교육이 되어있습니까? 구체적으로 어떻게 되고 있는지 설명해주세요.
 
