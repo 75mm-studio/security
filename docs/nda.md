@@ -160,7 +160,7 @@ Items identified below are mendatory items for NDA with external subcontractor.
 - Recipient acknowledges and agrees that:
   - if necessary, Company may monitor or perform forensic analysis any information that Company needs to prevent divulgence of technology and confidential information, including history of information and communication network such as internet, emails.
   - if deemed to have risk of illegal act or infringement of confidential information, Company may inspect and duplicate related contents thereof.
--  During or after the term of employment, if legal dispute is occured related to Recipient's responsibilities, Recipient shall cooperate to Company positively.
+-  During or after the term of employment, if legal dispute is arised related to Recipient's responsibilities, Recipient shall cooperate to Company positively.
 
 #### 전직금지 또는 겸직금지 조항
 - 적용대상 : 임직원
@@ -175,7 +175,7 @@ Items identified below are mendatory items for NDA with external subcontractor.
 - 본인은 자사 또는 타사의 비밀유지의무가 있는 정보를 보유하거나 회사 업무 수행 과정외에 데이터 또는 정보를 사용시, 이로 인해서 분쟁이 발생하면 그에 대한 모든 책임을 부담하겠습니다.
 
 - coverage : employer, cooperative firm, subcontractor
-- Recipeint shall take responsibility of dispute as a consequence of:
+- Recipeint shall take responsibility of dispute arising out of:
   - retainment of confidential information belong to both Company and other companies.
   - Use of data and information in the process of company affairs.
 
@@ -202,8 +202,9 @@ Items identified below are mendatory items for NDA with external subcontractor.
 
 - If violatation of this Agreement and the amount of damages are recognized, Recipient shall compensate proved amount of damage.
 
-IN WITNESS HEREOF, Recipient hereto agrees as follows:
-  - 
+Recipient hereto agrees as follows:
+  - Recipient shall be abide by clause of internal security policy.
+  - Recipient shall not 
 
 
 ## 방문협약이 불가능시
