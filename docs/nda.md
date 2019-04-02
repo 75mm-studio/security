@@ -6,21 +6,21 @@ Non-Disclosure Agreement 축약해서 NDA로 불립니다.
 Non-Disclosure Agreement abbreviates to NDA.
 75mm Studio Co.,Ltd. draws up NDA in the case of:
   - join and resignation of employer
-  - employer of partner companies
-  - external companies
-  - services companies
+  - cooperation with employer of partner companies
+  - cooperation with external companies
+  - cooperation with services companies
   - launch of project
   - organazing TF
   
 This agreement is for:
-  - the protection of confidential business information between business and business or business and customer.
+  - the protection of confidential business information between business and business(B2B) or business and customer(B2C).
   - the maintainance of confidential relationship.
   
-## 임직원 정보기록
+## 임직원 정보기록/ Employer Information
 임직원 보안서약서 작성시 필수로 필요한 항목입니다.
 입사시 작성합니다. 보안서약서 항목 변경시, 기존 서명한 보안서약서를 갱신합니다.
 
-Mendatory items for NDA with employer. Employer shall draw up at the time of enterance. If necessary, company may update the document.*(어떤 문서인지 모호하다)*
+Items identified below are mendatory items for NDA with employer. Employer shall draw up at the time of enterance. If necessary, company may update the NDA.
 
 
 - 성 명
@@ -37,9 +37,9 @@ Mendatory items for NDA with employer. Employer shall draw up at the time of ent
 - signed date
 - signature
 
-## 협력업체 정보기록
+## 협력업체 정보기록/ Cooperative Firm Information
 협력업체 보안서약서 작성시 필요한 항목입니다.
-Mentatory items for NDA with cooperative firm.
+Items identified below are mendatory items for NDA with cooperative firm.
 
 - 기업명
 - 소재지
@@ -56,9 +56,9 @@ Mentatory items for NDA with cooperative firm.
 - signature list of project participant including representative
 - signed date
 
-## 외부용역인력 정보기록
+## 외부용역인력 정보기록/ External Subcontractor Information
 외부 용역인력 보안서약서 작성시 필수로 필요한 항목입니다.
-Mentatory items for NDA with external subcontractor.
+Items identified below are mendatory items for NDA with external subcontractor.
 
 - 성 명
 - 주 소
@@ -75,7 +75,7 @@ Mentatory items for NDA with external subcontractor.
 - signature
 
 
-## 75mm-studio 정보기록
+## 75mm-studio 정보기록/ 75mm-studio Information
 
 - 기업명 : 75미리스튜디오(주)
 - 소재지 : 서울시 강남구 논현로 164길 6 502호 
@@ -86,10 +86,10 @@ Mentatory items for NDA with external subcontractor.
 - name of company : 75mm Studio Co.,Ltd.
 - location : 502, 6, Nonhyeon-ro 164-gil, Gangnam-gu, Seoul, Republic of Korea
 - business registration number(Korean EID) : 110-86-18266
-- telephone No. : 02-512-7520
+- Main Contact No. : 02-512-7520
 - signature of representative: Chol Ho Chin(signature)
 
-## 보안서약서 항목
+## 보안서약서 항목/ 
 
 #### 보유정보의 비밀유지 조항
 - 적용대상 : 임직원, 첫 항목은 협력업체, 외부용역에만 표기함.
@@ -134,8 +134,8 @@ Mentatory items for NDA with external subcontractor.
 - Recipient hereby agrees as follow:
   - Recipient shall promptly return to Company all tangible items or embodiments containing or consisting of confidential information that can affect R&D, sales, asset of Company.
   - Recipient is not allowed to retain any form of duplicates including electronic copies.
-  - If Recipient shall squash the information.
-- 
+  - If the material is not able to return, recipient is obligated to elimination.
+- in accor
 
 #### 회사 정보의 자문이나 교육 금지 조항
 - 적용대상 : 임직원
