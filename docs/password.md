@@ -7,6 +7,7 @@ MPAA-related rules :
 ## 클라우드(사용자)/ Cloud(User)
 - 대문자, 소문자, 숫자, 특수문자가 포함된 8자 이상 암호 사용.
 - MFA(이중인증 시스템) 활성화
+
 Passwords shall require:
 - eight(8) characters
 - combination of english upper case letters, english lower case letters, numbers and special symbol.
