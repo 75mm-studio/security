@@ -7,7 +7,10 @@ MPAA-related rules :
 ## 클라우드(사용자)/ Cloud(User)
 - 대문자, 소문자, 숫자, 특수문자가 포함된 8자 이상 암호 사용.
 - MFA(이중인증 시스템) 활성화
-
+Passwords shall require:
+- 
+- combination of english upper case letters, english lower case letters, numbers and special symbol.
+- MFA(Multi-Factor Authentication)
 ## 클라우드(클라이언트)/ Cloud(Client)
 - 최초 암호를 부여하고 1회 로그인 이후 사용자가 암호를 변경하도록 설정
 - 90일간 사용가능한 계정으로 발급
