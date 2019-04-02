@@ -25,6 +25,7 @@ Passwords shall require:
 
 ## 인트라넷/ Intranet
 - 대문자, 소문자, 숫자, 특수문자가 포함된 8자 이상 암호 사용.
+
 Passwords for intranet shall require:
 - eight(8) characters
 - combination of english upper case letters, english lower case letters, numbers and special symbol.
@@ -38,5 +39,5 @@ Passwords for intranet shall require:
 
 >참고 : 현대 컴퓨팅 파워로는 for문을 돌리면 대문자, 숫자, 특수문자가 섞여있어도 길이가 짧다면 충분이 짧은 시간내에 깰 수 있습니다. 패스워드의 길이가 충분히 길면 보안에 더 강력합니다.
 
-Recent computing power is poweful enough to decipher the password within quite a short time if the passwords are short even passwords contains upper case letters, lower case letters, numbers and special symbol.
+>Recent computing power is poweful enough to decipher the password within quite a short time if the passwords are short even passwords contains upper case letters, lower case letters, numbers and special symbol.
 The longer the password is, the more powerful it would be.
