@@ -135,33 +135,40 @@ Items identified below are mendatory items for NDA with external subcontractor.
   - Recipient shall promptly return to Company all tangible items or embodiments containing or consisting of confidential information that can affect R&D, sales, asset of Company.
   - Recipient is not allowed to retain any form of duplicates including electronic copies.
   - If the material is not able to return, recipient is obligated to elimination.
-- in accor
+- When recipient leaves the Company, [ Article 8. Confidentiality ] of employment contract comes into effect.
 
 #### 회사 정보의 자문이나 교육 금지 조항
 - 적용대상 : 임직원
 - 본인은 통상적인 학술 활동이나 교수 활동으로서 회사의 사전 승인을 득한 경우를 제외하고는 재직중 회사의 영업비밀 또는 영업자산이 누설 될 수 있는 자문활동이나 교육활동 등을 수행하지 않겠습니다.
 
 - coverage : employer
-- 
+- Recipient shall be authorized to do any educational or consulting activity which has risk of divulgence of confidential information and assets during the term of employment, except to get prior approval from Company.
 
 #### 생성정보의 회사 소유 인정 조항
 - 적용대상 : 임직원
 - 본인은 재직 중 업무와 관련하여 취득하거나 독자적으로 또는 다른 사람과 공동으로 작성, 개발, 설계, 고안한 기술과 정보 및 이에 준하는 산출물에 관한 소유권 또는 지식재산권이 회사에 있음을 인정합니다.
 
 - coverage : employer
-- Recipient agrees 
+- Recipient acknowledges and agrees that ownership and intellectual property right of output is on Company.
+- For the purpose of this article, output means technology, information or any equivalent product that Recipient acquired, established, developed, designed, invented as a consequence of independent or collaborative work.
 
 #### 감사 수인 또는 분쟁시 회사에 대한 협조 조항
 - 적용대상 : 임직원
 - 본인은 회사가 회사에 손해를 끼칠 수 있는 기술 및 정보의 유출방지를 위하여 필요한 경우 컴퓨터 등 정보처리장치나 인터넷 등 정보통신망의 사용 내역, 회사 이메일 등 필요한 정보를 모니터링 또는 포렌식 할 수 있으며, 불법행위 또는 영업비밀 침해 우려가 있는 경우 관련 내용을 사전에 통지하지 않고 열람, 복제등을 할 수 있다는 점에 동의합니다. 본인은 재직 중 또는 퇴사 후에도 회사가 본인의 담당업무와 관련하여 법적분쟁이 발생하는 경우 회사에 적극 협조하겠습니다.
 
 - coverage : employer
+- Recipient acknowledges and agrees that:
+  - if necessary, Company may monitor or perform forensic analysis any information that Company needs to prevent divulgence of technology and confidential information, including history of information and communication network such as internet, emails.
+  - if deemed to have risk of illegal act or infringement of confidential information, Company may inspect and duplicate related contents thereof.
+-  During or after the term of employment, if legal dispute is occured related to Recipient's responsibilities, Recipient shall cooperate to Company positively.
 
 #### 전직금지 또는 겸직금지 조항
 - 적용대상 : 임직원
 - 본인은 고용중 경쟁업체나 동종업종의 회사에서 일정한 직을 수행하거나 일시적 업무등을 하지 않겠습니다. 만약 업무상 타 기업체가 본 서약서에 따른 겸업금지의 대상이 되거나 대상인지 여부가 불분명할 경우, 사전에 회사에 통보하여 회사의 확인 및 동의를 받겠습니다.
 
 - coverage : employer
+- Recipient shall not be allowed to work with a rival company or company of the same industry during the term of empolyment.
+- If it is unclear whether the company is object of prohibition,  Recipient shall get Company's confirmation and consent in advance.
 
 #### 외부 비밀정보의 보유 또는 이용 금지 조항
 - 적용대상 : 임직원, 협력업체, 외부용역
