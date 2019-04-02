@@ -174,13 +174,18 @@ Items identified below are mendatory items for NDA with external subcontractor.
 - 적용대상 : 임직원, 협력업체, 외부용역
 - 본인은 자사 또는 타사의 비밀유지의무가 있는 정보를 보유하거나 회사 업무 수행 과정외에 데이터 또는 정보를 사용시, 이로 인해서 분쟁이 발생하면 그에 대한 모든 책임을 부담하겠습니다.
 
-- coverage : employer
+- coverage : employer, cooperative firm, subcontractor
+- Recipeint shall take responsibility of dispute as a consequence of:
+  - retainment of confidential information belong to both Company and other companies.
+  - Use of data and information in the process of company affairs.
 
 #### 업무외 이용 및 사적 이용 금지 조항
 - 적용대상 : 임직원, 협력업체, 외부용역
 - 본인은 회사의 영업비밀을 비롯한 회사의 일체의 정보에 대해서 지정된 업무에 사용하는 경우를 제외하고는 어떠한 사유로도 업무 외로 또는 개인적 목적으로 사용하거나 회사 내외의 제3자에게 누설 또는 공개하지 않겠습니다.
 
-- coverage : employer
+- coverage : employer, cooperative firm, subcontractor
+- Recipient shall not allowed to:
+- 
 
 #### 위약벌 또는 손해배상액의 예정
 - 적용대상 : 임직원, 협력업체, 외부용역
@@ -192,8 +197,13 @@ Items identified below are mendatory items for NDA with external subcontractor.
 
 상기 본인은 75미리스튜디오(주) 프로젝트를 진행함에 있어 사내 보안관리지침에서 정하는 규칙을 숙지하고 보안사항을 준수할 것이며, 고의 또는 과실로 회사 이미지 또는 재산상의 손해가 발생하지 않도록 할 것을 서약합니다.
 
-- coverage : employer
-- In the case of breach, Company can claim any and all applicable legal and equitable remedies against Recipient pursuant to related Act and subordinate statute including "UNFAIR COMPETITION PREVENTION AND TRADE SECRET PROTECTION ACT", "ACT ON PROMOTION OF INFORMATION AND COMMUNICATIONS NETWORK UTILIZATION AND INFORMATION PROTECTION, ETC."
+- coverage : employer, cooperative firm, subcontractor
+- In the case of breach, Company may claim any and all applicable legal and equitable remedies against Recipient pursuant to related Act and subordinate statute including "UNFAIR COMPETITION PREVENTION AND TRADE SECRET PROTECTION ACT", "ACT ON PROMOTION OF INFORMATION AND COMMUNICATIONS NETWORK UTILIZATION AND INFORMATION PROTECTION, ETC."
+
+- If violatation of this Agreement and the amount of damages are recognized, Recipient shall compensate proved amount of damage.
+
+IN WITNESS HEREOF, Recipient hereto agrees as follows:
+  - 
 
 
 ## 방문협약이 불가능시
@@ -201,7 +211,14 @@ Items identified below are mendatory items for NDA with external subcontractor.
 
 원본을 스캔하고 PDF 사본을 E-mail을 통해서 발송합니다.
 
-## 양식 다운로드
+- 
+
+## 양식 다운로드/ Download Form
 - [보안서약서(한글) - 임직원](../pdf/nda_employ.pdf)
 - [보안서약서(한글) - 외부용역](../pdf/nda_service.pdf)
 - [보안서약서(한글) - 협력업체](../pdf/nda_partners.pdf)
+
+
+- [Non-Disclosure Agreement(Korean) - Employer](../pdf/nda_employ.pdf)
+- [Non-Disclosure Agreement(Korean) - Subcontractor](../pdf/nda_service.pdf)
+- [Non-Disclosure Agreement(Korean) - Cooperative Firm](../pdf/nda_partners.pdf)
