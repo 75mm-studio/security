@@ -184,7 +184,7 @@ Items identified below are mendatory items for NDA with external subcontractor.
 - 본인은 회사의 영업비밀을 비롯한 회사의 일체의 정보에 대해서 지정된 업무에 사용하는 경우를 제외하고는 어떠한 사유로도 업무 외로 또는 개인적 목적으로 사용하거나 회사 내외의 제3자에게 누설 또는 공개하지 않겠습니다.
 
 - coverage : employer, cooperative firm, subcontractor
-- Recipient shall not allowed to:
+- Recipient shall not allowed to: in any reason including private purpose
 - 
 
 #### 위약벌 또는 손해배상액의 예정
