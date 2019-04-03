@@ -1,7 +1,8 @@
-# 클라이언트 컴퓨터,장비 정책
+# 클라이언트 컴퓨터,장비 정책 / Client Computer and Device Policy
 아티스트 컴퓨터 보안정책입니다.
-
 MPAA 보안규칙 : DS-2.0, DS-5.1, DS-6.7, DS-10.3, DS-10.8, DS-11.5, MS-4.3
+
+This is document for artist computer security policy.
 
 ## Linux
 - 작업자 PC는 인터넷이 허용되지 않습니다.
@@ -13,6 +14,9 @@ MPAA 보안규칙 : DS-2.0, DS-5.1, DS-6.7, DS-10.3, DS-10.8, DS-11.5, MS-4.3
 - Root는 시스템관리자만 접근할 수 있습니다.
 - 물리적인 USB 접근이 허용되지 않도록 설정되어 있습니다.
 - USB포트에 보안씰이 부착되어 있습니다.
+
+- PC of artist shall not be connected to the internet.
+- The project data shall not be stored on local disk. All data shall be stored on the storage.
 
 ## Windows
 - 회계PC : 프린터 용도 이외에 모든 데이터는 USB에 저장, 따로 보관합니다.
