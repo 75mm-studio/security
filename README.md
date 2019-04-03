@@ -59,7 +59,7 @@ This document will be updated in the the case of occurence of security issues in
 
 - Chol Ho Chin(main) +82-10-5316-2746
 - Hyuk Ko(vice) +82-10-6306-4784
-- *최원준*(vice) +82-10-5800-1134
+- Won Jun Choi(vice) +82-10-5800-1134
 
 ## 작성기준/Documentation Guidlines
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/MPAA.jpg" width="150">
