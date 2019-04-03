@@ -4,7 +4,7 @@
 
 이 리포지터리는 임직원, 협력업체의 보안 교육목적으로 작성합니다.
 
-이 문서는 회사 구조의 변경, 업무장비, 서버장비, 네트워크 장비가 추가되어 보안이슈가 발생할 때마다 주기적으로 갱신됩니다.
+이 문서는 회사에서 업무용 장비, 서버장비, 네트워크 장비, 보안관련 담당자 변경등 보안이슈가 발생할 때마다 주기적으로 갱신됩니다.
 
 This document is about security policy of  75mm Studio Co.,Ltd..
 This repository is written for the purpose of security education of employer and cooperative firm.
