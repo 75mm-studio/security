@@ -18,7 +18,8 @@ This agreement is for:
   
 ## 임직원 정보기록/ Employer Information
 임직원 보안서약서 작성시 필수로 필요한 항목입니다.
-입사시 작성합니다. 보안서약서 항목 변경시, 기존 서명한 보안서약서를 갱신합니다.
+입사시 작성합니다.
+보안서약서 항목 변경시 변경된 항목을 구두로 알리고 기존 서명한 보안서약서를 갱신합니다.
 
 Items identified below are mendatory items for NDA with employer. Employer shall draw up at the time of enterance. If necessary, company may update the NDA.
 
