@@ -21,8 +21,7 @@ MPAA-related rule : DS-3.0, MS-6.0, DS-1.6
 - Only authorized sever manager whose fingerprint is enrolled may access to server room.
 - Server manager shall pass 3-step verification to access server room.
 - Server room is recorded via CCTV.
-- () can watch server room in real time via mobile application.
-(*서버룸을 볼 수 있는 권한이 있는 사람을 특정짓기*)
+- Security official(main) can watch server room in real time via mobile application.
 
 ## 인터넷/Internet
 - 손님용 Wifi를 이용해서 인터넷 사용이 가능합니다.
