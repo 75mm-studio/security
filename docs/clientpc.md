@@ -3,6 +3,7 @@
 MPAA 보안규칙 : DS-2.0, DS-5.1, DS-6.7, DS-10.3, DS-10.8, DS-11.5, MS-4.3
 
 This is document for artist computer security policy.
+MPAA-related rule : DS-2.0, DS-5.1, DS-6.7, DS-10.3, DS-10.8, DS-11.5, MS-4.3
 
 ## Linux
 - 작업자 PC는 인터넷이 허용되지 않습니다.
