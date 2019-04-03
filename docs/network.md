@@ -8,6 +8,7 @@ MPAA-related rule : DS-3.0, MS-6.0, DS-1.6
 ## 방화벽/Firewall
 - 담당업체 : 아이티레이
 - 외부에서 방화벽을 원격관리 할 수 없도록 한다. DS-1.6
+- 외부에서 인터넷라인에 대해서 ping을 할 수 없도로 설정함.
 
 - Subcontractor : ITRAY (*홈페이지가 유지보수중이라 정확한 명칭은 아직 모름*)
 - Firewall shall not be managed in remote environment outside the company. DS-1.6
