@@ -220,11 +220,6 @@ Recipient hereto agrees as follows:
 - scan original copy and send duplicate in PDF form via E-mail.
 
 ## 양식 다운로드/ Download Form
-- [보안서약서(한글) - 임직원](../pdf/nda_employ.pdf)
-- [보안서약서(한글) - 외부용역](../pdf/nda_service.pdf)
-- [보안서약서(한글) - 협력업체](../pdf/nda_partners.pdf)
-
-
-- [Non-Disclosure Agreement(Korean) - Employer](../pdf/nda_employ.pdf)
-- [Non-Disclosure Agreement(Korean) - Subcontractor](../pdf/nda_service.pdf)
-- [Non-Disclosure Agreement(Korean) - Cooperative Firm](../pdf/nda_partners.pdf)
+- [보안서약서(한글) - 임직원](../pdf/nda_employ.pdf)  : Non-Disclosure Agreement(Korean) - Employer
+- [보안서약서(한글) - 외부용역](../pdf/nda_service.pdf) : Non-Disclosure Agreement(Korean) - Subcontractor
+- [보안서약서(한글) - 협력업체](../pdf/nda_partners.pdf) : Non-Disclosure Agreement(Korean) - Cooperative Firm
