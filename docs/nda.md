@@ -21,7 +21,7 @@ This agreement is for:
 입사시 작성합니다.
 보안서약서 항목 변경시 변경된 항목을 구두로 알리고 기존 서명한 보안서약서를 갱신합니다.
 
-Items identified below are mendatory items for NDA with employer. Employer shall draw up at the time of enterance. If necessary, company may update the NDA.
+Items identified below are mendatory items for NDA with employer. Employer shall draw up at the time of enterance. If necessary, company may update the NDA. Company shall orally imform the update to Recipient in advance.
 
 
 - 성 명
