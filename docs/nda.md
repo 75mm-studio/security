@@ -18,7 +18,8 @@ This agreement is for:
   
 ## 임직원 정보기록/ Employer Information
 임직원 보안서약서 작성시 필수로 필요한 항목입니다.
-입사시 작성합니다. 보안서약서 항목 변경시, 기존 서명한 보안서약서를 갱신합니다.
+입사시 작성합니다.
+보안서약서 항목 변경시 변경된 항목을 구두로 알리고 기존 서명한 보안서약서를 갱신합니다.
 
 Items identified below are mendatory items for NDA with employer. Employer shall draw up at the time of enterance. If necessary, company may update the NDA.
 
@@ -91,14 +92,22 @@ Items identified below are mendatory items for NDA with external subcontractor.
 
 ## 보안서약서 항목/NDA Articles
 
-#### 보유정보의 비밀유지 조항/ 
-- 적용대상 : 임직원, 첫 항목은 협력업체, 외부용역에만 표기함.
+#### 보유정보의 비밀유지 조항(임직원 항목) / 
+- 적용대상 : 임직원
 - 회사에서 진행하는 모든 프로젝트 정보를 외부에 공개, 발설하지 않습니다.
 - 본인은 75미리스튜디오(주)의 영업비밀 또는 회사의 정보에 대하여 재직중 또는 퇴사 이후에도 비밀을 유지할 것을 맹세합니다.
 
 - coverage : employer
 - Recipient shall not divulge confidential information outside the company.
 - Recipient agrees to maintain all confidential information of 75mm Studio Co.,Ltd. in strict confidence during or after the term of employment.
+
+#### 보유정보의 비밀유지 조항(협력업체, 외부용역 항목) /
+- 적용대상 : 협력업체, 외부용역
+- 회사에서 진행하는 모든 프로젝트 정보를 외부에 공개, 발설하지 않습니다.
+
+- coverage : cooperative firm, subcontractor
+- Recipient shall not divulge confidential information outside the company.
+
 
 #### 권한 외 접근이나 출입 금지 조항
 - 적용대상 : 임직원

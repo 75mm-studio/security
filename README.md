@@ -4,7 +4,7 @@
 
 이 리포지터리는 임직원, 협력업체의 보안 교육목적으로 작성합니다.
 
-이 문서는 회사 구조의 변경, 업무장비, 서버장비, 네트워크 장비가 추가되어 보안이슈가 발생할 때마다 주기적으로 갱신됩니다.
+이 문서는 회사에서 업무용 장비, 서버장비, 네트워크 장비, 보안관련 담당자 변경등 보안이슈가 발생할 때마다 주기적으로 갱신됩니다.
 
 This document is about security policy of  75mm Studio Co.,Ltd..
 This repository is written for the purpose of security education of employer and cooperative firm.
@@ -59,7 +59,7 @@ This document will be updated in the the case of occurence of security issues in
 
 - Chol Ho Chin(main) +82-10-5316-2746
 - Hyuk Ko(vice) +82-10-6306-4784
-- *최원준*(vice) +82-10-5800-1134
+- Won Jun Choi(vice) +82-10-5800-1134
 
 ## 작성기준/Documentation Guidlines
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/MPAA.jpg" width="150">

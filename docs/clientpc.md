@@ -1,4 +1,4 @@
-# 클라이언트 컴퓨터,장비 정책 / Client Computer and Device Policy
+# 클라이언트 컴퓨터,장비 정책 / Client Computer and Equipment Policy
 아티스트 컴퓨터 보안정책입니다.
 MPAA 보안규칙 : DS-2.0, DS-5.1, DS-6.7, DS-10.3, DS-10.8, DS-11.5, MS-4.3
 
@@ -52,4 +52,5 @@ MPAA-related rule : DS-2.0, DS-5.1, DS-6.7, DS-10.3, DS-10.8, DS-11.5, MS-4.3
 
 ## 특이사항/ Remark
 - 매치무브 소프트웨어 3D이퀄라이저는 인증을 위해서 최초 1회 인터넷 연결합니다. 보안담당자의 관리하에 인증을 진행합니다.
-- For the purpose of authentication, the 3D equalizer, Match Move software, shall be connected to the internet once for the first time. - The authentication shall proceed under the security official' control.
+- For the purpose of authentication, the 3D equalizer, Match Move software, shall be connected to the internet once for the first time.
+- The authentication shall proceed under the security official's control.
