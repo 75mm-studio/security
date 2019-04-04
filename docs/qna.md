@@ -1,16 +1,21 @@
 콘텐츠 제작시 클라이언트 측에서 보안이슈 관련으로 75미리스튜디오(주)에 자주 물어보는 질문에 대한 답변입니다.
 These are frequently asked question in regard to security issues.
 
-### 당사는 보안전문 회사에 가입되어있습니까?/ Is the Company affiliated to security 
+### 당사는 보안전문 회사에 가입되어있습니까?/ Is the Company affiliated with security specialist?
 
 - KT 텔레캅으로 관리되고 있습니다.
+- The Company is managed by kt telecop Co., Ltd.
 
-### 당사는 기밀 데이터 및 정보를 보안하기 위한 체계로서 서면으로 작성된 정책 그리고 행정수칙이있습니까? 있다면 그 정책 문서를 제공할 수 있습니까?
+### 당사는 기밀 데이터 및 정보를 보안하기 위한 체계로서 서면으로 작성된 정책 그리고 행정수칙이있습니까? 있다면 그 정책 문서를 제공할 수 있습니까?/ Is there written policy and administrative intruction for security of confidential data and information? If so, is that document available to read?
 
 - 현재 접근하고 있는 문서는 75미리스튜디오(주) 회사 보안 정책 문서입니다.
 - 이 문서(리포지터리)를 통해서 입사자 보안교육, 협력사 보안교육, 고객에게 보안정책을 전달하고 있습니다.
 
-### 현재 모든 피고용인들은 정보 보안에 대해 충분한 교육이 되어있습니까? 구체적으로 어떻게 되고 있는지 설명해주세요.
+- This repository is the document for security policy of the Company.
+- With this document(repository), the Company instruct security awareness training for employee and cooperative firm.
+- Customers can get information about security policy of the Company from this document.
+
+### 현재 모든 피고용인들은 정보 보안에 대해 충분한 교육이 되어있습니까? 구체적으로 어떻게 되고 있는지 설명해주세요./Are all the employees fully trained for information security? Explain how the education
 
 - 현재 접근하고 있는 문서를 통해서 입사 보안교육을 진행합니다.
 - 보안 위배시 회사 [징계조치사항](security_disciplinary_action.md)을 따릅니다.
@@ -88,7 +93,7 @@ These are frequently asked question in regard to security issues.
 - 사업 연속성을 위해 클라우드에(AWS S3 Glaciar) 백업합니다.
 - 복원에 걸리는 시간은 요청 이후 24~48시간 이내입니다.
 
-### 당사는 중대한 보안 및 비즈니스 문제로 인해 사고가 발생했을 경우, 그리고 그러한 경우로 딜리버리에 잠재적으로 영향을 미칠 수 있을 경우, 클라이언트에게 공지하고 알리는 방식을 기술하는 수칙이 있습니까? 구체적으로 설명해주세요.
+### 당사는 중대한 보안 및 비즈니스 문제로 인해 사고가 발생했을 경우, 그리고 해당 사고로 인해 딜리버리에 잠재적으로 영향을 미칠 수 있을 경우, 클라이언트에게 공지하고 알리는 방식을 기술하는 수칙이 있습니까? 구체적으로 설명해주세요.
 
 - 클라이언트의 In/Out 데이터는 클라우드에 보관합니다. 불의의 사고에 따른 사업연속성을 유지하기 위해 사용합니다.
 - 마감일을 지키지 못했을 경우 처리사항은 75미리스튜디오(주)와 클라이언트간 상호간 논의가 필요합니다.
