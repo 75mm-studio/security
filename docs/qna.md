@@ -72,7 +72,7 @@ These are frequently asked question in regard to security issues.
 - 윈도우즈 : 1대 프린터 용도로만 사용함(무료 백신 설치)
 
 - linux : Because linux is seperated from network, it does not need vaccine software.
-- windows : Only one PC is operating windows for printing. And free vaccine software is installed.
+- windows : Only one PC is operating windows for the purpose of printing. And free vaccine software is installed.
 
 ### 작업자들이 기밀 정보 및 데이터들을 권한없이 삭제가 불가능하도록 어떠한 조치를 취하고 있는지 설명해주십시오. 이는 이메일 용량 제한이라던가, usb제한, 네트워크 세그먼트, 인터넷/프록시 방화벽과 같은 조치를 포함합니다. /What measures does Company take to prevent workers from deletion of confidential information and data without authority?(Measures are including setting limit on email attachment, constraint of USB, network segment and internet/proxy firewall and so on.)
 
@@ -100,18 +100,28 @@ These are frequently asked question in regard to security issues.
 - IN/OUT data of client is uploaded on AWS Cloud.
 - Only authorized person can appoach to the cloud server through personal account and MFA(Multi Factored Authentication)
 
-### 당사는 모든 작업자 및 시스템 레벨 패스워드에 대해 강제성을 갖는 최소한의 규정 정책이 설계되어 있습니까?/ Is there minimul password policy ? 
+### 당사는 모든 작업자 및 시스템 레벨 패스워드에 대해 강제성을 갖는 최소한의 규정 정책이 설계되어 있습니까?/ Is there minimul password policy which have compulsion on every worker and system? 
 
 - 클라우드 : 숫자, 특수문자, 대문자, 소문자가 섞인 8자 이상의 암호 + MFA(이중인증시스템)을 사용합니다.
 - 내부네트워크 : 숫자, 특수문자, 대문자, 소문자가 섞인 8자 이상의 암호 사용합니다.
 
-### 당사는 무선 네트워크 기술을 사용하고 있습니까? 만약에 그렇다면, 기밀 데이터와 무선 네트워크 사이에 어떠한 보안 체계가 갖춰져 있는지 설명해주십시오.
+- password for cloud requires:
+  - eight(8) or more characters
+  - combination of english upper case letters, english lower case letters, numbers and special symbol.
+  - MFA(Multi-Factor Authentication)
+- password for inner network requires:
+  - eight(8) or more characters
+  - combination of english upper case letters, english lower case letters, numbers and special symbol.
+  
+### 당사는 무선 네트워크 기술을 사용하고 있습니까? 만약에 그렇다면, 기밀 데이터와 무선 네트워크 사이에 어떠한 보안 체계가 갖춰져 있는지 설명해주십시오./ Is Company using wireless network technology? If so, please explain Company's security system for confidential data to protect from wireless network.
 
 - 내부에 손님용 Wifi와 직원용 Wifi를 운용하고 있습니다. 작업하는 네트워크와 완전 분리되어 있습니다.
+- Wifi is managed with guest Wifi and Wifi for employees. Working network is seperated safely.
 
-### 모든 프로덕션 데이터는 FTP, Aspera이나 혹은 개인 네트워크를 통한 보안 솔루션을 이용하여 전송됩니까? 현재 사용하고 있는 모든 데이터 전송 메소드를 리스트로 작성해주시기 바랍니다.
+### 모든 프로덕션 데이터는 FTP, Aspera이나 혹은 개인 네트워크를 통한 보안 솔루션을 이용하여 전송됩니까? 현재 사용하고 있는 모든 데이터 전송 메소드를 리스트로 작성해주시기 바랍니다./ Are production data transmitted through security solution such as FTP, Aspera or private network? What kind of data transmission method does company use?
 
 - AWS IAM(인증시스템) + S3(스토리지) 로만 데이터를 전송합니다. (AWS 보안정책은 기본적으로 MPAA 기준을 준수합니다. : https://aws.amazon.com/ko/compliance/mpaa/)
+- Every data is only transmitted through AWS IAM(authentication system) and S3(storage)(AWS security policies are following MPAA. : https://aws.amazon.com/ko/compliance/mpaa/)
 
 ### 만약, 프로덕션 데이터를 물리적으로 옮길 경우, 해당 드라이버를 암호화하나요? 원거리 작업자에게는 그 보안키는 어떻게 넘기나요? 물리적으로 데이터를 넘기는 수칙을 설명해주시기 바랍니다.
 
