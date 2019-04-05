@@ -15,51 +15,73 @@ These are frequently asked question in regard to security issues.
 - With this document(repository), the Company instruct security awareness training for employee and cooperative firm.
 - Customers can get information about security policy of the Company from this document.
 
-### 현재 모든 피고용인들은 정보 보안에 대해 충분한 교육이 되어있습니까? 구체적으로 어떻게 되고 있는지 설명해주세요./Are all the employees fully trained for information security? Explain how the education
+### 현재 모든 피고용인들은 정보 보안에 대해 충분한 교육이 되어있습니까? 구체적으로 어떻게 되고 있는지 설명해주세요./Are all the employees fully trained for information security? Explain how the education is going
 
 - 현재 접근하고 있는 문서를 통해서 입사 보안교육을 진행합니다.
 - 보안 위배시 회사 [징계조치사항](security_disciplinary_action.md)을 따릅니다.
 
-### 당사는 정보 보안 정책 조항 안에 워크스테이션, 서버, 네트워크 장비, 그리고 전문 장비에 관련하여 행동수칙이 설정되어 있습니까?
+- Information security education is progressed with this document(repository).
+- If a employee violates the security policy, the employee shall follow [Discipline and Sanction Policy](security_disciplinary_action.md).
+
+### 당사는 정보 보안 정책 조항 안에 워크스테이션, 서버, 네트워크 장비, 그리고 전문 장비에 관련하여 행동수칙이 설정되어 있습니까?/ Is code of conduct included in information security policy of Company? And does it covers workstation, server, network equipment and other technical equipment.
 
 - 인터넷망과 작업을 위한 내부 인트라넷 네트워크는 물리적으로 분리되어 있습니다.
 - 아티스트 워크스테이션은 리눅스로 사용하며 기본적으로 USB 접근제한이 걸려있습니다. 인터넷을 물리적으로 사용할 수 없습니다.
 - 서버실은 관리자가 총 3번의 생체인식(지문)을 통해서 접근할 수 있습니다. 항시 CCTV 녹화가 진행중입니다.
 
-### 당사는 작업자에게 작업에 관련한 부분에 한에서 엑세스 권한를 부여합니까? 구체적으로 설명해주십시오.
+- Internet network and inner intranet network for task is physically seperated.
+- Workstation for artist uses linux and is not allow to use USB. Also Workstation for artist cannot be connected to internet physically.
+- Only administrator can access to the server room through three times of biometrics(fingerprint). Server room is recorded around the clock through CCTV.
+
+### 당사는 작업자에게 작업에 관련한 부분에 한에서 엑세스 권한를 부여합니까? 구체적으로 설명해주십시오./ How many authority dose the worker have in regard to project?
 
 - 해당 프로젝트만 접근할 수 있도록 권한 부여하고 있습니다.
+- Employees only can access to ongoing project.
 
-### 당사는 피고용자, 계약자, 그리고 다른 서드파티에게 기밀 혹은 비공개 동의서를 작성합니까?
+### 당사는 피고용자, 계약자, 그리고 다른 서드파티에게 기밀 혹은 비공개 동의서를 작성합니까?/ does the Company get NDA from employees, contractor and other third parties?
 
 - 보안교육, 보안 서약서(NDA)를 작성합니다.
+- Company conduct a security education and also get NDA in advance.
 
-### 당사는 비즈니스적, 혹은 사적 방문자에게 해당하는 문서화된 정책이 있습니까? 구체적으로 설명해주십시오.
+### 당사는 비즈니스적, 혹은 사적 방문자에게 해당하는 문서화된 정책이 있습니까? 구체적으로 설명해주십시오./ Is there written policy for visitors?
 
 - 사내 [방문객 보안절차](guest.md)를 따라 보안절차를 진행합니다.
+- For visitors, Company proceed security procedure in accordance with [Visitor Security Policy](guest.md).
 
-### 당사는 보안, 안전, 원거리 알림이 가능한 재난경보 시스템이 구축되어 있습니까? 그 시스템은 정기적으로 점검되고 있습니까? 구체적으로 설명해주십시오.
+### 당사는 보안, 안전, 원거리 알림이 가능한 재난경보 시스템이 구축되어 있습니까? 그 시스템은 정기적으로 점검되고 있습니까? 구체적으로 설명해주십시오./Is there disaster alert system? If so, is it checked regularly?
 
 - 올레 CCTV 텔레캅으로 사무실 감시 시스템 운용을 하고 있습니다.
 - 화재 경보기 시스템이 구축되어 있습니다.
 
-### 당사는 데이터 스토리지 장비들이 감시 및 제한된 출입 체계를 갖춘 보안성이 보장되는 방이나 데이터 센터망안에 있습니까? 구체적으로 설명해주십시오.
+- Office monitoring system is managed with olleh cctv telecop.
+- Fire alarm system is setted up.
+
+### 당사는 데이터 스토리지 장비들이 감시 및 제한된 출입 체계를 갖춘 보안성이 보장되는 방이나 데이터 센터망안에 있습니까? 구체적으로 설명해주십시오./ are data storages in the secure place with strict access and monitoring system?
 
 - 서버실은 총 3번의 생체인증(지문)을 거쳐야 접근이 가능한 구조로 되어있습니다.
 - CCTV 가 작동되고 있습니다.
 - 고객 데이터, 백업은 사업의 연속성을 위해서 AWS Cloud에 백업하고 있습니다.
 
+- Server room can be accessed through three times of biometrics(fingerprint).
+- Server room is recorded around the clock through CCTV.
+- Client data and backup data are being backed up on AWS Cloud for the business continuity.
 
-### 워크스테이션과 서버들은 안티바이러스, 안티스파이웨어 프로그램이 설치되어 있습니까? 구체적으로 설명해주십시오.
+### 워크스테이션과 서버들은 안티바이러스, 안티스파이웨어 프로그램이 설치되어 있습니까? 구체적으로 설명해주십시오./ Are Anti-virus and Anti-spyware softwares installed on workstation and server?
 
 - 리눅스 : 망분리로 백신 필요없음
 - 윈도우즈 : 1대 프린터 용도로만 사용함(무료 백신 설치)
 
-### 작업자들이 기밀 정보 및 데이터들을 권한없이 삭제가 불가능하도록 어떠한 조치를 취하고 있는지 설명해주십시오. 이는 이메일 용량 제한이라던가, usb제한, 네트워크 세그먼트, 인터넷/프록시 방화벽과 같은 조치를 포함합니다. 
+- linux : Because linux is seperated from network, it does not need vaccine software.
+- windows : Only one PC is operating windows for printing. And free vaccine software is installed.
+
+### 작업자들이 기밀 정보 및 데이터들을 권한없이 삭제가 불가능하도록 어떠한 조치를 취하고 있는지 설명해주십시오. 이는 이메일 용량 제한이라던가, usb제한, 네트워크 세그먼트, 인터넷/프록시 방화벽과 같은 조치를 포함합니다. /What measures does Company take to prevent workers from deletion of confidential information and data without authority?(Measures are including setting limit on email attachment, constraint of USB, network segment and internet/proxy firewall and so on.)
 
 - 메일은 mailgun을 이용해서 메일 포워딩서비스를 사용하고 있습니다. 첨부파일 최대 사이즈는 25메가로 제한하여 사용중입니다.
 - 리눅스를 사용하는 작업자 컴퓨터는 USB 포트에 보안씰이 설치되어있습니다. 소프트웨어적으로 USB 스토리지 타입이 연결되지 않습니다.
 - 인터넷망과 내부 작업망은 물리적으로 분리되어있습니다.
+
+- Company uses mail forwarding service from mailgun. Maximum size of Email attachment is limited to 25MB.
+- 
 
 ### 당사는 노트북이나, 모바일 장비를 프로덕션 작업 목적으로 사용하고 있습니까? 만약 이 디바이스들을 분실할 경우, 기밀 정보 유출을 막기 위해 어떤 조치를 취하고 있는지 설명해주세요.
 
