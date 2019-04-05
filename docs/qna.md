@@ -123,16 +123,27 @@ These are frequently asked question in regard to security issues.
 - AWS IAM(인증시스템) + S3(스토리지) 로만 데이터를 전송합니다. (AWS 보안정책은 기본적으로 MPAA 기준을 준수합니다. : https://aws.amazon.com/ko/compliance/mpaa/)
 - Every data is only transmitted through AWS IAM(authentication system) and S3(storage)(AWS security policies are following MPAA. : https://aws.amazon.com/ko/compliance/mpaa/)
 
-### 만약, 프로덕션 데이터를 물리적으로 옮길 경우, 해당 드라이버를 암호화하나요? 원거리 작업자에게는 그 보안키는 어떻게 넘기나요? 물리적으로 데이터를 넘기는 수칙을 설명해주시기 바랍니다.
+### 만약, 프로덕션 데이터를 물리적으로 옮길 경우, 해당 드라이버를 암호화하나요? 원거리 작업자에게는 그 보안키는 어떻게 넘기나요? 물리적으로 데이터를 넘기는 수칙을 설명해주시기 바랍니다./ If the Production data is physically moved to the driver, do you encrypt this driver? Can you explain how to give the security key to the worker who is in remote? Please explicate about the regulations of physically moving.
+
 
 - 최대한 물리적인 상황을 피하고 있습니다. 클라이언트에게 AWS S3로 데이터를 업로드하는 것은 권고하고 있습니다.
 
-### 당사는 데이터를 어떻게 백업하는지, 그리고 불의의 사고로 데이터를 유실할 때 복원을 하는 메소드를 기술해주세요. 그리고 또 복원하는데 걸리는 시간도 포함해서 설명해주십시오.
+- We avoid a physical moving of data. We suggest the client to upload the data on the AWS S3. 
+
+
+### 당사는 데이터를 어떻게 백업하는지, 그리고 불의의 사고로 데이터를 유실할 때 복원을 하는 메소드를 기술해주세요. 그리고 또 복원하는데 걸리는 시간도 포함해서 설명해주십시오./ Please describe how Company back up the data and the method to restore the data in the case of data loss by an unexpected accident. and how long does it take to restore?
 
 - 사업 연속성을 위해 클라우드에(AWS S3 Glaciar) 백업합니다.
 - 복원에 걸리는 시간은 요청 이후 24~48시간 이내입니다.
+
+- The data is backed up to the Cloud, AWS S3 Glaciar for the business continuity.
+- After the request, data restoration is completed within 24-48 hours.
 
 ### 당사는 중대한 보안 및 비즈니스 문제로 인해 사고가 발생했을 경우, 그리고 해당 사고로 인해 딜리버리에 잠재적으로 영향을 미칠 수 있을 경우, 클라이언트에게 공지하고 알리는 방식을 기술하는 수칙이 있습니까? 구체적으로 설명해주세요.
 
 - 클라이언트의 In/Out 데이터는 클라우드에 보관합니다. 불의의 사고에 따른 사업연속성을 유지하기 위해 사용합니다.
 - 마감일을 지키지 못했을 경우 처리사항은 75미리스튜디오(주)와 클라이언트간 상호간 논의가 필요합니다.
+
+- IN/OUT data of client is uploaded on Cloud. Company uses cloud to keep business continuity even in the case of an unexpected accident.
+- If fails to keep the deadline, 75mm Studio, Inc and the client need to discuss how to handle the issue.
+
