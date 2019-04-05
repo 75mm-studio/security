@@ -81,19 +81,26 @@ These are frequently asked question in regard to security issues.
 - 인터넷망과 내부 작업망은 물리적으로 분리되어있습니다.
 
 - Company uses mail forwarding service from mailgun. Maximum size of Email attachment is limited to 25MB.
-- 
+- All the computer using linux is forced to attach security seal on USB port. USB strorage type cannot be conntected by software.
+- Internet network and inner working network is physically seperated.
 
-### 당사는 노트북이나, 모바일 장비를 프로덕션 작업 목적으로 사용하고 있습니까? 만약 이 디바이스들을 분실할 경우, 기밀 정보 유출을 막기 위해 어떤 조치를 취하고 있는지 설명해주세요.
+### 당사는 노트북이나, 모바일 장비를 프로덕션 작업 목적으로 사용하고 있습니까? 만약 이 디바이스들을 분실할 경우, 기밀 정보 유출을 막기 위해 어떤 조치를 취하고 있는지 설명해주세요./ Are laptops and mobile devices used to working on producion? In the case of loss of these devices, what measures dose the Company take?
 
 - 사내에서 사용하는 노트북은 모든 포트에 보안씰을 붙혀서 사용하고 있습니다.
 - 휴대폰은 카메라 보안씰을 붙혀서 사용하고 있습니다.
 
-### 당사는 피고용인에게 클라이언트 데이터를, 개인 장비를 통해 온라인이나 오프라인으로 저장할 수 있도록 허용하고 있습니까?
+- Every laptop used in the office are forced to attach security seal on every port.
+- Security seals are attached to cameras of mobile device.
+
+### 당사는 피고용인에게 클라이언트 데이터를, 개인 장비를 통해 온라인이나 오프라인으로 저장할 수 있도록 허용하고 있습니까?/ Does Company allow employer to store client data through personal electronics?
 
 - 클라이언트 IN/OUT 데이터는 AWS 클라우드에 업로드 합니다.
 - 권한이 있는 사람만 개인계정 + MFA(이중인증시스템)으로 다운로드 할 수 있습니다.
 
-### 당사는 모든 작업자 및 시스템 레벨 패스워드에 대해 강제성을 갖는 최소한의 규정 정책이 설계되어 있습니까?
+- IN/OUT data of client is uploaded on AWS Cloud.
+- Only authorized person can appoach to the cloud server through personal account and MFA(Multi Factored Authentication)
+
+### 당사는 모든 작업자 및 시스템 레벨 패스워드에 대해 강제성을 갖는 최소한의 규정 정책이 설계되어 있습니까?/ Is there minimul password policy ? 
 
 - 클라우드 : 숫자, 특수문자, 대문자, 소문자가 섞인 8자 이상의 암호 + MFA(이중인증시스템)을 사용합니다.
 - 내부네트워크 : 숫자, 특수문자, 대문자, 소문자가 섞인 8자 이상의 암호 사용합니다.
