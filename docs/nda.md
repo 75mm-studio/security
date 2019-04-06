@@ -21,7 +21,7 @@ This agreement is for:
 입사시 작성합니다.
 보안서약서 항목 변경시 변경된 항목을 구두로 알리고 기존 서명한 보안서약서를 갱신합니다.
 
-Items identified below are mendatory for NDA with employer. Employer shall draw up at the time of enterance. If necessary, company may update the NDA. Company shall orally imform the update to employer in advance.
+Items identified below are mendatory for NDA with employer. Employer shall draw up at the time of enterance. If necessary, company may update the NDA. Company shall orally inform the update to employer in advance.
 
 
 - 성 명
@@ -179,7 +179,7 @@ Items identified below are mendatory for NDA with external subcontractor.
 - Recipient shall not be allowed to work with a rival company or company of the same industry during the term of empolyment.
 - If it is unclear whether the company is object of prohibition,  Recipient shall get Company's confirmation and consent in advance.
 
-#### 외부 비밀정보의 보유 또는 이용 금지 조항
+#### 외부 비밀정보의 보유 또는 이용 금지 조항/Prohibition of Retainment and Utilization of Confitential Information
 - 적용대상 : 임직원, 협력업체, 외부용역
 - 본인은 자사 또는 타사의 비밀유지의무가 있는 정보를 보유하거나 회사 업무 수행 과정외에 데이터 또는 정보를 사용시, 이로 인해서 분쟁이 발생하면 그에 대한 모든 책임을 부담하겠습니다.
 
@@ -188,7 +188,7 @@ Items identified below are mendatory for NDA with external subcontractor.
   - Recipeint's retainment of confidential information belong to both Company and other companies.
   - Recipeint's use of data and information in the process of company affairs.
 
-#### 업무외 이용 및 사적 이용 금지 조항
+#### 업무외 이용 및 사적 이용 금지 조항/Prohibition of Utilizing Confidential Information in Non-Business Reason
 - 적용대상 : 임직원, 협력업체, 외부용역
 - 본인은 회사의 영업비밀을 비롯한 회사의 일체의 정보에 대해서 지정된 업무에 사용하는 경우를 제외하고는 어떠한 사유로도 업무 외로 또는 개인적 목적으로 사용하거나 회사 내외의 제3자에게 누설 또는 공개하지 않겠습니다.
 
@@ -196,7 +196,7 @@ Items identified below are mendatory for NDA with external subcontractor.
 - For any purpose except for the business purpose assigned to Recipient, Recipient shall not divulge any form of Company's information including business secret to the third parties in or out of company.
 - Recipient shall not be allowed to use any form of Company's information thereof for Recipient's own purpose.
 
-#### 위약벌 또는 손해배상액의 예정
+#### 위약벌 또는 손해배상액의 예정/Caculation of Penalty for Breach of Contract and Amount of Compensation
 - 적용대상 : 임직원, 협력업체, 외부용역
 - 보안사항을 위반하였을 경우에는 문제의 경중을 논하여 "부정경쟁방지 및 영업비밀보호에 관한 법률", "정보통신망 이용촉진 및 정보보호 등에 관한 법률" 등 관련법령에 의한 민·형사상의 책임 이외에도, 회사에 끼친 손해에 대해 변상을 회사가 요구할 수 있습니다.
 
@@ -209,24 +209,24 @@ Items identified below are mendatory for NDA with external subcontractor.
 - coverage : employer, cooperative firm, subcontractor
 - In the case of breach, Reciepent acknowledges and agrees that:
   - Company may claim any and all applicable legal and equitable remedies against Recipient
-  - Company may impose civil and criminal liabilities.
-  pursuant to related Act and subordinate statute including "UNFAIR COMPETITION PREVENTION AND TRADE SECRET PROTECTION ACT", "ACT ON PROMOTION OF INFORMATION AND COMMUNICATIONS NETWORK UTILIZATION AND INFORMATION PROTECTION, ETC."
+  - Company may impose civil and criminal liabilities
+  pursuant to related Act and subordinate statute including "UNFAIR COMPETITION PREVENTION AND TRADE SECRET PROTECTION ACT", "ACT ON PROMOTION OF INFORMATION AND COMMUNICATIONS NETWORK UTILIZATION AND INFORMATION PROTECTION", ETC.
 
-- If violatation of this Agreement and the amount of damages are recognized, Recipient shall compensate proved amount of damage.
+- If violation of this Agreement and the amount of damages are recognized, Recipient shall compensate proved amount of damage.
 
 Recipient hereto agrees as follows:
   - Recipient shall acquaint internal security policy.
   - Recipient shall abide by clauses of internal security policy.
-  - Whether by intention of negligence, Recipient shall try not to damage corporate imago and propety of Company.
+  - Whether by intention or negligence, Recipient shall try not to damage corporate imago and propety of Company.
 
 
-## 방문협약이 불가능시
+## 방문협약이 불가능시/If Concluding agreement on visit is unavailable
 클라이언트 또는 75미리스튜디오(주) 측에서 발송한 기밀유지협약서에 성함 및 주소등의 정보를 기재후 서명합니다.
 
 원본을 스캔하고 PDF 사본을 E-mail을 통해서 발송합니다.
 
-- fill in and sign NDA sended out from client or from Company.
-- scan original copy and send duplicate in PDF form via E-mail.
+- Recipient fills in and signs NDA.
+- Recipient scans original copy and send duplicate in PDF form via E-mail.
 
 ## 양식 다운로드/ Download Form
 - [보안서약서(한글) - 임직원](../pdf/nda_employ.pdf)  : Non-Disclosure Agreement(Korean) - Employer
