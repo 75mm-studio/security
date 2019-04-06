@@ -18,7 +18,7 @@ MPAA-related Rule : MS-4.0(Business Continuity Plan), MS-6.0(Business Continuity
     - numbers
     - special symbol.
     - MFA(Multi-Factor Authentication)
-- In the case of client, account is available only for a maximum of 90 days from the day of issue.
+- In the case of client, account is available only for a maximum of 90 days from the day of issuance.
 - At the end of the projet, accounts of externel parties are removed upon the mutual consultation between the parties.
 - In the case of loss of On-set device which has access right to the cloud, promptly report to administrator and remove User Cloud key.
 
