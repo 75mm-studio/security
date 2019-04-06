@@ -3,25 +3,25 @@ Non-Disclosure Agreement 축약해서 NDA로 불립니다.
 75미리스튜디오(주)는 임직원의 입사 및 퇴사, 협력업체 임직원, 외부업체, 용역업체 임직원, 기술협력, 공동개발, 용역계약, 프로젝트, TF 진행시 기밀유지협약서(NDA)를 작성합니다.
 회사와 개인간, 회사와 회사간 영업비밀 보호와 신뢰관계 유지를 위해서 사용합니다.
 
-This is document for Non-Disclosure Agreement(hereinafter called NDA)
+This is document for Non-Disclosure Agreement(hereinafter called NDA).
 75mm Studio Co.,Ltd. draws up NDA in the case of:
-  - join and resignation of employer
-  - cooperation with employer of partner companies
-  - cooperation with external companies
-  - cooperation with services companies
-  - launch of project
-  - organazing TF
+  - join and resignation of employer.
+  - cooperation with employer of partner companies.
+  - cooperation with external companies.
+  - cooperation with services companies.
+  - launch of project.
+  - organazing TF.
   
 This agreement is for:
-  - the protection of confidential business information between business and business(B2B) or business and customer(B2C).
-  - the maintainance of confidential relationship.
+  - protection of confidential business information between business and business(B2B) or business and customer(B2C).
+  - maintainance of confidential relationship.
   
 ## 임직원 정보기록/ Employer Information
 임직원 보안서약서 작성시 필수로 필요한 항목입니다.
 입사시 작성합니다.
 보안서약서 항목 변경시 변경된 항목을 구두로 알리고 기존 서명한 보안서약서를 갱신합니다.
 
-Items identified below are mendatory items for NDA with employer. Employer shall draw up at the time of enterance. If necessary, company may update the NDA. Company shall orally imform the update to Recipient in advance.
+Items identified below are mendatory for NDA with employer. Employer shall draw up at the time of enterance. If necessary, company may update the NDA. Company shall orally imform the update to employer in advance.
 
 
 - 성 명
@@ -40,7 +40,7 @@ Items identified below are mendatory items for NDA with employer. Employer shall
 
 ## 협력업체 정보기록/ Cooperative Firm Information
 협력업체 보안서약서 작성시 필요한 항목입니다.
-Items identified below are mendatory items for NDA with cooperative firm.
+Items identified below are mendatory for NDA with cooperative firm.
 
 - 기업명
 - 소재지
@@ -59,7 +59,7 @@ Items identified below are mendatory items for NDA with cooperative firm.
 
 ## 외부용역인력 정보기록/ External Subcontractor Information
 외부 용역인력 보안서약서 작성시 필수로 필요한 항목입니다.
-Items identified below are mendatory items for NDA with external subcontractor.
+Items identified below are mendatory for NDA with external subcontractor.
 
 - 성 명
 - 주 소
@@ -92,7 +92,7 @@ Items identified below are mendatory items for NDA with external subcontractor.
 
 ## 보안서약서 항목/NDA Articles
 
-#### 보유정보의 비밀유지 조항(임직원 항목) / 
+#### 보유정보의 비밀유지 조항(임직원 항목)/ Information Secrecy(Employer)
 - 적용대상 : 임직원
 - 회사에서 진행하는 모든 프로젝트 정보를 외부에 공개, 발설하지 않습니다.
 - 본인은 75미리스튜디오(주)의 영업비밀 또는 회사의 정보에 대하여 재직중 또는 퇴사 이후에도 비밀을 유지할 것을 맹세합니다.
@@ -101,7 +101,7 @@ Items identified below are mendatory items for NDA with external subcontractor.
 - Recipient shall not divulge confidential information outside the company.
 - Recipient agrees to maintain all confidential information of 75mm Studio Co.,Ltd. in strict confidence during or after the term of employment.
 
-#### 보유정보의 비밀유지 조항(협력업체, 외부용역 항목) /
+#### 보유정보의 비밀유지 조항(협력업체, 외부용역 항목)/Information Secrecy(Cooperative firm, Subcontractor)
 - 적용대상 : 협력업체, 외부용역
 - 회사에서 진행하는 모든 프로젝트 정보를 외부에 공개, 발설하지 않습니다.
 
@@ -109,7 +109,7 @@ Items identified below are mendatory items for NDA with external subcontractor.
 - Recipient shall not divulge confidential information outside the company.
 
 
-#### 권한 외 접근이나 출입 금지 조항
+#### 권한 외 접근이나 출입 금지 조항/Access Prohibition on Unauthorized Person
 - 적용대상 : 임직원
 - 본인은 인가받지 않은 정보나 서류등에 접근하지 않을 것 입니다.
 - 출입이 금지된 장소나 시설에 출입을 하지 않겠습니다.
@@ -119,22 +119,22 @@ Items identified below are mendatory items for NDA with external subcontractor.
   - Recipient shall not to access to unauthorized informations and documents.
   - Recipient shall not to access to prohibited places and facilities.
 
-#### 회사의 보안정책 준수 및 관리상의 주의의무 조항
+#### 회사의 보안정책 준수 및 관리상의 주의의무 조항/Abidance to Company Security Policy and Duty of Care
 - 적용대상 : 임직원
 - 본인은 회사의 사규, 취업규칙, 영업비밀관리규정, 보안정책 등 관련 방침이나 정책을 철저히 준수하며, 주의의무를 가지고 영업비밀 등 회사의 정보를 성실하게 관리하겠습니다.
 
 - coverage: employer
-- Recipient shall abide by policy including company regulations, employment rules, trade secret managing rules and security policies.
-- Recipient shall manage comfidential information with duty of care.
+- Recipient shall abide by policy including company regulations, employment rules, trade secret managing rules and security policy.
+- Recipient shall manage confidential information with duty of care.
 
-#### 정보의 유출이나 누설 및 공개 금지 조항
+#### 정보의 유출이나 누설 및 공개 금지 조항/Prohibition on Divulgence and Disclosure of Information.
 - 적용대상 : 임직원
 - 본인은 재직 중 또는 퇴사 후에도 재직 중 취득한 영업비밀 등 정보를 회사의 사전 동의 없이 어떠한 방법으로도 제3자에게 유출·누설하거나 공개하지 않겠습니다.
 
 - coverage : employer
-- Unless otherwise approved by the company, recipient shall maintain all confidential information of 75mm Studio Co.,Ltd. from any third parties in strict confidence during or after the term of employment.
+- Unless otherwise approved by the company, recipient shall maintain secrecy of all confidential information of 75mm Studio Co.,Ltd. from any third parties during or after the term of employment.
 
-#### 퇴사시 반납 및 개인적 보유 금지 조항
+#### 퇴사시 반납 및 개인적 보유 금지 조항/Prohibition on Personal Retention and Duty of Return on Resignation
 - 적용대상 : 임직원
 - 본인은, 재직 중에 보유하였던 회사의 영업비밀 등 정보, 회사의 연구개발, 영업, 재산 등에 영향을 미칠 수 있는 유형, 무형의 정보 기타 회의 주요 영업자산과 관련된 자료 모두를 회사에 반납하고, 이에 관한 어떠한 형태의 사본도 개인적으로 보유하지 않으며, 반납할 수 없는 것은 폐기할 것을 서약합니다.
 - 퇴사시에 최초 고용시 작성하는 근로 계약서 [ 제8조 기밀유지 ] 조항에 의해 원칙이 시행됩니다.
@@ -143,17 +143,17 @@ Items identified below are mendatory items for NDA with external subcontractor.
 - Recipient hereby agrees as follow:
   - Recipient shall promptly return to Company all tangible items or embodiments containing or consisting of confidential information that can affect R&D, sales, asset of Company.
   - Recipient is not allowed to retain any form of duplicates including electronic copies.
-  - If the material is not able to return, recipient is obligated to elimination.
+  - If the material is not able to return, recipient is obligated to eliminate.
 - When recipient leaves the Company, [ Article 8. Confidentiality ] of employment contract comes into effect.
 
-#### 회사 정보의 자문이나 교육 금지 조항
+#### 회사 정보의 자문이나 교육 금지 조항/Prohibition on Education and Consulting activity Related to Company information
 - 적용대상 : 임직원
 - 본인은 통상적인 학술 활동이나 교수 활동으로서 회사의 사전 승인을 득한 경우를 제외하고는 재직중 회사의 영업비밀 또는 영업자산이 누설 될 수 있는 자문활동이나 교육활동 등을 수행하지 않겠습니다.
 
 - coverage : employer
 - During the term of employment, Recipient shall not be authorized to do any educational or consulting activity which has risk of divulgence of confidential information and assets, except to get prior approval from Company.
 
-#### 생성정보의 회사 소유 인정 조항
+#### 생성정보의 회사 소유 인정 조항/Recognition of Company's Ownership on Generated Information
 - 적용대상 : 임직원
 - 본인은 재직 중 업무와 관련하여 취득하거나 독자적으로 또는 다른 사람과 공동으로 작성, 개발, 설계, 고안한 기술과 정보 및 이에 준하는 산출물에 관한 소유권 또는 지식재산권이 회사에 있음을 인정합니다.
 
@@ -161,7 +161,7 @@ Items identified below are mendatory items for NDA with external subcontractor.
 - Recipient acknowledges and agrees that ownership and intellectual property right of output is on Company.
 - For the purpose of this article, output means technology, information or any equivalent product that Recipient acquired, established, developed, designed, invented as a consequence of independent or collaborative work.
 
-#### 감사 수인 또는 분쟁시 회사에 대한 협조 조항
+#### 감사 수인 또는 분쟁시 회사에 대한 협조 조항/Agreement on Cooperation to Company for Inspection and Dispute
 - 적용대상 : 임직원
 - 본인은 회사가 회사에 손해를 끼칠 수 있는 기술 및 정보의 유출방지를 위하여 필요한 경우 컴퓨터 등 정보처리장치나 인터넷 등 정보통신망의 사용 내역, 회사 이메일 등 필요한 정보를 모니터링 또는 포렌식 할 수 있으며, 불법행위 또는 영업비밀 침해 우려가 있는 경우 관련 내용을 사전에 통지하지 않고 열람, 복제등을 할 수 있다는 점에 동의합니다. 본인은 재직 중 또는 퇴사 후에도 회사가 본인의 담당업무와 관련하여 법적분쟁이 발생하는 경우 회사에 적극 협조하겠습니다.
 
@@ -171,7 +171,7 @@ Items identified below are mendatory items for NDA with external subcontractor.
   - if deemed to have risk of illegal act or infringement of confidential information, Company may inspect and duplicate related contents thereof.
 -  During or after the term of employment, if legal dispute is arised related to Recipient's responsibilities, Recipient shall fully cooperate to Company.
 
-#### 전직금지 또는 겸직금지 조항
+#### 전직금지 또는 겸직금지 조항/Prohibition of Concurrent Offices and Transfer
 - 적용대상 : 임직원
 - 본인은 고용중 경쟁업체나 동종업종의 회사에서 일정한 직을 수행하거나 일시적 업무등을 하지 않겠습니다. 만약 업무상 타 기업체가 본 서약서에 따른 겸업금지의 대상이 되거나 대상인지 여부가 불분명할 경우, 사전에 회사에 통보하여 회사의 확인 및 동의를 받겠습니다.
 
