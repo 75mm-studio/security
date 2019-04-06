@@ -1,8 +1,8 @@
 # 방문객 보안/Visitor Security Policy
 방문객 보안지침입니다.
-This is document for visitor security policy.
-
 MPAA 관련규칙 : PS-2.0, PS-2.1, PS-2.2, PS-2.3, PS-3.0
+
+This is document for visitor security policy.
 MPAA-related rule :  PS-2.0, PS-2.1, PS-2.2, PS-2.3, PS-3.0
 
 ## 방문객 정보/Visitor Information
@@ -44,19 +44,20 @@ MPAA-related rule :  PS-2.0, PS-2.1, PS-2.2, PS-2.3, PS-3.0
 	- end_time
 	- visiting_card_number
 
-- Visitors are may given visiting cards. Visiting card indicates temporary access rights.
-- Security seal shall be attached to cameras of visitor's mobile phones.
-- basic rules:
+- Visitors are given visiting cards. Visiting card indicates temporary access rights.
+- Security seals shall be attached to cameras of visitor's mobile phones.
+- basic security education for visitors:
 	- It is banned to use USB and external hard disk.
-	- If visitor need to use labtop for Business reason, security seal shall attach to it.
+	- If visitor need to use labtop for Business reason, security seal shall be attached to it.
 	- If visitor need to use private devices such as labtop, visitor may use guest Wifi.
-	- In the case of having meeting for the purpose of business meeting, NDA shall be drawn up first. 
+	-  In the case of having meeting for the purpose of business, NDA shall be drawn up in advance. 
 - If visitor is closely related to Project, Company comfirms the identity by identification card on the visitor's first visit.
 	- Validate identifications are as follow.
 		- passport
 		- certificate of residient registrantion
 		- driver's license
 		- government-issued identification.
+		
 - [Download Visitor Form](../pdf/visitor_table.pdf)
 	
 ## 씰 부착예시/How to attach seal
@@ -69,6 +70,6 @@ MPAA-related rule :  PS-2.0, PS-2.1, PS-2.2, PS-2.3, PS-3.0
 - [방문객 Name Plate 양식다운로드](../pdf/visitor_nameplate.pdf)
 - [Download Visitor Name Plate Form](../pdf/visitor_nameplate.pdf)
 
-## 참고사항/Reference Details
+## 참고사항/Remark
 - 방문객 정보란에 표기된 각 항목의 영문표기는 AWS DynamoDB Attribute로 사용할 수 있는 키워드로 작성되어 있습니다. 추후 서류가 아닌 DB로 방문객 시스템을 구축할 때 위에 선언된 영문표기를 사용합니다.
 - Each element of visitors log is drawn up with keywords which can be ported to AWS DynamoDB Attribute. In the case of system builup with DB not with documents, use aforementioned english notation.

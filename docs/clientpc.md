@@ -26,7 +26,7 @@ MPAA-related rule : DS-2.0, DS-5.1, DS-6.7, DS-10.3, DS-10.8, DS-11.5, MS-4.3
 - If it is hard to come up with password, [PASSWORD GENERATOR](https://passwordsgenerator.net) would be useful.
 - On the work storage, the permission shall be set by user.
 - With the exception of the system administrator, common users are prohibited from installing a software without permission.
-- Only the system administrator can access to the root.
+- Only the system administrator shall access to the root.
 - The access of physical USB is not allowed.
 - The security seal shall be attached to the USB port.
 
@@ -43,7 +43,7 @@ MPAA-related rule : DS-2.0, DS-5.1, DS-6.7, DS-10.3, DS-10.8, DS-11.5, MS-4.3
 - 회의용 macmini : 서버실에 본체를 넣고 HDMI 연장선으로만 운용 합니다.
 - 인터넷을 사용합니다.
 
-- The macmini for a meeting : The macmini shall be put in the server room. Only the extension line of HDMI shall be used.
+- The macmini for a meeting : The macmini shall be put in the server room. Only the extension line of HDMI shall be allowed.
 - The internet is allowed.
 
 ## 노트북/ Labtop

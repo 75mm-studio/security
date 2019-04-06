@@ -9,9 +9,11 @@ MPAA-related rules : DS-8.0, DS-8.1, DS-8.3, DS-11.5, AS-2.0~AS-2.10
 - 대문자, 소문자, 숫자, 특수문자가 포함된 8자 이상 암호 사용.
 - MFA(이중인증 시스템) 활성화
 
-Passwords shall require:
-- eight(8) characters
-- combination of english upper case letters, english lower case letters, numbers and special symbol.
+Passwords shall require eight(8) or more characters including:
+- english upper case letters
+- english lower case letters
+- numbers
+- special symbol.
 - MFA(Multi-Factor Authentication)
 
 ## 클라우드(클라이언트)/ Cloud(Client)
@@ -19,7 +21,7 @@ Passwords shall require:
 - 90일간 사용가능한 계정으로 발급
 - MFA(이중인증 시스템) 활성화
 
-- Initial password shall be assign to the client.
+- Initial password shall be assigned to the client.
 - Promtly after the first login, user shall change the password.
 - Account is validate during 90 days from the day of account issuance.
 - MFA shall be activated.
@@ -27,11 +29,13 @@ Passwords shall require:
 ## 인트라넷/ Intranet
 - 대문자, 소문자, 숫자, 특수문자가 포함된 8자 이상 암호 사용.
 
-Passwords for intranet shall require:
-- eight(8) characters
-- combination of english upper case letters, english lower case letters, numbers and special symbol.
+Passwords shall require eight(8) or more characters including:
+- english upper case letters
+- english lower case letters
+- numbers
+- special symbol.
 
-## 참고사이트
+## 참고사이트/Reference Site
 - 패스워드 생성기 : https://passwordsgenerator.net
 - 우리가 사용하는 패스워드 규칙은 MPAA 기준입니다.
 

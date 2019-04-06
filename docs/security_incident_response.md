@@ -1,8 +1,8 @@
 # 보안사고 대응조치/Countermeasures Against Security Accident
 
 프로젝트중 콘텐츠 유출 사고 발생시 조치사항입니다.
-This is response manual for divulgence accident of contents in the middle of project.
 
+This is response manual for divulgence of contents in the middle of project.
 
 ## 보안사고 대응조치/ Response Manual for Security Accident
 1. 프로젝트 담당자, 75미리스튜디오(주) 보안관계자 소집회의

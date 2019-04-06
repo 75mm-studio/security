@@ -1,4 +1,4 @@
-# Network, Server/Network, Server
+# Network, Server
 인터넷망과 인트라넷망은 물리적으로 완전히 분리되어있습니다.
 MPAA 관련규칙 : DS-3.0, MS-6.0, DS-1.6
 
@@ -10,7 +10,7 @@ MPAA-related rule : DS-3.0, MS-6.0, DS-1.6
 - 외부에서 방화벽을 원격관리 할 수 없도록 한다. DS-1.6
 - 외부에서 회사 물리IP로 ping명령어를 할 수 없도록 설정
 
-- Subcontractor : ITRAY (*홈페이지가 유지보수중이라 정확한 명칭은 아직 모름*)
+- Subcontractor : ITRAY Corp.
 - Firewall shall not be managed in remote environment outside the company. DS-1.6
 
 ## 서버접근/Server Access
@@ -20,12 +20,12 @@ MPAA-related rule : DS-3.0, MS-6.0, DS-1.6
 
 - Only authorized sever manager whose fingerprint is enrolled may access to server room.
 - Server manager shall pass 3-step verification to access server room.
-- Server room is recorded via CCTV.
+- Server room is recorded via CCTV 24 hours a day.
 - Security official(main) can watch server room in real time via mobile application.
 
 ## 인터넷/Internet
 - 손님용 Wifi를 이용해서 인터넷 사용이 가능합니다.
-- Internet is available by guest Wifi.
+- Internet is available via guest Wifi.
 
 ## 인트라넷/Intranet
 - 아티스트의 모든 컴퓨터는 인터넷과 물리적으로 분리된 네트워크를 사용합니다.
@@ -37,7 +37,7 @@ MPAA-related rule : DS-3.0, MS-6.0, DS-1.6
 ## UPS(Uninterruptible Power Supply)
 주요 장비는 UPS에 물려있으며 정전시 가용시간은 30분입니다.(MPAA 기준 시간은 최소 15분입니다.)
 
-Main Device is connected to UPS. Its available time is 30 minutes.(According to MPAA, minimum available time is 15 minutes.)
+Main Device is connected to UPS. Available time of UPS is 30 minutes.(According to MPAA, minimum available time is 15 minutes.)
 
 ## 네트워크 구성도/Network Block Diagram
 ![network](../figures/network.png)
