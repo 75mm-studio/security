@@ -1,6 +1,7 @@
 # Code Name Policy
 프로젝트 진행시 프로젝트명, 클라이언트 회사 이름을 바로 사용하지 않고
 유추할 수 없는 코드명으로 바꾸어서 모든 프로젝트를 진행합니다.
+
 On the process of project, without exception, names of project and client company shall be referred to as code name that can not be traced back.
 
 MPAA관련항목 : DS-12.3, DS-12.4
@@ -13,8 +14,8 @@ MPAA-related rule : DS-12.3, DS-12.4
 - 내부 회의석상에서도 코드네임으로 프로젝트를 진행합니다.
 
 - Code name is assigned for:
-  - every project including cloud accounts.
-  - folders used for data transmission from cloud.
+  - every project including cloud accounts for the project.
+  - folders used for data transmission from and to cloud.
   - client accounts for cloud
  - Name of client accounts for cloud shall use the same code name with project code name.
 - Even in the internal meeting, project shall be refered to as its code name .
