@@ -1,4 +1,4 @@
-# 보안 징계 조치 / Measures for Discipline Againt Violation of Security Regulation.
+# 보안 징계 조치 / Measures for Discipline Againt Violation of Security Policy.
 
 # 징계, 제재 정책 / Discipline and Sanction Policy
 이 문서는 회사 취업규칙 문서에서 "제9장 표창 및 징계 부분" 문서 내용중 보안항목만 작성한다.
@@ -30,8 +30,8 @@ Company may discipline accused person through discision of disciplinary commitee
 
 Each kind of disciplinary action shall be defined in detail as follows:
 1. reprimand: Accused person shall be required to submit a written account of the affair.
-1. salary reduction: Salary shall be reduced by not more than half of 1일분 of average wage at a time and 10 percent of total amount of wages in total. 
-1. suspension from office: In the period of suspension, accused person shall not 종사 on his 직무. and shall not payed
+1. salary reduction: Salary shall be reduced by not more than half of daily average wage at a time and 10 percent of total amount of wages in total. 
+1. suspension from office: In the period of suspension, accused person shall not be allowed to work and shall not payed
 1. dismissal: Dismissal means termination of a employment contract.
 
 ## 제61조 : 징계심의/ Article 61 : Disciplinary Review
@@ -43,18 +43,20 @@ Each kind of disciplinary action shall be defined in detail as follows:
 1. 간사는 징계의결을 위한 회의에 참석하여 회의록을 작성하고 이를 보관한다.
 
 1. Chairman of disciplinary commitee shall notify meeting date, place, agenda for members of disciplinary commitee at least 7 days before the meeting for descision of discipline. 
-1. Chairman of disciplinary commitee shall notify to 징계대상자 in the form of written demand for attendance.
-1. Disciplinay commitee shall deliberate the case with fairness including ground for disciplinary action, evidentiary material, statement of party. If 징계대상자 does not want to attend to disciplinary commitee or already stated in written form, disciplinary commitee may decide discipline by examination in writing. In this case, Commitee request waiver of right to state an opinion and written statement from 징계당사자 and attach them to record.
-1. If
+1. Chairman of disciplinary commitee shall notify to subject of discipline in the form of written demand for attendance.
+1. Disciplinay commitee shall deliberate the case with fairness including ground for disciplinary action, evidentiary material, statement of party. If subject of discipline does not want to attend to disciplinary commitee or already stated in written form, disciplinary commitee may decide discipline by examination in writing. In this case, Commitee request waiver of right to state an opinion and written statement from subject of discipline and attach them to record.
+1. In following case, a member of disciplinary commitee shall not be allowed to engage in the disciplinary meeting.
+  - having a kinship with subject of discipline
+  - being related to cause of discipline
 
-## 제62조 : 징계결과 통보/ Article 62 :
+## 제62조 : 징계결과 통보/ Article 62 : Notice of Discipline
 징계결과통보는 해당사원에게 징계처분사유 설명서로 통보한다.
-Commitee shall notify ground for disciplinary action to 해당사원 in the written form of .
+Commitee shall notify ground for disciplinary action to subject of discipline in the written form.
 
 ## 제63조 : 재심절차 / Article 63 : Procedure For a Retrial
 1. 징계처분을 받은 사원은 징계결정이 부당하다고 인정될 때 징계통보를 받은 날로부터 7일 이내에 서면으로 1회 재심신청을 할 수 있다.
 1. 재심을 요청받은 경우 징계위원회는 10일 이내에 재심을 위한 회의를 개최하여야 하며 그 절차는 제 61조 및 제 62조를 준용한다.
 
-1. If 00 is admitted, 징계처분을 받은 사원 may request a retrial within 7 days in written form only once.
+1. If decided discipline is deemed to be improper, subject of discipline may request a retrial within 7 days in written form only once.
 1. Disciplinary commitee is under obligation to hold a meeting for a retrial within 10 days from request of a retrial.
 1. Procedure of retrial shall be in accordance with Article 61 and Article 62.
