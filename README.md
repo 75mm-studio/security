@@ -7,7 +7,7 @@
 이 문서는 회사에서 업무용 장비, 서버장비, 네트워크 장비, 보안관련 담당자 변경등 보안이슈가 발생할 때마다 주기적으로 갱신됩니다.
 
 This document is about security policy of  75mm Studio Co.,Ltd..
-This repository is written for the purpose of security education of employer and cooperative firm.
+This repository is written for the purpose of security education for employer and cooperative firm.
 This document will be updated in the the case of occurence of security issues including:
 - change of security official
 - supplement of equipment for tasks
@@ -45,14 +45,14 @@ This document will be updated in the the case of occurence of security issues in
 - 대표번호 : +82-02-512-7520
 - Main Contact No. : +82-02-512-7520
 
-#### 보안담당자/Security official
+#### 보안담당자/Security officials
 - 신철호(정) +82-10-5316-2746
 - 조세환(부) +82-10-5430-6763
 
 - Chol Ho Chin(main) +82-10-5316-2746
 - Se Hwan Jo(vice) +82-10-5430-6763
 
-#### 시스템관리자/ System Manager
+#### 시스템관리자/ System Managers
 - 신철호(정) +82-10-5316-2746
 - 고 혁(부) +82-10-6306-4784
 - 최원준(부) +82-10-5800-1134
