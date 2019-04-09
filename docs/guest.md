@@ -24,7 +24,7 @@ MPAA-related rule :  PS-2.0, PS-2.1, PS-2.2, PS-2.3, PS-3.0
 - 기본교육
 	- USB, 외장하드 사용을 제한합니다.
 	- 업무상 노트북을 사용한다면 보안씰을 부착합니다.
-	- 노트북, 개인 장비에서 인터넷을 사용해야 한다면 손님용 Wifi를 알려줍니다.
+	- 노트북, 개인 장비에서 인터넷을 사용해야 한다면 손님용 WIFI를 알려줍니다.
 	- 업무협의로 프로젝트 관련 미팅을 진행한다면 보안서약서를 작성합니다.
 	
 - 프로젝트와 밀접한 관련이 있지만 정보가 없는 첫 방문자는 사진이 있는 신분증으로 신분확인을 합니다.
@@ -49,7 +49,7 @@ MPAA-related rule :  PS-2.0, PS-2.1, PS-2.2, PS-2.3, PS-3.0
 - basic security education for visitors:
 	- It is banned to use USB and external hard disk.
 	- If a visitor needs to use a laptop for the Business reason, security seal shall be attached to it.
-	- If a visitor needs to use private devices such as a laptop, the visitor may use guest Wifi.
+	- If a visitor needs to use private devices such as a laptop, the visitor may use guest WIFI.
 	- In the case of having a meeting for the purpose of business, NDA shall be drawn up in advance. 
 - If a visitor is closely related to Project, Company confirms the identity by identification card on the visitor's first visit.
 	- Validate identifications are as follow.
