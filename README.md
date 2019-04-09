@@ -48,7 +48,7 @@ This document will be updated in the the case of occurrence of security issues i
 - Hyuk Ko(vice) +82-10-6306-4784
 - Won Jun Choi(vice) +82-10-5800-1134
 
-## 작성기준 / Documentation Guidlines
+## 작성기준 / Documentation Guidelines
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/MPAA.jpg" width="150">
 
 [MPAA Documentation](https://www.mpaa.org/what-we-do/advancing-creativity/additional-resources/#content-protection-best-practices)
