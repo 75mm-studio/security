@@ -1,6 +1,6 @@
 # Cloud 정책 / Cloud Computing Policy
 75미리스튜디오(주)는 Aws 클라우드를 사용합니다.<br/>
-75mm Studio Co.,Ltd. shall use AWS cloud computing services.
+75mm Studio Co.,Ltd. use AWS cloud computing services.
 
 MPAA 관련규칙 : MS-4.0(사업연속성), MS-6.0(사업연속성, 재해복구), DS-10.9(백업,복원 시스템 구현)<br/>
 MPAA-related Rule : MS-4.0(Business Continuity Plan), MS-6.0(Business Continuity Plan, Disaster Recovery), DS-10.9(Backup,Implemantation of Restoration System)
