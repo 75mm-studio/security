@@ -4,5 +4,5 @@
 - Computers used for the project shall be physically separated from the internet.
 
 ## 방문객 / Visitors
-- 방문객은 손님용 Wifi를 통해서 인터넷 사용이 가능합니다.
+- 방문객은 손님용 WIFI를 통해서 인터넷 사용이 가능합니다.
 - Visitors may use the internet only via guest WIFI.
