@@ -8,7 +8,7 @@ This is document for Non-Disclosure Agreement(hereinafter called NDA).
   - join and resignation of employer.
   - cooperation with employer of cooperative firm.
   - cooperation with external company.
-  - cooperation with services company.
+  - cooperation with service company.
   - launch of project.
   - organazing TF.
   
