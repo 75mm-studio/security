@@ -6,7 +6,7 @@
 
 이 문서는 회사에서 업무용 장비, 서버장비, 네트워크 장비, 보안관련 담당자 변경등 보안이슈가 발생할 때마다 주기적으로 갱신됩니다.
 
-This document is about security policy of  75mm Studio Co.,Ltd.
+This repository is document about security policy of  75mm Studio Co.,Ltd.(hereinafter called *Company*)
 This repository is written for the purpose of security education for employer and cooperative firm.
 This document will be updated in the the case of occurence of security issues including:
 - change of security official
@@ -15,31 +15,18 @@ This document will be updated in the the case of occurence of security issues in
 - supplement of network equipment
 
 ## 세부보안정책 / Security Policies
-- [기밀유지협약](docs/nda.md)
-- [인터넷,무선정책](docs/internet.md)
-- [모바일 장치정책](docs/mobile.md)
-- [네트워크](docs/network.md)
-- [내부 클라이언트 컴퓨터 정책](docs/clientpc.md)
-- [클라우드 정책](docs/cloud.md)
-- [패스워드 정책](docs/password.md)
-- [코드네임 정책](docs/codename.md)
-- [방문객 보안](docs/guest.md)
-- [사고대응 정책](docs/security_incident_response.md)
-- [징계/제재 정책](docs/security_disciplinary_action.md)
-- [Q & A](docs/qna.md)
----------------------------------
-- [NDA(Non-Disclosure Agreement)](docs/nda.md)
-- [Internet and Wireless Network Policy](docs/internet.md)
-- [Mobile Device Policy](docs/mobile.md)
-- [Network](docs/network.md)
-- [Client Computer and Equipment Policy](docs/clientpc.md)
-- [Cloud Computing Policy](docs/cloud.md)
-- [Password Policy](docs/password.md)
-- [Code Name Policy](docs/codename.md)
-- [Visitor Security Policy](docs/guest.md)
-- [Countermeasures Against Security Accident](docs/security_incident_response.md)
-- [Discipline and Sanction Policy](docs/security_disciplinary_action.md)
-- [Q & A](docs/qna.md)
+- [기밀유지협약](docs/nda.md) - NDA(Non-Disclosure Agreement)
+- [인터넷,무선정책](docs/internet.md) - Internet and Wireless Network Policy
+- [모바일 장치정책](docs/mobile.md) - Mobile Device Policy
+- [네트워크](docs/network.md) - Network Policy
+- [내부 클라이언트 컴퓨터 정책](docs/clientpc.md) - Client Computer and Equipment Policy
+- [클라우드 정책](docs/cloud.md) - Cloud Computing Policy
+- [패스워드 정책](docs/password.md) - Password Policy
+- [코드네임 정책](docs/codename.md) - Code Name Policy
+- [방문객 보안](docs/guest.md) - Visitor Security Policy
+- [사고대응 정책](docs/security_incident_response.md) - Countermeasures Against Security Accident
+- [징계/제재 정책](docs/security_disciplinary_action.md) - Discipline and Sanction Policy
+- [Q & A](docs/qna.md) - FAQ
 
 ## 담당자/ The Person in Charge
 - 대표번호 : +82-02-512-7520
