@@ -1,4 +1,4 @@
-# 75mm Studio Co.,Ltd. Security policy
+# 75mm Studio Co., Ltd. Security policy
 
 75미리스튜디오(주) 보안정책 문서입니다.
 
@@ -28,18 +28,18 @@ This document will be updated in the the case of occurrence of security issues i
 - [징계/제재 정책](docs/security_disciplinary_action.md) - Discipline and Sanction Policy
 - [Q & A](docs/qna.md) - FAQ
 
-## 담당자/ The Person in Charge
+## 담당자 / The Person in Charge
 - 대표번호 : +82-02-512-7520
 - Main Contact No. : +82-02-512-7520
 
-#### 보안담당자/Security officials
+#### 보안담당자 / Security officials
 - 신철호(정) +82-10-5316-2746
 - 조세환(부) +82-10-5430-6763
 
 - Chol Ho Shin(main) +82-10-5316-2746
 - Se Hwan Jo(vice) +82-10-5430-6763
 
-#### 시스템관리자/ System Managers
+#### 시스템관리자 / System administrator
 - 신철호(정) +82-10-5316-2746
 - 고 혁(부) +82-10-6306-4784
 - 최원준(부) +82-10-5800-1134
@@ -48,7 +48,7 @@ This document will be updated in the the case of occurrence of security issues i
 - Hyuk Ko(vice) +82-10-6306-4784
 - Won Jun Choi(vice) +82-10-5800-1134
 
-## 작성기준/Documentation Guidlines
+## 작성기준 / Documentation Guidlines
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/MPAA.jpg" width="150">
 
 [MPAA Documentation](https://www.mpaa.org/what-we-do/advancing-creativity/additional-resources/#content-protection-best-practices)
