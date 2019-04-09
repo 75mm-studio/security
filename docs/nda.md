@@ -10,18 +10,18 @@ This is document for Non-Disclosure Agreement(hereinafter called NDA).
   - cooperation with external company.
   - cooperation with service company.
   - launch of project.
-  - organazing TF. (organizing TF.?)
+  - organizing TF.
   
 This agreement is for:
   - protection of confidential business information between business and business(B2B) or business and customer(B2C).
-  - maintainance of confidential relationship. (maintenance of?)
+  - maintenance of confidential relationship.
   
 ## 임직원 정보기록/ Employer Information
 임직원 보안서약서 작성시 필수로 필요한 항목입니다.
 입사시 작성합니다.
 보안서약서 항목 변경시 변경된 항목을 구두로 알리고 기존 서명한 보안서약서를 갱신합니다.
 
-Items identified below are mendatory(mandatory?) for NDA with employer. Employer shall draw up at the time of enterance(entrance?). If necessary, company may update the NDA. Company shall orally inform the update to employer in advance of change.
+Items identified below are mandatory for NDA with employer. Employer shall draw up at the time of entrance. If necessary, company may update the NDA. Company shall orally inform the update to employer in advance of change.
 
 
 - 성 명
@@ -40,7 +40,7 @@ Items identified below are mendatory(mandatory?) for NDA with employer. Employer
 
 ## 협력업체 정보기록/ Cooperative Firm Information
 협력업체 보안서약서 작성시 필요한 항목입니다.
-Items identified below are mendatory(mandatory?) for NDA with cooperative firm.
+Items identified below are mandatory for NDA with cooperative firm.
 
 - 기업명
 - 소재지
@@ -59,7 +59,7 @@ Items identified below are mendatory(mandatory?) for NDA with cooperative firm.
 
 ## 외부용역인력 정보기록/ External Subcontractor Information
 외부 용역인력 보안서약서 작성시 필수로 필요한 항목입니다.
-Items identified below are mendatory for NDA with external subcontractor.
+Items identified below are mandatory for NDA with external subcontractor.
 
 - 성 명
 - 주 소
