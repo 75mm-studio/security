@@ -2,7 +2,7 @@
 프로젝트 진행시 프로젝트명, 클라이언트 회사 이름을 바로 사용하지 않고
 유추할 수 없는 코드명으로 바꾸어서 모든 프로젝트를 진행합니다.
 
-On the process of project, without exception, names of project and client company shall be referred to as code name that can not be traced back.
+On the process of the project, without exception, names of project and client company shall be referred to as code name that can not be traced back.
 
 MPAA관련항목 : DS-12.3, DS-12.4
 MPAA-related rule : DS-12.3, DS-12.4
@@ -15,22 +15,22 @@ MPAA-related rule : DS-12.3, DS-12.4
 
 - Code name is assigned for:
   - every project including cloud accounts for the project.
-  - folders used for data transmission from and to cloud.
-  - client accounts for cloud
- - Name of client accounts for cloud shall use the same code name with project code name.
-- Even in the internal meeting, project shall be refered to as its code name .
+  - folders used for data transmission from and to cloud service.
+  - client accounts for cloud service.
+ - Name of client accounts for cloud shall use the same code name with the project code name.
+- Even in the internal meeting, the project shall be referred to as its code name.
 
-## 프로젝트 이름/Project Name
+## 프로젝트 이름 / Project Name
 - 내부 스토리지에서 사용하는 모든 프로젝트의 폴더구조는 회의로 부여한 코드네임을 사용합니다.
 - 우리는 데이터베이스를 활용하여 프로젝트 코드네임을 관리합니다.
 
-- Code name is assigned for every folders used in internal storage.
-- The code name will be decided by meeting.
-- Code names are managed by database.
+- Code name is assigned for every folder used in internal storage.
+- The code name will be decided by the meeting.
+- Code names are managed by the database.
 
 ## 이름생성기/Name generator
 어떤 단어를 쓸지 모르겠다면 이름생성기 웹유틸리티를 사용하세요.
 
-If it is hard to come up with code name, name generating web utility would be useful.
+If it is hard to come up with the code name, name generating web utility would be useful.
 
 - https://passwordsgenerator.net/name-generator/
