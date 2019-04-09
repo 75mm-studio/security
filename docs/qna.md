@@ -116,8 +116,8 @@ These are frequently asked question in regard to security issues.
   
 ### 당사는 무선 네트워크 기술을 사용하고 있습니까? 만약에 그렇다면, 기밀 데이터와 무선 네트워크 사이에 어떠한 보안 체계가 갖춰져 있는지 설명해주십시오./ Is the Company using wireless network technology? If so, please explain the Company's security system for confidential data to protect from the wireless network.
 
-- 내부에 손님용 Wifi와 직원용 Wifi를 운용하고 있습니다. 작업하는 네트워크와 완전 분리되어 있습니다.
-- Wifi is managed with guest Wifi and Wifi for employees. The working network is separated safely.
+- 내부에 손님용 WIFI와 직원용 WIFI를 운용하고 있습니다. 작업하는 네트워크와 완전 분리되어 있습니다.
+- WIFI is managed with guest WIFI and WIFI for employees. The working network is separated safely.
 
 ### 모든 프로덕션 데이터는 FTP, Aspera이나 혹은 개인 네트워크를 통한 보안 솔루션을 이용하여 전송됩니까? 현재 사용하고 있는 모든 데이터 전송 메소드를 리스트로 작성해주시기 바랍니다./ Are production data transmitted through security solution such as FTP, Aspera or private network? What kind of data transmission method does company use?
 
