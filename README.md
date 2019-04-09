@@ -8,7 +8,7 @@
 
 This repository is document about security policy of  75mm Studio Co.,Ltd.(hereinafter called *Company*)
 This repository is written for the purpose of security education for employer and cooperative firm.
-This document will be updated in the the case of occurence of security issues including:
+This document will be updated in the the case of occurrence of security issues including:
 - change of security official
 - supplement of equipment for tasks
 - supplement of server equipment
