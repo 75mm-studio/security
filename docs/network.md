@@ -24,8 +24,8 @@ MPAA-related rule : DS-3.0, MS-6.0, DS-1.6
 - Security official(main) can watch server room in real time via a mobile application.
 
 ## 인터넷 / Internet
-- 손님용 Wifi를 이용해서 인터넷 사용이 가능합니다.
-- The Internet is available via guest Wifi.
+- 손님용 WIFI를 이용해서 인터넷 사용이 가능합니다.
+- The Internet is available via guest WIFI.
 
 ## 인트라넷 / Intranet
 - 아티스트의 모든 컴퓨터는 인터넷과 물리적으로 분리된 네트워크를 사용합니다.
