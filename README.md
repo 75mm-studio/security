@@ -26,7 +26,7 @@ This document will be updated in the the case of occurrence of security issues i
 - [방문객 보안](docs/guest.md) - Visitor Security Policy
 - [사고대응 정책](docs/security_incident_response.md) - Countermeasures Against Security Accident
 - [징계/제재 정책](docs/security_disciplinary_action.md) - Discipline and Sanction Policy
-- [Q & A](docs/qna.md) - FAQ
+- [F & Q](docs/qna.md) - FAQ
 
 ## 담당자 / The Person in Charge
 - 대표번호 : +82-02-512-7520
