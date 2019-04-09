@@ -36,7 +36,7 @@ This document will be updated in the the case of occurence of security issues in
 - 신철호(정) +82-10-5316-2746
 - 조세환(부) +82-10-5430-6763
 
-- Chol Ho Chin(main) +82-10-5316-2746
+- Chol Ho Shin(main) +82-10-5316-2746
 - Se Hwan Jo(vice) +82-10-5430-6763
 
 #### 시스템관리자/ System Managers
@@ -44,7 +44,7 @@ This document will be updated in the the case of occurence of security issues in
 - 고 혁(부) +82-10-6306-4784
 - 최원준(부) +82-10-5800-1134
 
-- Chol Ho Chin(main) +82-10-5316-2746
+- Chol Ho Shin(main) +82-10-5316-2746
 - Hyuk Ko(vice) +82-10-6306-4784
 - Won Jun Choi(vice) +82-10-5800-1134
 
