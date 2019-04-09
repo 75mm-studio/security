@@ -140,7 +140,7 @@ These are frequently asked question in regard to security issues.
 - The data is backed up to the Cloud, AWS S3 Glacier for the business continuity.
 - After the request, data restoration is completed within 24-48 hours.
 
-### 당사는 중대한 보안 및 비즈니스 문제로 인해 사고가 발생했을 경우 또는 사고로 인해 데이터 전달에 영향을 미칠 수 있을 경우에 클라이언트에게 공지하고 알리는 방식을 기술하는 수칙이 있습니까? 구체적으로 설명해주세요.
+### 당사는 중대한 보안 및 비즈니스 문제로 인해 사고가 발생했을 경우나 사고로 인해 데이터 전달에 영향이 미칠 경우에 어떻게 클라이언트에게 공지하고 합니까? 구체적으로 설명해주세요. / How does the company notify clients of critical security and business issues that could cause an accident or impact the delivery of data? Please explain it in detail.
 
 - 클라이언트의 In/Out 데이터는 클라우드에 보관합니다. 불의의 사고에 따른 사업연속성을 유지하기 위해 사용합니다.
 - 마감일을 지키지 못했을 경우 처리사항은 75미리스튜디오(주)와 클라이언트간 상호간 논의가 필요합니다.
