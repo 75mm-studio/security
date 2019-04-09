@@ -6,9 +6,9 @@ Non-Disclosure Agreement 축약해서 NDA로 불립니다.
 This is document for Non-Disclosure Agreement(hereinafter called NDA).
 75mm Studio Co.,Ltd. draws up NDA in the case of:
   - join and resignation of employer.
-  - cooperation with employer of partner companies.
-  - cooperation with external companies.
-  - cooperation with services companies.
+  - cooperation with employer of cooperative firm.
+  - cooperation with external company.
+  - cooperation with services company.
   - launch of project.
   - organazing TF.
   
@@ -21,7 +21,7 @@ This agreement is for:
 입사시 작성합니다.
 보안서약서 항목 변경시 변경된 항목을 구두로 알리고 기존 서명한 보안서약서를 갱신합니다.
 
-Items identified below are mendatory for NDA with employer. Employer shall draw up at the time of enterance. If necessary, company may update the NDA. Company shall orally inform the update to employer in advance.
+Items identified below are mendatory for NDA with employer. Employer shall draw up at the time of enterance. If necessary, company may update the NDA. Company shall orally inform the update to employer in advance of change.
 
 
 - 성 명
@@ -76,7 +76,7 @@ Items identified below are mendatory for NDA with external subcontractor.
 - signature
 
 
-## 75mm-studio 정보기록/ 75mm-studio Information
+## 75mm-studio 정보기록/ *Company* Information
 
 - 기업명 : 75미리스튜디오(주)
 - 소재지 : 서울시 강남구 논현로 164길 6 502호 
@@ -98,15 +98,15 @@ Items identified below are mendatory for NDA with external subcontractor.
 - 본인은 75미리스튜디오(주)의 영업비밀 또는 회사의 정보에 대하여 재직중 또는 퇴사 이후에도 비밀을 유지할 것을 맹세합니다.
 
 - coverage : employer
-- Recipient shall not divulge confidential information outside the company.
-- Recipient agrees to maintain all confidential information of 75mm Studio Co.,Ltd. in strict confidence during or after the term of employment.
+- *Recipient* shall not divulge confidential information outside the company.
+- *Recipient* agrees to maintain all confidential information of 75mm Studio Co.,Ltd. in strict confidence during or after the term of employment.
 
 #### 보유정보의 비밀유지 조항(협력업체, 외부용역 항목)/Information Secrecy(Cooperative firm, Subcontractor)
 - 적용대상 : 협력업체, 외부용역
 - 회사에서 진행하는 모든 프로젝트 정보를 외부에 공개, 발설하지 않습니다.
 
 - coverage : cooperative firm, subcontractor
-- Recipient shall not divulge confidential information outside the company.
+- *Recipient* shall not divulge confidential information outside the company.
 
 
 #### 권한 외 접근이나 출입 금지 조항/Access Prohibition on Unauthorized Person
@@ -115,24 +115,24 @@ Items identified below are mendatory for NDA with external subcontractor.
 - 출입이 금지된 장소나 시설에 출입을 하지 않겠습니다.
 
 - coverage : employer
-- Recipient hereby agrees as follow:
-  - Recipient shall not to access to unauthorized informations and documents.
-  - Recipient shall not to access to prohibited places and facilities.
+- *Recipient* hereby agrees as follow:
+  - *Recipient* shall not access to unauthorized informations and documents.
+  - *Recipient* shall not access to prohibited places and facilities.
 
 #### 회사의 보안정책 준수 및 관리상의 주의의무 조항/Abidance to Company Security Policy and Duty of Care
 - 적용대상 : 임직원
 - 본인은 회사의 사규, 취업규칙, 영업비밀관리규정, 보안정책 등 관련 방침이나 정책을 철저히 준수하며, 주의의무를 가지고 영업비밀 등 회사의 정보를 성실하게 관리하겠습니다.
 
 - coverage: employer
-- Recipient shall abide by policy including company regulations, employment rules, trade secret managing rules and security policy.
-- Recipient shall manage confidential information with duty of care.
+- *Recipient* shall abide by policy including company regulations, employment rules, trade secret managing rules and security policy.
+- *Recipient* shall manage confidential information with duty of care.
 
 #### 정보의 유출이나 누설 및 공개 금지 조항/Prohibition on Divulgence and Disclosure of Information.
 - 적용대상 : 임직원
 - 본인은 재직 중 또는 퇴사 후에도 재직 중 취득한 영업비밀 등 정보를 회사의 사전 동의 없이 어떠한 방법으로도 제3자에게 유출·누설하거나 공개하지 않겠습니다.
 
 - coverage : employer
-- Unless otherwise approved by the company, recipient shall maintain secrecy of all confidential information of 75mm Studio Co.,Ltd. from any third parties during or after the term of employment.
+- Unless otherwise approved by the company, *Recipient* shall maintain secrecy of all confidential information of *Company* from any third parties during and after the term of employment.
 
 #### 퇴사시 반납 및 개인적 보유 금지 조항/Prohibition on Personal Retention and Duty of Return on Resignation
 - 적용대상 : 임직원
@@ -140,61 +140,61 @@ Items identified below are mendatory for NDA with external subcontractor.
 - 퇴사시에 최초 고용시 작성하는 근로 계약서 [ 제8조 기밀유지 ] 조항에 의해 원칙이 시행됩니다.
 
 - coverage : employment
-- Recipient hereby agrees as follow:
-  - Recipient shall promptly return to Company all tangible items or embodiments containing or consisting of confidential information that can affect R&D, sales, asset of Company.
-  - Recipient is not allowed to retain any form of duplicates including electronic copies.
-  - If the material is not able to return, recipient is obligated to eliminate.
-- When recipient leaves the Company, [ Article 8. Confidentiality ] of employment contract comes into effect.
+- *Recipient* hereby agrees as follow:
+  - *Recipient* shall promptly return to *Company* all tangible items or embodiments containing or consisting of confidential information that can affect R&D, sales, asset of *Company.*
+  - *Recipient* is not allowed to retain any form of duplicates including electronic copies.
+  - If the material is not able to return, *Recipient* is obligated to eliminate.
+- When *Recipient* leaves *Company*, [ Article 8. Confidentiality ] of employment contract comes into effect.
 
 #### 회사 정보의 자문이나 교육 금지 조항/Prohibition on Education and Consulting activity Related to Company information
 - 적용대상 : 임직원
 - 본인은 통상적인 학술 활동이나 교수 활동으로서 회사의 사전 승인을 득한 경우를 제외하고는 재직중 회사의 영업비밀 또는 영업자산이 누설 될 수 있는 자문활동이나 교육활동 등을 수행하지 않겠습니다.
 
 - coverage : employer
-- During the term of employment, Recipient shall not be authorized to do any educational or consulting activity which has risk of divulgence of confidential information and assets, except to get prior approval from Company.
+- During the term of employment, *Recipient* shall not be authorized to do any educational or consulting activity which has risk of divulgence of confidential information and assets, except to get prior approval from *Company*.
 
 #### 생성정보의 회사 소유 인정 조항/Recognition of Company's Ownership on Generated Information
 - 적용대상 : 임직원
 - 본인은 재직 중 업무와 관련하여 취득하거나 독자적으로 또는 다른 사람과 공동으로 작성, 개발, 설계, 고안한 기술과 정보 및 이에 준하는 산출물에 관한 소유권 또는 지식재산권이 회사에 있음을 인정합니다.
 
 - coverage : employer
-- Recipient acknowledges and agrees that ownership and intellectual property right of output is on Company.
-- For the purpose of this article, output means technology, information or any equivalent product that Recipient acquired, established, developed, designed, invented as a consequence of independent or collaborative work.
+- *Recipient* acknowledges and agrees that ownership and intellectual property right of output is on *Company*.
+- For the purpose of this article, output means technology, information or any equivalent product that *Recipient* acquired, established, developed, designed, invented as a consequence of independent or collaborative work.
 
 #### 감사 수인 또는 분쟁시 회사에 대한 협조 조항/Agreement on Cooperation to Company for Inspection and Dispute
 - 적용대상 : 임직원
 - 본인은 회사가 회사에 손해를 끼칠 수 있는 기술 및 정보의 유출방지를 위하여 필요한 경우 컴퓨터 등 정보처리장치나 인터넷 등 정보통신망의 사용 내역, 회사 이메일 등 필요한 정보를 모니터링 또는 포렌식 할 수 있으며, 불법행위 또는 영업비밀 침해 우려가 있는 경우 관련 내용을 사전에 통지하지 않고 열람, 복제등을 할 수 있다는 점에 동의합니다. 본인은 재직 중 또는 퇴사 후에도 회사가 본인의 담당업무와 관련하여 법적분쟁이 발생하는 경우 회사에 적극 협조하겠습니다.
 
 - coverage : employer
-- Recipient acknowledges and agrees that:
-  - if necessary, Company may monitor or perform forensic analysis on any information including history of information and communication network such as internet, emails to prevent divulgence of technology and confidential information.
-  - if deemed to have risk of illegal act or infringement of confidential information, Company may inspect and duplicate related contents thereof.
--  During or after the term of employment, if legal dispute is arised related to Recipient's responsibilities, Recipient shall fully cooperate to Company.
+- *Recipient* acknowledges and agrees that:
+  - if necessary, *Company* may monitor or perform forensic analysis on any information including history of information and communication network such as internet, emails to prevent divulgence of technology and confidential information.
+  - if deemed to have risk of illegal act or infringement of confidential information, *Company* may inspect and duplicate related contents thereof.
+-  During or after the term of employment, if legal dispute is arised and related to *Recipient*'s responsibilities, *Recipient* shall fully cooperate to *Company*.
 
 #### 전직금지 또는 겸직금지 조항/Prohibition of Concurrent Offices and Transfer
 - 적용대상 : 임직원
 - 본인은 고용중 경쟁업체나 동종업종의 회사에서 일정한 직을 수행하거나 일시적 업무등을 하지 않겠습니다. 만약 업무상 타 기업체가 본 서약서에 따른 겸업금지의 대상이 되거나 대상인지 여부가 불분명할 경우, 사전에 회사에 통보하여 회사의 확인 및 동의를 받겠습니다.
 
 - coverage : employer
-- Recipient shall not be allowed to work with a rival company or company of the same industry during the term of empolyment.
-- If it is unclear whether the company is object of prohibition,  Recipient shall get Company's confirmation and consent in advance.
+- *Recipient* shall not be allowed to work with a rival company or company of the same industry during the term of empolyment.
+- If it is unclear whether the company is object of prohibition,  *Recipient* shall get *Company*'s confirmation and consent in advance.
 
 #### 외부 비밀정보의 보유 또는 이용 금지 조항/Prohibition of Retainment and Utilization of Confitential Information
 - 적용대상 : 임직원, 협력업체, 외부용역
 - 본인은 자사 또는 타사의 비밀유지의무가 있는 정보를 보유하거나 회사 업무 수행 과정외에 데이터 또는 정보를 사용시, 이로 인해서 분쟁이 발생하면 그에 대한 모든 책임을 부담하겠습니다.
 
 - coverage : employer, cooperative firm, subcontractor
-- Recipeint shall take responsibility of dispute arising out of:
-  - Recipeint's retainment of confidential information belong to both Company and other companies.
-  - Recipeint's use of data and information in the process of company affairs.
+- *Recipeint* shall take responsibility of dispute arising out of:
+  - *Recipeint*'s retainment of confidential information belong to both *Company* and other companies.
+  - *Recipeint*'s use of data and information in the process of company affairs.
 
 #### 업무외 이용 및 사적 이용 금지 조항/Prohibition of Utilizing Confidential Information in Non-Business Reason
 - 적용대상 : 임직원, 협력업체, 외부용역
 - 본인은 회사의 영업비밀을 비롯한 회사의 일체의 정보에 대해서 지정된 업무에 사용하는 경우를 제외하고는 어떠한 사유로도 업무 외로 또는 개인적 목적으로 사용하거나 회사 내외의 제3자에게 누설 또는 공개하지 않겠습니다.
 
 - coverage : employer, cooperative firm, subcontractor
-- For any purpose except for the business purpose assigned to Recipient, Recipient shall not divulge any form of Company's information including business secret to the third parties in or out of company.
-- Recipient shall not be allowed to use any form of Company's information thereof for Recipient's own purpose.
+- For any purpose except for the business purpose assigned to *Recipient*, *Recipient* shall not divulge any form of *Company*'s information including business secret to the third parties in or out of *Company*.
+- *Recipient* shall not be allowed to use any form of *Company*'s information thereof for *Recipient*'s own purpose.
 
 #### 위약벌 또는 손해배상액의 예정/Caculation of Penalty for Breach of Contract and Amount of Compensation
 - 적용대상 : 임직원, 협력업체, 외부용역
@@ -207,26 +207,26 @@ Items identified below are mendatory for NDA with external subcontractor.
 상기 본인은 75미리스튜디오(주) 프로젝트를 진행함에 있어 사내 보안관리지침에서 정하는 규칙을 숙지하고 보안사항을 준수할 것이며, 고의 또는 과실로 회사 이미지 또는 재산상의 손해가 발생하지 않도록 할 것을 서약합니다.
 
 - coverage : employer, cooperative firm, subcontractor
-- In the case of breach, Reciepent acknowledges and agrees that:
-  - Company may claim any and all applicable legal and equitable remedies against Recipient
-  - Company may impose civil and criminal liabilities
+- In the case of breach, *Reciepent* acknowledges and agrees that:
+  - *Company* may claim any and all applicable legal and equitable remedies against *Recipient*
+  - *Company* may impose civil and criminal liabilities
   pursuant to related Act and subordinate statute including "UNFAIR COMPETITION PREVENTION AND TRADE SECRET PROTECTION ACT", "ACT ON PROMOTION OF INFORMATION AND COMMUNICATIONS NETWORK UTILIZATION AND INFORMATION PROTECTION", ETC.
 
-- If violation of this Agreement and the amount of damages are recognized, Recipient shall compensate proved amount of damage.
+- If violation of this Agreement and the amount of damages are recognized, *Recipient* shall compensate proved amount of damage.
 
-Recipient hereto agrees as follows:
-  - Recipient shall acquaint internal security policy.
-  - Recipient shall abide by clauses of internal security policy.
-  - Whether by intention or negligence, Recipient shall try not to damage corporate imago and propety of Company.
+*Recipient* hereto agrees as follows:
+  - *Recipient* shall acquaint internal security policy.
+  - *Recipient* shall abide by clauses of internal security policy.
+  - Whether by intention or negligence, *Recipient* shall try not to damage corporate imago and propety of *Company*.
 
 
-## 방문협약이 불가능시/If Concluding agreement on visit is unavailable
+## 방문협약이 불가능시/If On-visit Conclusion of Agreement Is Unavailable
 클라이언트 또는 75미리스튜디오(주) 측에서 발송한 기밀유지협약서에 성함 및 주소등의 정보를 기재후 서명합니다.
 
 원본을 스캔하고 PDF 사본을 E-mail을 통해서 발송합니다.
 
-- Recipient fills in and signs NDA.
-- Recipient scans original copy and send duplicate in PDF form via E-mail.
+- *Recipient* fills in and signs NDA.
+- *Recipient* scans original copy and sends duplicate in PDF form via E-mail.
 
 ## 양식 다운로드/ Download Form
 - [보안서약서(한글) - 임직원](../pdf/nda_employ.pdf)  : Non-Disclosure Agreement(Korean) - Employer
