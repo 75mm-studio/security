@@ -39,5 +39,5 @@ MPAA-related rule : DS-3.0, MS-6.0, DS-1.6
 
 Main Device is connected to UPS. Available time of UPS is 30 minutes.(According to MPAA, minimum available time is 15 minutes.)
 
-## 네트워크 구성도/Network Block Diagram
+## 네트워크 구성도 / Network Block Diagram
 ![network](../figures/network.png)
