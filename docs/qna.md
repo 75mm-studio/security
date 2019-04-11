@@ -146,5 +146,5 @@ These are frequently asked question in regard to security issues.
 - 마감일을 지키지 못했을 경우 처리사항은 75미리스튜디오(주)와 클라이언트간 상호간 논의가 필요합니다.
 
 - IN/OUT data of client is uploaded on Cloud. The company uses cloud service to keep business continuity even in the case of an unexpected accident.
-- It fails to keep the deadline, 75mm Studio, Inc and the client need to discuss how to handle the issue.
+- It fails to keep the deadline, 75mm Studio Co., Ltd. and the client need to discuss how to handle the issue.
 
