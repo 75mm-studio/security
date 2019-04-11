@@ -20,7 +20,7 @@ This document will be updated in the the case of occurrence of security issues i
 - [모바일 장치정책](docs/mobile.md) - Mobile Device Policy
 - [네트워크](docs/network.md) - Network Policy
 - [내부 클라이언트 컴퓨터 정책](docs/clientpc.md) - Client Computer and Equipment Policy
-- [물리적인 데이터 배송 정책](docs/send_physical_data.md)
+- [물리적인 데이터 배송 정책](docs/data_transfer_information.md)
 - [클라우드 정책](docs/cloud.md) - Cloud Computing Policy
 - [패스워드 정책](docs/password.md) - Password Policy
 - [코드네임 정책](docs/codename.md) - Code Name Policy
