@@ -1,6 +1,10 @@
 # Cloud 서비스 정책 / Cloud Service Policy
 75미리스튜디오(주)는 Aws 클라우드를 사용합니다.<br/>
+<<<<<<< HEAD
 75mm Studio Co., Ltd. shall use AWS cloud computing services.
+=======
+75mm Studio Co.,Ltd. uses AWS cloud computing services.
+>>>>>>> d4708fecee215374f5a5f880229acc3acc399752
 
 MPAA 관련규칙 : MS-4.0(사업연속성), MS-6.0(사업연속성, 재해복구), DS-10.9(백업,복원 시스템 구현)<br/>
 MPAA-related Rule : MS-4.0(Business Continuity Plan), MS-6.0(Business Continuity Plan, Disaster Recovery), DS-10.9(Backup,Implemantation of Restoration System)
@@ -11,7 +15,7 @@ MPAA-related Rule : MS-4.0(Business Continuity Plan), MS-6.0(Business Continuity
 - 클라이언트의 경우 최대 90일까지 사용가능한 계정을 발급합니다.
 - 해당 프로젝트가 종료되면 외부 관계자의 계정을 협의후 제거합니다.
 - 클라우드 권한이 있는 On-set 장비가 도난시 바로 관리자에게 연락하여 사용자 클라우드 키를 제거합니다.
-- Company shall apply individual security policy for each user.
+- *Company* shall apply individual security policy for each user.
 - Passwords for all individual account shall require eight or more characters including:
     - english upper case letters
     - english lower case letters
@@ -24,23 +28,40 @@ MPAA-related Rule : MS-4.0(Business Continuity Plan), MS-6.0(Business Continuity
 
 ## 퇴사자 / Retiree
 - 퇴사발표 이후 보안서약서를 작성후 즉시 AWS IAM 접근키를 제거합니다.
+<<<<<<< HEAD
 - After notice of dismissal, the retiree prepares a security pledge.
 - Immediately after drawing up, Company shall remove AWS IAM access key.
+=======
+- After dismissal announcement, retiree shall draw up security pladge.
+- Immediately after drawing up, *Company* shall remove AWS IAM access key.
+>>>>>>> d4708fecee215374f5a5f880229acc3acc399752
 
 ## 클라이언트 데이터 / Data of Client
 - 클라이언트가 문의한 작업데이터는 클라우드에 저장됩니다.
 - 건물의 재난, 화재를 대비하고 사업의 연속성을 유지하기 위해서 클라우드로 위험을 분산합니다.
+<<<<<<< HEAD
 - Work data that the client has requested shall be stored on cloud service.
 - Company shall store data on cloud service:
     - To prepare for the danger of building collapse and fire.
+=======
+- Work data that client has requested shall be stored on cloud.
+- *Company* shall store data on cloud:
+    - to spread risk of building collapse and fire.
+>>>>>>> d4708fecee215374f5a5f880229acc3acc399752
     - for BCP(Business Continuity Plan).
     
 ## 프로젝트 백업 / Project Backup
 - 프로젝트가 종료되면 완료된 데이터는 클라우드(AWS Glacier)로 백업합니다.
 - 건물의 재난, 화재 대비 사업의 연속성을 위해서 클라우드로 위험을 분산합니다.
+<<<<<<< HEAD
 - Every completed data will be backed up on the cloud(AWS Glacier) at the end of the project.
 - Company shall store data on cloud service:
     - To prepare for the danger of building collapse and fire.
+=======
+- Every completed project data will be backed up on cloud(AWS Glacier) at the end of the project.
+- *Company* shall store data on cloud:
+    - to spread risk of building collapse and fire.
+>>>>>>> d4708fecee215374f5a5f880229acc3acc399752
     - for BCP(Business Continuity Plan).
     
 ## 클라우드 서비스 로그정책 / Cloud service logs policy

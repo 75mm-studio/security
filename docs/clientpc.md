@@ -27,8 +27,13 @@ MPAA-related rule : DS-2.0, DS-5.1, DS-6.7, DS-10.3, DS-10.8, DS-11.5, MS-4.3
 - On the work storage, the permission shall be set by a user.
 - With the exception of the system administrator, common users are prohibited from installing software without permission.
 - Only the system administrator shall access to the root.
+<<<<<<< HEAD
 - Access to physical USB is not allowed.
 - The security seal shall be attached to the USB port.
+=======
+- The physical access of USB is not allowed.
+- The security seals shall be attached to the USB ports.
+>>>>>>> d4708fecee215374f5a5f880229acc3acc399752
 
 
 ## Windows
@@ -48,7 +53,11 @@ MPAA-related rule : DS-2.0, DS-5.1, DS-6.7, DS-10.3, DS-10.8, DS-11.5, MS-4.3
 
 ## 노트북/ Labtop
 - 데이터 전송포트, USB포트에 보안씰을 붙혀서 사용합니다.
+<<<<<<< HEAD
 - Security seal shall be attached to the USB port and data transfer port.
+=======
+- Security seals shall be attached to USB ports and data transfer ports.
+>>>>>>> d4708fecee215374f5a5f880229acc3acc399752
 
 ## 특이사항/ Remark
 - 매치무브 소프트웨어 3D이퀄라이저는 인증을 위해서 최초 1회 인터넷 연결합니다. 보안담당자의 관리하에 인증을 진행합니다.
