@@ -28,10 +28,10 @@ The company may discipline the accused person through the decision of a discipli
 1. 해고 : 근로계약을 해지하는 것으로 한다.
 
 Each kind of disciplinary action shall be defined in detail as follows:
-1. reprimand: an Accused person shall be required to submit a written account of the affair.
-1. salary reduction: Salary shall be reduced by not more than half of the daily average wage at a time and 10 percent of the total amount of wages in total. 
-1. suspension from office: In the period of suspension, the accused person shall not be allowed to work and shall not payed.
-1. dismissal: Dismissal means termination of a employment contract.
+1. Reprimand: an Accused person shall be required to submit a written account of the affair.
+1. Salary reduction: Salary shall be reduced by not more than half of the daily average wage at a time and 10 percent of the total amount of wages in total. 
+1. Suspension from office: In the period of suspension, the accused person shall not be allowed to work and shall not be paid.
+1. Dismissal: Dismissal means termination of an employment contract.
 
 ## 제61조 : 징계심의/ Article 61: Disciplinary Review
 1. 징계위원회의 위원장은 징계의결을 위한 회의 7일전 까지 징계위원회의 위원들에게는 회의일시, 장소, 의제 등을, 징계대상 사원에게는 서면으로 별지2의 출석통지를 각 통보한다.
