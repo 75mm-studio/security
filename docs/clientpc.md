@@ -25,7 +25,7 @@ MPAA-related rule : DS-2.0, DS-5.1, DS-6.7, DS-10.3, DS-10.8, DS-11.5, MS-4.3
   - number
 - If it is hard to come up with password, [PASSWORD GENERATOR](https://passwordsgenerator.net) would be useful.
 - On the work storage, the permission shall be set by a user.
-- With the exception of the system administrator, common users are prohibited from installing software without permission.
+- Except for the system administrator, common users are prohibited from installing software without permission.
 - Only the system administrator shall access to the root.
 - Access to physical USB is not allowed.
 - The security seal shall be attached to the USB port.
