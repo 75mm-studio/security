@@ -16,7 +16,7 @@ These are frequently asked question in regard to security issues.
 - With this document(repository), the Company instructs security awareness training for employee and cooperative firm.
 - Customers can get information about the security policy of the Company from this document.
 
-### 현재 모든 피고용인들은 정보 보안에 대해 충분한 교육이 되어있습니까? 구체적으로 어떻게 되고 있는지 설명해주세요. / Are all the employees fully trained for information security? Explain how education is going
+### 현재 모든 피고용인들은 정보 보안에 대해 충분한 교육이 되어있습니까? 구체적으로 어떻게 되고 있는지 설명해주세요. / Are all the employees fully trained for information security? Please explain how education is going.
 
 - 현재 접근하고 있는 문서를 통해서 입사 보안교육을 진행합니다.
 - 보안 위배시 회사 [징계조치사항](security_disciplinary_action.md)을 따릅니다.
@@ -24,17 +24,17 @@ These are frequently asked question in regard to security issues.
 - Information security education is progressed with this document(repository).
 - If an employee violates the security policy, the employee shall follow [Discipline and Sanction Policy](security_disciplinary_action.md).
 
-### 당사는 정보 보안 정책 조항 안에 워크스테이션, 서버, 네트워크 장비, 그리고 전문 장비에 관련하여 행동수칙이 설정되어 있습니까? / Is a code of conduct included in the information security policy of the Company? And does it covers workstation, server, network equipment, and other technical equipment?
+### 당사는 정보 보안 정책 조항 안에 워크스테이션, 서버, 네트워크 장비, 그리고 전문 장비에 관련하여 행동수칙이 설정되어 있습니까? / Is a code of conduct included in the information security policy of the Company? And does it cover workstation, server, network equipment, and other technical equipment?
 
 - 인터넷망과 작업을 위한 내부 인트라넷 네트워크는 물리적으로 분리되어 있습니다.
 - 아티스트 워크스테이션은 리눅스로 사용하며 기본적으로 USB 접근제한이 걸려있습니다. 인터넷을 물리적으로 사용할 수 없습니다.
 - 서버실은 관리자가 총 3번의 생체인식(지문)을 통해서 접근할 수 있습니다. 항시 CCTV 녹화가 진행중입니다.
 
 - Internet network and inner intranet network for the task is physically separated.
-- Workstation for artist uses Linux and is not allow to use USB. Also, Workstation for the artist cannot be connected to the internet physically.
+- Workstation for artist uses Linux and is not allowed using USB. Also, Workstation for the artist cannot be connected to the internet physically.
 - Only administrator can access to the server room through three times of biometrics(fingerprint). The server room is recorded around the clock through CCTV.
 
-### 당사는 작업자에게 작업에 관련한 부분에 한에서 엑세스 권한를 부여합니까? 구체적으로 설명해주십시오. / How many authority doses the worker have in regard to the project?
+### 당사는 작업자에게 작업에 관련한 부분에 한에서 엑세스 권한를 부여합니까? 구체적으로 설명해주십시오. / How many authorities doses the worker have in regard to the project?
 
 - 해당 프로젝트만 접근할 수 있도록 권한 부여하고 있습니다.
 - Employees only can access to an ongoing project.
@@ -132,7 +132,7 @@ These are frequently asked question in regard to security issues.
 - We avoid a physical moving of data. We suggest the client upload the data on the AWS S3. 
 
 
-### 당사는 데이터를 어떻게 백업하는지, 그리고 불의의 사고로 데이터를 유실할 때 복원을 하는 메소드를 기술해주세요. 그리고 또 복원하는데 걸리는 시간도 포함해서 설명해주십시오. / Please describe how Company back up the data and the method to restore the data in the case of data loss by an unexpected accident. and how long does it take to restore?
+### 당사는 데이터를 어떻게 백업하는지, 그리고 불의의 사고로 데이터를 유실할 때 복원을 하는 메소드를 기술해주세요. 그리고 또 복원하는데 걸리는 시간도 포함해서 설명해주십시오. / Please describe how Company back up the data and the method to restore the data in the case of data loss by an unexpected accident. And how long does it take to restore?
 
 - 사업 연속성을 위해 클라우드에(AWS S3 Glaciar) 백업합니다.
 - 복원에 걸리는 시간은 요청 이후 24~48시간 이내입니다.
@@ -146,5 +146,5 @@ These are frequently asked question in regard to security issues.
 - 마감일을 지키지 못했을 경우 처리사항은 75미리스튜디오(주)와 클라이언트간 상호간 논의가 필요합니다.
 
 - IN/OUT data of client is uploaded on Cloud. The company uses cloud service to keep business continuity even in the case of an unexpected accident.
-- It fails to keep the deadline, 75mm Studio, Inc and the client need to discuss how to handle the issue.
+- It fails to keep the deadline, 75mm Studio Co., Ltd. and the client need to discuss how to handle the issue.
 

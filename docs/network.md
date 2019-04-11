@@ -12,6 +12,7 @@ MPAA-related rule : DS-3.0, MS-6.0, DS-1.6
 
 - Subcontractor : ITRAY Corp.
 - The firewall shall not be managed in a remote environment outside the company. DS-1.6
+- The firewall shall be set to block ping command from remote environment to *Company*'s physical IP address.
 
 ## 서버접근 / Server Access
 - 지문이 등록된 관리자만 접근가능하며 서버실까지 총 3중 인증단계를 거쳐야합니다.
@@ -37,7 +38,7 @@ MPAA-related rule : DS-3.0, MS-6.0, DS-1.6
 ## UPS(Uninterruptible Power Supply)
 주요 장비는 UPS에 물려있으며 정전시 가용시간은 30분입니다.(MPAA 기준 시간은 최소 15분입니다.)
 
-Main Device is connected to UPS. Available time of UPS is 30 minutes.(According to MPAA, minimum available time is 15 minutes.)
+Main Devices are connected to UPS. In the case of blackout, available time of UPS is 30 minutes.(According to MPAA, minimum available time is 15 minutes.)
 
 ## 네트워크 구성도 / Network Block Diagram
 ![network](../figures/network.png)
