@@ -11,12 +11,8 @@ MPAA-related rule : DS-3.0, MS-6.0, DS-1.6
 - 외부에서 회사 물리IP로 ping명령어를 할 수 없도록 설정
 
 - Subcontractor : ITRAY Corp.
-<<<<<<< HEAD
 - The firewall shall not be managed in a remote environment outside the company. DS-1.6
-=======
-- Firewall shall not be managed in remote environment outside the company. DS-1.6
-- Firewall shall be set to block ping command from remote environment to *Company*'s physical IP address.
->>>>>>> d4708fecee215374f5a5f880229acc3acc399752
+- The firewall shall be set to block ping command from remote environment to *Company*'s physical IP address.
 
 ## 서버접근 / Server Access
 - 지문이 등록된 관리자만 접근가능하며 서버실까지 총 3중 인증단계를 거쳐야합니다.
