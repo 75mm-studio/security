@@ -7,7 +7,7 @@ MPAA 관련규칙: MS-8.0, PS-17.1, PS-17.2, PS-17.3, PS-20.1
 
 배송시간, 발송인 이름, 수취인 이름, 도착지 주소, 배송업체에서 발행한 추적번호를 작성합니다.
 
-[데이터 배송 양식 다운로드](../pdf/data_tansfer_information.pdf)
+[데이터 배송 양식 다운로드](../pdf/data_transfer_information.pdf)
 
 ### 입 수
 
