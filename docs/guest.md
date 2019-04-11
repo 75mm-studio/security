@@ -52,9 +52,9 @@ MPAA-related rule :  PS-2.0, PS-2.1, PS-2.2, PS-2.3, PS-3.0
 	- If a visitor needs to use private devices such as a laptop, the visitor may use guest WIFI.
 	- In the case of having a meeting for the purpose of business, NDA shall be drawn up in advance. 
 - If a visitor is closely related to Project, Company confirms the identity by identification card on the visitor's first visit.
-	- Validate identifications are as follow.
+	- Validate identifications are as follows.
 		- passport
-		- certificate of residient registrantion
+		- certificate of resident registration
 		- driver's license
 		- government-issued identification.
 		
@@ -72,4 +72,4 @@ MPAA-related rule :  PS-2.0, PS-2.1, PS-2.2, PS-2.3, PS-3.0
 
 ## 참고사항 / Remark
 - 방문객 정보란에 표기된 각 항목의 영문표기는 AWS DynamoDB Attribute로 사용할 수 있는 키워드로 작성되어 있습니다. 추후 서류가 아닌 DB로 방문객 시스템을 구축할 때 위에 선언된 영문표기를 사용합니다.
-- Each element of visitors log is drawn up with keywords which can be ported to AWS DynamoDB Attribute. In the case of system buildup with DB not with documents, use the aforementioned English notation.
+- Each element of visitors logs is drawn up with keywords which can be ported to AWS DynamoDB Attribute. In the case of system buildup with DB not with documents, use the aforementioned English notation.
