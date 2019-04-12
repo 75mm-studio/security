@@ -14,10 +14,10 @@ MPAA-related rule : DS-12.3, DS-12.4
 - 내부 회의석상에서도 코드네임으로 프로젝트를 진행합니다.
 
 - Code name is assigned for:
-  - every project including cloud accounts for the project.
-  - folders used for data transmission from and to cloud service.
-  - client accounts for cloud service.
- - Name of client accounts for cloud shall use the same code name with the project code name.
+  - Every project including cloud accounts for the project.
+  - Folders used for data transmission from and to cloud service.
+  - Client accounts for cloud service.
+  - Name of client accounts for cloud shall use the same code name with the project code name.
 - Even in the internal meeting, the project shall be referred to as its code name.
 
 ## 프로젝트 이름 / Project Name
