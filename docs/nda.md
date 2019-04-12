@@ -5,12 +5,12 @@ Non-Disclosure Agreement 축약해서 NDA로 불립니다.
 
 This is a document for Non-Disclosure Agreement(hereinafter called NDA).
 75mm Studio Co., Ltd. draws up NDA in the case of:
-  - join and the resignation of an employer.
-  - cooperation with the employer of the cooperative firm.
-  - cooperation with an external company.
-  - cooperation with a service company.
-  - the launch of the project.
-  - organizing TF.
+  - Join and the resignation of an employer.
+  - Cooperation with the employer of the cooperative firm.
+  - Cooperation with an external company.
+  - Cooperation with a service company.
+  - The launch of the project.
+  - Organizing TF.
   
 This agreement is for:
   - Protection of confidential business information between business and business(B2B) or business and customer(B2C).
@@ -31,12 +31,12 @@ Items identified below are mandatory for NDA with an employer. An employer shall
 - 서명일
 - 서 명
 
-- name
-- address
-- resident registration number
-- telephone No.
-- signed date
-- signature
+- Name
+- Address
+- Resident registration number
+- Telephone No.
+- Signed date
+- Signature
 
 ## 협력업체 정보기록 / Cooperative Firm Information
 협력업체 보안서약서 작성시 필요한 항목입니다.
@@ -49,13 +49,13 @@ Items identified below are mandatory for NDA with the cooperative firm.
 - 대표를 포함한 프로젝트 참여 서약자 테이블과 서명리스트
 - 서명일
 
-- name of company
-- location
-- business registration number(Korean EID)
-- telephone No.
-- signatory table for project participant including representative
-- signature list of project participant including representative
-- signed date
+- Name of company
+- Location
+- Business registration number(Korean EID)
+- Telephone No.
+- Signatory table for project participant including representative
+- Signature list of project participant including representative
+- Signed date
 
 ## 외부용역인력 정보기록 / External Subcontractor Information
 외부 용역인력 보안서약서 작성시 필수로 필요한 항목입니다.
@@ -68,12 +68,12 @@ Items identified below are mandatory for NDA with the external subcontractor.
 - 서명일
 - 서 명
 
-- name
-- address
-- resident registration number
-- telephone No.
-- signed date
-- signature
+- Name
+- Address
+- Resident registration number
+- Telephone No.
+- Signed date
+- Signature
 
 
 ## 75mm-studio 정보기록/ *Company* Information
@@ -84,11 +84,11 @@ Items identified below are mandatory for NDA with the external subcontractor.
 - 전화번호 : 02-512-7520
 - 대표서명 : 신철호(인)
 
-- name of company : 75mm Studio Co.,Ltd.
-- location : 502, 6, Nonhyeon-ro 164-gil, Gangnam-gu, Seoul, Republic of Korea
-- business registration number(Korean EID) : 110-86-18266
+- Name of company : 75mm Studio Co.,Ltd.
+- Location : 502, 6, Nonhyeon-ro 164-gil, Gangnam-gu, Seoul, Republic of Korea
+- Business registration number(Korean EID) : 110-86-18266
 - Main Contact No. : 02-512-7520
-- signature of representative: Chol Ho Shin(signature)
+- Signature of representative: Chol Ho Shin(signature)
 
 ## 보안서약서 항목 / NDA Articles
 
@@ -97,7 +97,7 @@ Items identified below are mandatory for NDA with the external subcontractor.
 - 회사에서 진행하는 모든 프로젝트 정보를 외부에 공개, 발설하지 않습니다.
 - 본인은 75미리스튜디오(주)의 영업비밀 또는 회사의 정보에 대하여 재직중 또는 퇴사 이후에도 비밀을 유지할 것을 맹세합니다.
 
-- coverage: employer
+- Coverage: employer
 - The *Recipient* shall not divulge confidential information outside the company.
 - *Recipient* agrees to maintain all confidential information of 75mm Studio Co., Ltd. in strict confidence during or after the term of employment.
 
@@ -105,7 +105,7 @@ Items identified below are mandatory for NDA with the external subcontractor.
 - 적용대상 : 협력업체, 외부용역
 - 회사에서 진행하는 모든 프로젝트 정보를 외부에 공개, 발설하지 않습니다.
 
-- coverage : cooperative firm, subcontractor
+- Coverage : cooperative firm, subcontractor
 - *Recipient* shall not divulge confidential information outside the company.
 
 
@@ -114,7 +114,7 @@ Items identified below are mandatory for NDA with the external subcontractor.
 - 본인은 인가받지 않은 정보나 서류등에 접근하지 않을 것 입니다.
 - 출입이 금지된 장소나 시설에 출입을 하지 않겠습니다.
 
-- coverage: employer
+- Coverage: employer
 - *Recipient* hereby agrees as follow:
   - *Recipient* shall not access to unauthorized information and documents.
   - *Recipient* shall not access to prohibited places and facilities.
@@ -123,7 +123,7 @@ Items identified below are mandatory for NDA with the external subcontractor.
 - 적용대상 : 임직원
 - 본인은 회사의 사규, 취업규칙, 영업비밀관리규정, 보안정책 등 관련 방침이나 정책을 철저히 준수하며, 주의의무를 가지고 영업비밀 등 회사의 정보를 성실하게 관리하겠습니다.
 
-- coverage: employer
+- Coverage: employer
 - *Recipient* shall abide by policy including company regulations, employment rules, trade secret managing rules, and security policy.
 - *Recipient* shall manage confidential information with the duty of care.
 
@@ -139,7 +139,7 @@ Items identified below are mandatory for NDA with the external subcontractor.
 - 본인은, 재직 중에 보유하였던 회사의 영업비밀 등 정보, 회사의 연구개발, 영업, 재산 등에 영향을 미칠 수 있는 유형, 무형의 정보 기타 회의 주요 영업자산과 관련된 자료 모두를 회사에 반납하고, 이에 관한 어떠한 형태의 사본도 개인적으로 보유하지 않으며, 반납할 수 없는 것은 폐기할 것을 서약합니다.
 - 퇴사시에 최초 고용시 작성하는 근로 계약서 [ 제8조 기밀유지 ] 조항에 의해 원칙이 시행됩니다.
 
-- coverage: employment
+- Coverage: employment
 - *Recipient* hereby agrees as follow:
   - *Recipient* shall promptly return to *Company* all tangible items or embodiments containing or consisting of confidential information that can affect R&D, sales, the asset of *Company.*
   - *Recipient* is not allowed to retain any form of duplicates including electronic copies.
@@ -150,14 +150,14 @@ Items identified below are mandatory for NDA with the external subcontractor.
 - 적용대상 : 임직원
 - 본인은 통상적인 학술 활동이나 교수 활동으로서 회사의 사전 승인을 득한 경우를 제외하고는 재직중 회사의 영업비밀 또는 영업자산이 누설 될 수 있는 자문활동이나 교육활동 등을 수행하지 않겠습니다.
 
-- coverage: employer
+- Coverage: employer
 - During the term of employment, *Recipient* shall not be authorized to do any educational or consulting activity which has  the risk of divulgence of confidential information and assets, except to get prior approval from *Company*.
 
 #### 생성정보의 회사 소유 인정 조항 / Recognition of Company's Ownership of Generated Information
 - 적용대상 : 임직원
 - 본인은 재직 중 업무와 관련하여 취득하거나 독자적으로 또는 다른 사람과 공동으로 작성, 개발, 설계, 고안한 기술과 정보 및 이에 준하는 산출물에 관한 소유권 또는 지식재산권이 회사에 있음을 인정합니다.
 
-- coverage: employer
+- Coverage: employer
 - *Recipient* acknowledges and agrees that ownership and intellectual property right of output is on *Company*.
 - For the purpose of this article, output means technology, information or an equivalent product that *Recipient* acquired, established, developed, designed, invented as a consequence of independent or collaborative work.
 
@@ -165,17 +165,17 @@ Items identified below are mandatory for NDA with the external subcontractor.
 - 적용대상 : 임직원
 - 본인은 회사가 회사에 손해를 끼칠 수 있는 기술 및 정보의 유출방지를 위하여 필요한 경우 컴퓨터 등 정보처리장치나 인터넷 등 정보통신망의 사용 내역, 회사 이메일 등 필요한 정보를 모니터링 또는 포렌식 할 수 있으며, 불법행위 또는 영업비밀 침해 우려가 있는 경우 관련 내용을 사전에 통지하지 않고 열람, 복제등을 할 수 있다는 점에 동의합니다. 본인은 재직 중 또는 퇴사 후에도 회사가 본인의 담당업무와 관련하여 법적분쟁이 발생하는 경우 회사에 적극 협조하겠습니다.
 
-- coverage: employer
+- Coverage: employer
 - *Recipient* acknowledges and agrees that:
-  - if necessary, *Company* may monitor or perform forensic analysis on any information including the history of information and communication network such as the internet, emails to prevent divulgence of technology and confidential information.
-  - if deemed to have the risk of illegal act or infringement of confidential information, *Company* may inspect and duplicate related contents thereof.
+  - If necessary, *Company* may monitor or perform forensic analysis on any information including the history of information and communication network such as the internet, emails to prevent divulgence of technology and confidential information.
+  - If deemed to have the risk of illegal act or infringement of confidential information, *Company* may inspect and duplicate related contents thereof.
 -  During or after the term of employment, if the legal dispute is raised and related to *Recipient*'s responsibilities, *Recipient* shall fully cooperate to *Company*.
 
 #### 전직금지 또는 겸직금지 조항 / Prohibition of Concurrent Offices and Transfer
 - 적용대상 : 임직원
 - 본인은 고용중 경쟁업체나 동종업종의 회사에서 일정한 직을 수행하거나 일시적 업무등을 하지 않겠습니다. 만약 업무상 타 기업체가 본 서약서에 따른 겸업금지의 대상이 되거나 대상인지 여부가 불분명할 경우, 사전에 회사에 통보하여 회사의 확인 및 동의를 받겠습니다.
 
-- coverage: employer
+- Coverage: employer
 - *Recipient* shall not be allowed to work with a rival company or company of the same industry during the term of employment.
 - If it is unclear whether the company is the object of prohibition,  *Recipient* shall get *Company*'s confirmation and consent in advance.
 
@@ -183,7 +183,7 @@ Items identified below are mandatory for NDA with the external subcontractor.
 - 적용대상 : 임직원, 협력업체, 외부용역
 - 본인은 자사 또는 타사의 비밀유지의무가 있는 정보를 보유하거나 회사 업무 수행 과정외에 데이터 또는 정보를 사용시, 이로 인해서 분쟁이 발생하면 그에 대한 모든 책임을 부담하겠습니다.
 
-- coverage: employer, cooperative firm, subcontractor
+- Coverage: employer, cooperative firm, subcontractor
 - *Recipient* shall take responsibility of dispute arising out of:
   - *Recipient*'s retainment of confidential information belonging to both *Company* and other companies.
   - *Recipient*'s use of data and information in the process of company affairs.
@@ -192,7 +192,7 @@ Items identified below are mandatory for NDA with the external subcontractor.
 - 적용대상 : 임직원, 협력업체, 외부용역
 - 본인은 회사의 영업비밀을 비롯한 회사의 일체의 정보에 대해서 지정된 업무에 사용하는 경우를 제외하고는 어떠한 사유로도 업무 외로 또는 개인적 목적으로 사용하거나 회사 내외의 제3자에게 누설 또는 공개하지 않겠습니다.
 
-- coverage: employer, cooperative firm, subcontractor
+- Coverage: employer, cooperative firm, subcontractor
 - For any purpose except for the business purpose assigned to *Recipient*, *Recipient* shall not divulge any form of *Company*'s information including the business secret to the third parties in or out of *Company*.
 - *Recipient* shall not be allowed to use any form of *Company*'s information thereof for *Recipient*'s own purpose.
 
@@ -206,7 +206,7 @@ Items identified below are mandatory for NDA with the external subcontractor.
 
 상기 본인은 75미리스튜디오(주) 프로젝트를 진행함에 있어 사내 보안관리지침에서 정하는 규칙을 숙지하고 보안사항을 준수할 것이며, 고의 또는 과실로 회사 이미지 또는 재산상의 손해가 발생하지 않도록 할 것을 서약합니다.
 
-- coverage: employer, cooperative firm, subcontractor
+- Coverage: employer, cooperative firm, subcontractor
 - In the case of breach, *Recipient* acknowledges and agrees that:
   - *Company* may claim any and all applicable legal and equitable remedies against *Recipient*
   - *Company* may impose civil and criminal liabilities
