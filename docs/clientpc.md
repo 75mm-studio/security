@@ -19,10 +19,10 @@ MPAA-related rule : DS-2.0, DS-5.1, DS-6.7, DS-10.3, DS-10.8, DS-11.5, MS-4.3
 - PC of the artist shall not be connected to the internet.
 - The project data shall not be stored on local disk. All data shall be stored on the storage.
 - Passwords for the user shall require eight or more characters including:
-  - english upper case letters
-  - english lower case letters
-  - special symbol
-  - number
+  - English upper case letters
+  - English lower case letters
+  - Special symbol
+  - Number
 - If it is hard to come up with password, [PASSWORD GENERATOR](https://passwordsgenerator.net) would be useful.
 - On the work storage, the permission shall be set by a user.
 - Except for the system administrator, common users are prohibited from installing software without permission.
