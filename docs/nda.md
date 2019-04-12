@@ -21,7 +21,7 @@ This agreement is for:
 입사시 작성합니다.
 보안서약서 항목 변경시 변경된 항목을 구두로 알리고 기존 서명한 보안서약서를 갱신합니다.
 
-Items identified below are mandatory for NDA with an employer. An employer shall draw up at the time of entrance. If necessary, the company may update the NDA. Company shall orally inform the update to the employer in advance of the change.
+Items identified below are mandatory for NDA with an employer. An employer shall draw up at the time of entrance. If necessary, *Company* may update the NDA. *Company* shall orally inform the update to the employer in advance of the change.
 
 
 - 성 명
@@ -132,14 +132,14 @@ Items identified below are mandatory for NDA with the external subcontractor.
 - 본인은 재직 중 또는 퇴사 후에도 재직 중 취득한 영업비밀 등 정보를 회사의 사전 동의 없이 어떠한 방법으로도 제3자에게 유출·누설하거나 공개하지 않겠습니다.
 
 - coverage: employer
-- Unless otherwise approved by the company, *Recipient* shall maintain the secrecy of all confidential information of *Company* from any third parties during and after the term of employment.
+- Unless otherwise approved by *Company*, *Recipient* shall maintain the secrecy of all confidential information of *Company* from any third parties during and after the term of employment.
 
 #### 퇴사시 반납 및 개인적 보유 금지 조항 / Prohibition on Personal Retention and Duty of Return on Resignation
 - 적용대상 : 임직원
 - 본인은, 재직 중에 보유하였던 회사의 영업비밀 등 정보, 회사의 연구개발, 영업, 재산 등에 영향을 미칠 수 있는 유형, 무형의 정보 기타 회의 주요 영업자산과 관련된 자료 모두를 회사에 반납하고, 이에 관한 어떠한 형태의 사본도 개인적으로 보유하지 않으며, 반납할 수 없는 것은 폐기할 것을 서약합니다.
 - 퇴사시에 최초 고용시 작성하는 근로 계약서 [ 제8조 기밀유지 ] 조항에 의해 원칙이 시행됩니다.
 
-- Coverage: employment
+- Coverage: employer
 - *Recipient* hereby agrees as follow:
   - *Recipient* shall promptly return to *Company* all tangible items or embodiments containing or consisting of confidential information that can affect R&D, sales, the asset of *Company.*
   - *Recipient* is not allowed to retain any form of duplicates including electronic copies.

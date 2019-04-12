@@ -24,30 +24,30 @@ These are frequently asked question in regard to security issues.
 - Information security education is progressed with this document(repository).
 - If an employee violates the security policy, the employee shall follow [Discipline and Sanction Policy](security_disciplinary_action.md).
 
-### 당사는 정보 보안 정책 조항 안에 워크스테이션, 서버, 네트워크 장비, 그리고 전문 장비에 관련하여 행동수칙이 설정되어 있습니까? / Is a code of conduct included in the information security policy of the Company? And does it cover workstation, server, network equipment, and other technical equipment?
+### 당사는 정보 보안 정책 조항 안에 워크스테이션, 서버, 네트워크 장비, 그리고 전문 장비에 관련하여 행동수칙이 설정되어 있습니까? / Is there a code of conduct in the information security policy of the Company? And does it cover workstation, server, network equipment, and other technical equipment?
 
 - 인터넷망과 작업을 위한 내부 인트라넷 네트워크는 물리적으로 분리되어 있습니다.
 - 아티스트 워크스테이션은 리눅스로 사용하며 기본적으로 USB 접근제한이 걸려있습니다. 인터넷을 물리적으로 사용할 수 없습니다.
 - 서버실은 관리자가 총 3번의 생체인식(지문)을 통해서 접근할 수 있습니다. 항시 CCTV 녹화가 진행중입니다.
 
 - Internet network and inner intranet network for the task is physically separated.
-- Workstation for artist uses Linux and is not allowed using USB. Also, Workstation for the artist cannot be connected to the internet physically.
+- Workstation for artist uses Linux and is not allowed using USB. Also, Workstation for the artist cannot be physically connected to the internet.
 - Only administrator can access to the server room through three times of biometrics(fingerprint). The server room is recorded around the clock through CCTV.
 
-### 당사는 작업자에게 작업에 관련한 부분에 한에서 엑세스 권한를 부여합니까? 구체적으로 설명해주십시오. / How many authorities doses the worker have in regard to the project?
+### 당사는 작업자에게 작업에 관련한 부분에 한에서 엑세스 권한를 부여합니까? 구체적으로 설명해주십시오. / How much access authority doses the worker have in regard to the project?
 
 - 해당 프로젝트만 접근할 수 있도록 권한 부여하고 있습니다.
 - Employees only can access to an ongoing project.
 
-### 당사는 피고용자, 계약자, 그리고 다른 서드파티에게 기밀 혹은 비공개 동의서를 작성합니까? / does the Company get NDA from employees, contractor and other third parties?
+### 당사는 피고용자, 계약자, 그리고 다른 서드파티에게 기밀 혹은 비공개 동의서를 작성합니까? / Does the Company get NDA from employees, contractor and other third parties?
 
 - 보안교육, 보안 서약서(NDA)를 작성합니다.
-- Company conduct a security education and also get NDA in advance.
+- Company conducts a security education and also gets NDA in advance from employees, contractor and other third parties.
 
 ### 당사는 비즈니스적, 혹은 사적 방문자에게 해당하는 문서화된 정책이 있습니까? 구체적으로 설명해주십시오. / Is there written policy for visitors?
 
 - 사내 [방문객 보안절차](guest.md)를 따라 보안절차를 진행합니다.
-- For visitors, Company proceed security procedure in accordance with [Visitor Security Policy](guest.md).
+- For visitors, Company proceeds security procedure in accordance with [Visitor Security Policy](guest.md).
 
 ### 당사는 보안, 안전, 원거리 알림이 가능한 재난경보 시스템이 구축되어 있습니까? 그 시스템은 정기적으로 점검되고 있습니까? 구체적으로 설명해주십시오. / Is there a disaster alert system? If so, is it checked regularly?
 
@@ -57,7 +57,7 @@ These are frequently asked question in regard to security issues.
 - The office monitoring system is managed with Olleh CCTV telecop.
 - A fire alarm system is set up.
 
-### 당사는 데이터 스토리지 장비들이 감시 및 제한된 출입 체계를 갖춘 보안성이 보장되는 방이나 데이터 센터망안에 있습니까? 구체적으로 설명해주십시오. / are data storages in a secure place with strict access and monitoring system?
+### 당사는 데이터 스토리지 장비들이 감시 및 제한된 출입 체계를 갖춘 보안성이 보장되는 방이나 데이터 센터망안에 있습니까? 구체적으로 설명해주십시오. / Are data storages in a secure place with strict access and monitoring system?
 
 - 서버실은 총 3번의 생체인증(지문)을 거쳐야 접근이 가능한 구조로 되어있습니다.
 - CCTV 가 작동되고 있습니다.
@@ -82,10 +82,10 @@ These are frequently asked question in regard to security issues.
 - 인터넷망과 내부 작업망은 물리적으로 분리되어있습니다.
 
 - The company uses a mail forwarding service from Mailgun service. The maximum size of Email attachment is limited to 25MB.
-- All the computer using Linux is forced to attach a security seal on a USB port. USB storage type cannot be connected by software.
-- Internet network and the inner working network is physically separated.
+- All the computers using Linux are forced to attach a security seal on a USB port. USB storage type cannot be connected by software.
+- Internet network and the inner working network are physically separated.
 
-### 당사는 노트북이나, 모바일 장비를 프로덕션 작업 목적으로 사용하고 있습니까? 만약 이 디바이스들을 분실할 경우, 기밀 정보 유출을 막기 위해 어떤 조치를 취하고 있는지 설명해주세요. / Are laptops and mobile devices used to working on production? In the case of loss of these devices, what measures does the Company take?
+### 당사는 노트북이나, 모바일 장비를 프로덕션 작업 목적으로 사용하고 있습니까? 만약 이 디바이스들을 분실할 경우, 기밀 정보 유출을 막기 위해 어떤 조치를 취하고 있는지 설명해주세요. / Are laptops and mobile devices used for production work? In the case of loss of these devices, what measures does the Company take?
 
 - 사내에서 사용하는 노트북은 모든 포트에 보안씰을 붙혀서 사용하고 있습니다.
 - 휴대폰은 카메라 보안씰을 붙혀서 사용하고 있습니다.
@@ -93,7 +93,7 @@ These are frequently asked question in regard to security issues.
 - Every laptop used in the office is forced to attach a security seal on every port.
 - Security seals are attached to cameras of a mobile device.
 
-### 당사는 피고용인에게 클라이언트 데이터를, 개인 장비를 통해 온라인이나 오프라인으로 저장할 수 있도록 허용하고 있습니까? / Does the Company allow the employer to store client data through personal electronics?
+### 당사는 피고용인에게 클라이언트 데이터를, 개인 장비를 통해 온라인이나 오프라인으로 저장할 수 있도록 허용하고 있습니까? / Does the Company allow the employer to store client data online and offline via personal electronics?
 
 - 클라이언트 IN/OUT 데이터는 AWS 클라우드에 업로드 합니다.
 - 권한이 있는 사람만 개인계정 + MFA(이중인증시스템)으로 다운로드 할 수 있습니다.
@@ -101,7 +101,7 @@ These are frequently asked question in regard to security issues.
 - IN/OUT data of client is uploaded on AWS Cloud.
 - Only authorized person can approach to the cloud server through personal account and MFA(Multi-Factored Authentication)
 
-### 당사는 모든 작업자 및 시스템 레벨 패스워드에 대해 강제성을 갖는 최소한의 규정 정책이 설계되어 있습니까? / Is there minimal password policy which has compulsion on every worker and system?
+### 당사는 모든 작업자 및 시스템 레벨 패스워드에 대해 강제성을 갖는 최소한의 규정 정책이 설계되어 있습니까? / Is there minimal password policy forcing on every worker and system?
 
 - 클라우드 : 숫자, 특수문자, 대문자, 소문자가 섞인 8자 이상의 암호 + MFA(이중인증시스템)을 사용합니다.
 - 내부네트워크 : 숫자, 특수문자, 대문자, 소문자가 섞인 8자 이상의 암호 사용합니다.
@@ -114,7 +114,7 @@ These are frequently asked question in regard to security issues.
   - eight(8) or more characters
   - combination of english upper case letters, english lower case letters, numbers and special symbol.
   
-### 당사는 무선 네트워크 기술을 사용하고 있습니까? 만약에 그렇다면, 기밀 데이터와 무선 네트워크 사이에 어떠한 보안 체계가 갖춰져 있는지 설명해주십시오. / Is the Company using wireless network technology? If so, please explain the Company's security system for confidential data to protect from the wireless network.
+### 당사는 무선 네트워크 기술을 사용하고 있습니까? 만약에 그렇다면, 기밀 데이터와 무선 네트워크 사이에 어떠한 보안 체계가 갖춰져 있는지 설명해주십시오. / Is the Company using wireless network technology? If so, please explain the Company's security system for protection of confidential data from the wireless network.
 
 - 내부에 손님용 WIFI와 직원용 WIFI를 운용하고 있습니다. 작업하는 네트워크와 완전 분리되어 있습니다.
 - WIFI is managed with guest WIFI and WIFI for employees. The working network is separated safely.
@@ -129,7 +129,7 @@ These are frequently asked question in regard to security issues.
 
 - 최대한 물리적인 상황을 피하고 있습니다. 클라이언트에게 AWS S3로 데이터를 업로드하는 것은 권고하고 있습니다.
 
-- We avoid a physical moving of data. We suggest the client upload the data on the AWS S3. 
+- We avoid a physical moving of data. We suggest the client to upload the data on the AWS S3. 
 
 
 ### 당사는 데이터를 어떻게 백업하는지, 그리고 불의의 사고로 데이터를 유실할 때 복원을 하는 메소드를 기술해주세요. 그리고 또 복원하는데 걸리는 시간도 포함해서 설명해주십시오. / Please describe how Company back up the data and the method to restore the data in the case of data loss by an unexpected accident. And how long does it take to restore?
@@ -140,11 +140,11 @@ These are frequently asked question in regard to security issues.
 - The data is backed up to the Cloud, AWS S3 Glacier for the business continuity.
 - After the request, data restoration is completed within 24-48 hours.
 
-### 당사는 중대한 보안 및 비즈니스 문제로 인해 사고가 발생했을 경우나 사고로 인해 데이터 전달에 영향이 미칠 경우에 어떻게 클라이언트에게 공지하고 합니까? 구체적으로 설명해주세요. / How does the company notify clients of critical security and business issues that could cause an accident or impact the delivery of data? Please explain it in detail.
+### 당사는 중대한 보안 및 비즈니스 문제로 인해 사고가 발생했을 경우나 사고로 인해 데이터 전달에 영향이 미칠 경우에 어떻게 클라이언트에게 공지하고 합니까? 구체적으로 설명해주세요. / How does the Company notify clients of critical security issues or business issues? How does the Company notify clients of the accident that could affect on the delivery of data? Please explain it in detail.
 
 - 클라이언트의 In/Out 데이터는 클라우드에 보관합니다. 불의의 사고에 따른 사업연속성을 유지하기 위해 사용합니다.
 - 마감일을 지키지 못했을 경우 처리사항은 75미리스튜디오(주)와 클라이언트간 상호간 논의가 필요합니다.
 
 - IN/OUT data of client is uploaded on Cloud. The company uses cloud service to keep business continuity even in the case of an unexpected accident.
-- It fails to keep the deadline, 75mm Studio Co., Ltd. and the client need to discuss how to handle the issue.
+- If it fails to keep the deadline, 75mm Studio Co., Ltd. and the client need to discuss how to handle the issue.
 
