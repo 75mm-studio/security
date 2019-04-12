@@ -42,7 +42,7 @@ These are frequently asked question in regard to security issues.
 ### 당사는 피고용자, 계약자, 그리고 다른 서드파티에게 기밀 혹은 비공개 동의서를 작성합니까? / Does the Company get NDA from employees, contractor and other third parties?
 
 - 보안교육, 보안 서약서(NDA)를 작성합니다.
-- Company conducts a security education and also gets NDA in advance from employees, contractor and other third parties.
+- *Company* conducts a security education and also gets NDA in advance from employees, contractor and other third parties.
 
 ### 당사는 비즈니스적, 혹은 사적 방문자에게 해당하는 문서화된 정책이 있습니까? 구체적으로 설명해주십시오. / Is there written policy for visitors?
 
@@ -106,15 +106,15 @@ These are frequently asked question in regard to security issues.
 - 클라우드 : 숫자, 특수문자, 대문자, 소문자가 섞인 8자 이상의 암호 + MFA(이중인증시스템)을 사용합니다.
 - 내부네트워크 : 숫자, 특수문자, 대문자, 소문자가 섞인 8자 이상의 암호 사용합니다.
 
-- password for cloud requires:
-  - eight(8) or more characters
-  - combination of English upper case letters, English lower case letters, numbers, and a special symbol.
+- Password for cloud requires:
+  - Eight(8) or more characters
+  - Combination of English upper case letters, English lower case letters, numbers, and a special symbol.
   - MFA(Multi-Factor Authentication)
-- password for inner network requires:
-  - eight(8) or more characters
-  - combination of english upper case letters, english lower case letters, numbers and special symbol.
+- Password for inner network requires:
+  - Eight(8) or more characters
+  - Combination of english upper case letters, english lower case letters, numbers and special symbol.
   
-### 당사는 무선 네트워크 기술을 사용하고 있습니까? 만약에 그렇다면, 기밀 데이터와 무선 네트워크 사이에 어떠한 보안 체계가 갖춰져 있는지 설명해주십시오. / Is the Company using wireless network technology? If so, please explain the Company's security system for protection of confidential data from the wireless network.
+### 당사는 무선 네트워크 기술을 사용하고 있습니까? 만약에 그렇다면, 기밀 데이터와 무선 네트워크 사이에 어떠한 보안 체계가 갖춰져 있는지 설명해주십시오. / Is the Company using wireless network technology? If so, please explain the Company's security system for the protection of confidential data from the wireless network.
 
 - 내부에 손님용 WIFI와 직원용 WIFI를 운용하고 있습니다. 작업하는 네트워크와 완전 분리되어 있습니다.
 - WIFI is managed with guest WIFI and WIFI for employees. The working network is separated safely.
@@ -140,7 +140,7 @@ These are frequently asked question in regard to security issues.
 - The data is backed up to the Cloud, AWS S3 Glacier for the business continuity.
 - After the request, data restoration is completed within 24-48 hours.
 
-### 당사는 중대한 보안 및 비즈니스 문제로 인해 사고가 발생했을 경우나 사고로 인해 데이터 전달에 영향이 미칠 경우에 어떻게 클라이언트에게 공지하고 합니까? 구체적으로 설명해주세요. / How does the Company notify clients of critical security issues or business issues? How does the Company notify clients of the accident that could affect on the delivery of data? Please explain it in detail.
+### 당사는 중대한 보안 및 비즈니스 문제로 인해 사고가 발생했을 경우나 사고로 인해 데이터 전달에 영향이 미칠 경우에 어떻게 클라이언트에게 공지하고 합니까? 구체적으로 설명해주세요. / How does the Company notify clients of critical security issues or business issues? How does the Company notify clients of the accident that could affect the delivery of data? Please explain it in detail.
 
 - 클라이언트의 In/Out 데이터는 클라우드에 보관합니다. 불의의 사고에 따른 사업연속성을 유지하기 위해 사용합니다.
 - 마감일을 지키지 못했을 경우 처리사항은 75미리스튜디오(주)와 클라이언트간 상호간 논의가 필요합니다.
