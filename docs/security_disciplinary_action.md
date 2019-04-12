@@ -13,7 +13,7 @@ This document only covers the security part of "Article 9. Commendation and Disc
 1. 회사의 보안 규율을 어겨 질서를 문란하게 한 자
 1. 회사가 정한 보안규정을 위반한 자
 
-The company may discipline the accused person through the decision of a disciplinary committee.
+*Company* may discipline the accused person through the decision of a disciplinary committee.
 
 1. Any person who causes damage or loss to Company by divulgence of confidential information.
 1. Any person who violates internal security discipline.
