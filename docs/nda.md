@@ -21,7 +21,7 @@ This agreement is for:
 입사시 작성합니다.
 보안서약서 항목 변경시 변경된 항목을 구두로 알리고 기존 서명한 보안서약서를 갱신합니다.
 
-Items identified below are mandatory for NDA with an employer. An employer shall draw up at the time of entrance. If necessary, the company may update the NDA. Company shall orally inform the update to the employer in advance of the change.
+Items identified below are mandatory for NDA with an employer. An employer shall draw up at the time of entrance. If necessary, *Company* may update the NDA. *Company* shall orally inform the update to the employer in advance of the change.
 
 
 - 성 명
@@ -132,7 +132,7 @@ Items identified below are mandatory for NDA with the external subcontractor.
 - 본인은 재직 중 또는 퇴사 후에도 재직 중 취득한 영업비밀 등 정보를 회사의 사전 동의 없이 어떠한 방법으로도 제3자에게 유출·누설하거나 공개하지 않겠습니다.
 
 - coverage: employer
-- Unless otherwise approved by the company, *Recipient* shall maintain the secrecy of all confidential information of *Company* from any third parties during and after the term of employment.
+- Unless otherwise approved by *Company*, *Recipient* shall maintain the secrecy of all confidential information of *Company* from any third parties during and after the term of employment.
 
 #### 퇴사시 반납 및 개인적 보유 금지 조항 / Prohibition on Personal Retention and Duty of Return on Resignation
 - 적용대상 : 임직원
