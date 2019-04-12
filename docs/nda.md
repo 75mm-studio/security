@@ -139,7 +139,7 @@ Items identified below are mandatory for NDA with the external subcontractor.
 - 본인은, 재직 중에 보유하였던 회사의 영업비밀 등 정보, 회사의 연구개발, 영업, 재산 등에 영향을 미칠 수 있는 유형, 무형의 정보 기타 회의 주요 영업자산과 관련된 자료 모두를 회사에 반납하고, 이에 관한 어떠한 형태의 사본도 개인적으로 보유하지 않으며, 반납할 수 없는 것은 폐기할 것을 서약합니다.
 - 퇴사시에 최초 고용시 작성하는 근로 계약서 [ 제8조 기밀유지 ] 조항에 의해 원칙이 시행됩니다.
 
-- Coverage: employment
+- Coverage: employer
 - *Recipient* hereby agrees as follow:
   - *Recipient* shall promptly return to *Company* all tangible items or embodiments containing or consisting of confidential information that can affect R&D, sales, the asset of *Company.*
   - *Recipient* is not allowed to retain any form of duplicates including electronic copies.
