@@ -5,7 +5,7 @@ MPAA 관련규칙 : PS-2.0, PS-2.1, PS-2.2, PS-2.3, PS-3.0
 This is document for visitor security policy.
 MPAA-related rule :  PS-2.0, PS-2.1, PS-2.2, PS-2.3, PS-3.0
 
-## 방문객 정보/Visitor Information
+## 방문객 정보 / Visitor Information
 - 방문자 기록표에 방문기록을 작성합니다.
 	- 날짜(visit_date)
 	- 방문자 이름(visitor_name)
@@ -46,17 +46,17 @@ MPAA-related rule :  PS-2.0, PS-2.1, PS-2.2, PS-2.3, PS-3.0
 
 - Visitors are given visiting cards. The visiting card indicates temporary access rights.
 - Security seals shall be attached to cameras of visitor's mobile phones.
-- basic security education for visitors:
+- Basic security education for visitors:
 	- It is banned to use USB and external hard disk.
 	- If a visitor needs to use a laptop for the Business reason, security seal shall be attached to it.
 	- If a visitor needs to use private devices such as a laptop, the visitor may use guest WIFI.
 	- In the case of having a meeting for the purpose of business, NDA shall be drawn up in advance. 
 - If a visitor is closely related to Project, Company confirms the identity by identification card on the visitor's first visit.
 	- Validate identifications are as follows.
-		- passport
-		- certificate of resident registration
-		- driver's license
-		- government-issued identification.
+		- Passport
+		- Certificate of resident registration
+		- Driver's license
+		- Government-issued identification.
 		
 - [Download Visitor Form](../pdf/visitor_table.pdf)
 	
