@@ -35,7 +35,7 @@ MPAA-related Rule : MS-4.0(Business Continuity Plan), MS-6.0(Business Continuity
 - Work data that the client has requested shall be stored on cloud service.
 - *Company* shall store data on cloud service:
     - To prepare for the danger of building collapse and fire.
-    - for BCP(Business Continuity Plan).
+    - For BCP(Business Continuity Plan).
     
 ## 프로젝트 백업 / Project Backup
 - 프로젝트가 종료되면 완료된 데이터는 클라우드(AWS Glacier)로 백업합니다.
@@ -44,7 +44,7 @@ MPAA-related Rule : MS-4.0(Business Continuity Plan), MS-6.0(Business Continuity
 - Every completed data will be backed up on the cloud(AWS Glacier) at the end of the project.
 - *Company* shall store data on cloud service:
     - To prepare for the danger of building collapse and fire.
-    - for BCP(Business Continuity Plan).
+    - For BCP(Business Continuity Plan).
     
 ## 클라우드 서비스 로그정책 / Cloud service logs policy
 - Log는 MPAA기준 12개월을 보관합니다. (MPAA 관련규칙 : PS-16.2)
