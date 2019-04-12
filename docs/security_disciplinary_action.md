@@ -48,6 +48,7 @@ Each kind of disciplinary action shall be defined in detail as follows:
 
 ## 제62조 : 징계결과 통보/ Article 62: Notice of Discipline
 징계결과통보는 해당사원에게 징계처분사유 설명서로 통보한다.
+
 The committee shall notify ground for disciplinary action to the subject of discipline in the written form.
 
 ## 제63조 : 재심절차 / Article 63: Procedure For a Retrial
