@@ -40,7 +40,7 @@ Each kind of disciplinary action shall be defined in detail as follows:
 1. 징계위원회는 의결 전에 해당사원에게 소명할 기회를 부여한다.
 1. 징계 위원회는 징계대상자가 2회에 걸쳐 출석요구에 불응하거나 소명으로 거부하는 경우 또는 소명을 포기하는 의사를 표시하는 경우에는 소명 없이 징계의결 할 수 있다.
 1. 간사는 징계의결을 위한 회의에 참석하여 회의록을 작성하고 이를 보관한다.
-
+-----
 1. Chairman of disciplinary committee shall notify meeting date, place, agenda for members of the disciplinary committee at least 7 days before the meeting for the decision of discipline. 
 1. Chairman of disciplinary committee shall notify to *Subject* in the form of a written demand for attendance.
 1. Disciplinary committee shall deliberate the case with fairness including ground for disciplinary action, evidentiary material and statement of the party. If *Subject* does not want to attend to disciplinary committee or already stated in written form, disciplinary committee may decide discipline by examination in writing. In this case, Committee request waiver of the right to staate an opinion and written statement from *Subject* and attach them to record.
