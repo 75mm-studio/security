@@ -45,13 +45,13 @@ Each kind of disciplinary action shall be defined in detail as follows:
 1. Chairman of disciplinary committee shall notify to *Subject* in the form of a written demand for attendance.
 1. Disciplinary committee shall deliberate the case with fairness including ground for disciplinary action, evidentiary material and statement of the party. If *Subject* does not want to attend to disciplinary committee or already stated in written form, disciplinary committee may decide discipline by examination in writing. In this case, Committee request waiver of the right to staate an opinion and written statement from *Subject* and attach them to record.
 1. A member of disciplinary committee shall not be involved in decision of discipline in the case of follows:
-  - A member of disciplinary committee has relative relationship with *Subject*.
-  - A member of disciplinary committee is related to the cause of discipline.
+   - A member of disciplinary committee has relative relationship with *Subject*.
+   - A member of disciplinary committee is related to the cause of discipline.
 1. Disciplinary committee shall give *Subject* a chance to vindicate.
 1. Disciplinary committee may decide discipline without vindication in the following cases:
-  - If *Subject* refuses to attend two times.
-  - If *Subject* refuses to attend.
-  - If *Subject* expresses will to waive vindication.
+    - If *Subject* refuses to attend two times.
+    - If *Subject* refuses to attend.
+    - If *Subject* expresses will to waive vindication.
 1. The secretary shall attend a meeting for disciplinary action and prepare and keep the minutes.
 
 ## 제62조 : 징계결과 통보/ Article 62: Notice of Discipline
