@@ -93,7 +93,7 @@ These are frequently asked question in regard to security issues.
 - Every laptop used in the office is forced to attach a security seal on every port.
 - Security seals are attached to cameras of a mobile device.
 
-### 당사는 피고용인에게 클라이언트 데이터를, 개인 장비를 통해 온라인이나 오프라인으로 저장할 수 있도록 허용하고 있습니까? / Does the Company allow the employer to store client data online and offline via personal electronics?
+### 당사는 피고용인에게 클라이언트 데이터를, 개인 장비를 통해 온라인이나 오프라인으로 저장할 수 있도록 허용하고 있습니까? / Does the Company allow the employee to store client data online and offline via personal electronics?
 
 - 클라이언트 IN/OUT 데이터는 AWS 클라우드에 업로드 합니다.
 - 권한이 있는 사람만 개인계정 + MFA(이중인증시스템)으로 다운로드 할 수 있습니다.
