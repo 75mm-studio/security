@@ -43,7 +43,7 @@ MPAA-related rule : DS-2.0, DS-5.1, DS-6.7, DS-10.3, DS-10.8, DS-11.5, MS-4.3
 - 회의용 macmini : 서버실에 본체를 넣고 HDMI 연장선으로만 운용 합니다.
 - 인터넷을 사용합니다.
 
-- The Mac mini for a meeting: The Mac mini shall be put in the server room. Only the extension line of HDMI shall be allowed.
+- The Mac mini for a meeting: The Mac mini shall be placed in the server room. Only the extension line of HDMI shall be allowed.
 - The internet is allowed.
 
 ## 노트북/ Labtop
