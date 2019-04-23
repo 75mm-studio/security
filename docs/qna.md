@@ -73,7 +73,7 @@ These are frequently asked question in regard to security issues.
 - 윈도우즈 : 1대 프린터 용도로만 사용함(무료 백신 설치)
 
 - Linux : Vaccine software is not required due to separated network.
-- Windows : Only one PC is operating windows for the purpose of printing. And free vaccine software is installed.
+- Windows : For the print uses, Only one PC is settled with installed vaccine software.
 
 ### 작업자들이 기밀 정보 및 데이터들을 권한없이 삭제가 불가능하도록 어떠한 조치를 취하고 있는지 설명해주십시오. 이는 이메일 용량 제한이라던가, usb제한, 네트워크 세그먼트, 인터넷/프록시 방화벽과 같은 조치를 포함합니다. / What measures does Company take to prevent workers from deletion of confidential information and data without authority? (Measures are including setting the limit on the email attachment, the constraint of USB, network segment and internet/proxy firewall and so on.)
 
