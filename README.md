@@ -6,7 +6,7 @@
 
 이 문서는 회사에서 업무용 장비, 서버장비, 네트워크 장비, 보안관련 담당자 변경등 보안이슈가 발생할 때마다 주기적으로 갱신됩니다.
 
-This repository is documented about security policy of 75mm Studio Co., Ltd.(hereinafter called *Company*) This repository is written for the purpose of security education for an employer and cooperative firm. This document will be updated in the case of occurrence of security issues including:
+This repository is documented about security policy of 75mm Studio Co., Ltd.(hereinafter called *Company*) This repository is written for the purpose of security education for an employer and partner. This document will be updated in the case of occurrence of security issues including:
 - Change of security official
 - Supplement of equipment for tasks
 - Supplement of server equipment

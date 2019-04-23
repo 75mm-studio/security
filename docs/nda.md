@@ -6,7 +6,7 @@ Non-Disclosure Agreement 축약해서 NDA로 불립니다.
 This is a document for Non-Disclosure Agreement(hereinafter called NDA).
 75mm Studio Co., Ltd. draws up NDA in the case of:
   - Join and the resignation of an employee.
-  - Cooperation with the employee of the cooperative firm.
+  - Cooperation with the employee of the partner.
   - Cooperation with an external company.
   - Cooperation with a service company.
   - The launch of the project.
@@ -38,9 +38,9 @@ Items identified below are mandatory for NDA with an employee. An employee shall
 - Signed date
 - Signature
 
-## 협력업체 정보기록 / Cooperative Firm Information
+## 협력업체 정보기록 / Partner Information
 협력업체 보안서약서 작성시 필요한 항목입니다.
-Items identified below are mandatory for NDA with the cooperative firm.
+Items identified below are mandatory for NDA with the partner.
 
 - 기업명
 - 소재지
@@ -101,11 +101,11 @@ Items identified below are mandatory for NDA with the external subcontractor.
 - The *Recipient* shall not divulge confidential information outside the company.
 - *Recipient* agrees to maintain all confidential information of 75mm Studio Co., Ltd. in strict confidence during or after the term of employment.
 
-#### 보유정보의 비밀유지 조항(협력업체, 외부용역 항목) / Information Secrecy(Cooperative firm, Subcontractor)
+#### 보유정보의 비밀유지 조항(협력업체, 외부용역 항목) / Information Secrecy(Partner, Subcontractor)
 - 적용대상 : 협력업체, 외부용역
 - 회사에서 진행하는 모든 프로젝트 정보를 외부에 공개, 발설하지 않습니다.
 
-- Coverage : cooperative firm, subcontractor
+- Coverage : partner, subcontractor
 - *Recipient* shall not divulge confidential information outside the company.
 
 
@@ -183,7 +183,7 @@ Items identified below are mandatory for NDA with the external subcontractor.
 - 적용대상 : 임직원, 협력업체, 외부용역
 - 본인은 자사 또는 타사의 비밀유지의무가 있는 정보를 보유하거나 회사 업무 수행 과정외에 데이터 또는 정보를 사용시, 이로 인해서 분쟁이 발생하면 그에 대한 모든 책임을 부담하겠습니다.
 
-- Coverage: employee, cooperative firm, subcontractor
+- Coverage: employee, partner, subcontractor
 - *Recipient* shall take responsibility of dispute arising out of:
   - *Recipient*'s retainment of confidential information belonging to both *Company* and other companies.
   - *Recipient*'s use of data and information in the process of company affairs.
@@ -192,7 +192,7 @@ Items identified below are mandatory for NDA with the external subcontractor.
 - 적용대상 : 임직원, 협력업체, 외부용역
 - 본인은 회사의 영업비밀을 비롯한 회사의 일체의 정보에 대해서 지정된 업무에 사용하는 경우를 제외하고는 어떠한 사유로도 업무 외로 또는 개인적 목적으로 사용하거나 회사 내외의 제3자에게 누설 또는 공개하지 않겠습니다.
 
-- Coverage: employee, cooperative firm, subcontractor
+- Coverage: employee, partner, subcontractor
 - For any purpose except for the business purpose assigned to *Recipient*, *Recipient* shall not divulge any form of *Company*'s information including the business secret to the third parties in or out of *Company*.
 - *Recipient* shall not be allowed to use any form of *Company*'s information thereof for *Recipient*'s own purpose.
 
@@ -206,7 +206,7 @@ Items identified below are mandatory for NDA with the external subcontractor.
 
 상기 본인은 75미리스튜디오(주) 프로젝트를 진행함에 있어 사내 보안관리지침에서 정하는 규칙을 숙지하고 보안사항을 준수할 것이며, 고의 또는 과실로 회사 이미지 또는 재산상의 손해가 발생하지 않도록 할 것을 서약합니다.
 
-- Coverage: employee, cooperative firm, subcontractor
+- Coverage: employee, partner, subcontractor
 - In the case of breach, *Recipient* acknowledges and agrees that:
   - *Company* may claim any and all applicable legal and equitable remedies against *Recipient*
   - *Company* may impose civil and criminal liabilities
@@ -231,4 +231,4 @@ Items identified below are mandatory for NDA with the external subcontractor.
 ## 양식 다운로드 / Download Form
 - [보안서약서(한글) - 임직원](../pdf/nda_employ.pdf)  : Non-Disclosure Agreement(Korean) - Employee
 - [보안서약서(한글) - 외부용역](../pdf/nda_service.pdf) : Non-Disclosure Agreement(Korean) - Subcontractor
-- [보안서약서(한글) - 협력업체](../pdf/nda_partners.pdf) : Non-Disclosure Agreement(Korean) - Cooperative Firm
+- [보안서약서(한글) - 협력업체](../pdf/nda_partners.pdf) : Non-Disclosure Agreement(Korean) - Partner

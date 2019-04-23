@@ -13,7 +13,7 @@ These are frequently asked question in regard to security issues.
 - 이 문서(리포지터리)를 통해서 입사자 보안교육, 협력사 보안교육, 고객에게 보안정책을 전달하고 있습니다.
 
 - This repository is the document for the security policy of the Company.
-- With this document(repository), the Company instructs security awareness training for employee and cooperative firm.
+- With this document(repository), the Company instructs security awareness training for employee and partner.
 - Customers can get information about the security policy of the Company from this document.
 
 ### 현재 모든 피고용인들은 정보 보안에 대해 충분한 교육이 되어있습니까? 구체적으로 어떻게 되고 있는지 설명해주세요. / Are all the employees fully trained for information security? Please explain how education is going.
