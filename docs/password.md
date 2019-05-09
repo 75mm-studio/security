@@ -1,47 +1,22 @@
-# 패스워드 정책 / Password policy
+# 패스워드 정책
 패스워드 정책입니다.
+
 MPAA 관련규약 : DS-8.0, DS-8.1, DS-8.3, DS-11.5, AS-2.0~AS-2.10
 
-This is document about password policy.
-MPAA-related rules : DS-8.0, DS-8.1, DS-8.3, DS-11.5, AS-2.0~AS-2.10
-
-## 클라우드 서비스(사용자) / Cloud service(User)
+## 클라우드 서비스(사용자)
 - 대문자, 소문자, 숫자, 특수문자가 포함된 8자 이상 암호 사용.
 - MFA(이중인증 시스템) 활성화
 
-Passwords shall require eight(8) or more characters including:
-- English upper case letters
-- English lower case letters
-- Numbers
-- Special symbol.
-- MFA(Multi-Factor Authentication)
-
-## 클라우드 서비스(클라이언트) / Cloud Service(Client)
+## 클라우드 서비스(클라이언트)
 - 최초 암호를 부여하고 1회 로그인 이후 사용자가 암호를 변경하도록 설정
 - 90일간 사용가능한 계정으로 발급
 - MFA(이중인증 시스템) 활성화
 
-- The initial password shall be assigned to the client.
-- Promptly after the first login, the user shall change the password.
-- The account is validated during 90 days from the day of account issuance.
-- MFA shall be activated.
-
-## 인트라넷 / Intranet
+## 인트라넷
 - 대문자, 소문자, 숫자, 특수문자가 포함된 8자 이상 암호 사용.
 
-Passwords shall require eight(8) or more characters including:
-- English upper case letters
-- English lower case letters
-- Numbers
-- Special symbol
-
-## 참고사이트 / Reference Site
+## 참고사이트
 - 패스워드 생성기 : https://passwordsgenerator.net
 - 우리가 사용하는 패스워드 규칙은 MPAA 기준입니다.
 
-- Password generator : https://passwordsgenerator.net
-- *Company's* password policy is in accordance with MPAA.
-
 >참고 : 현대 컴퓨팅 파워로는 for문을 돌리면 대문자, 숫자, 특수문자가 섞여있어도 길이가 짧다면 충분이 짧은 시간내에 깰 수 있습니다. 패스워드의 길이가 충분히 길면 보안에 더 강력합니다.
-
->Recent computing power is powerful enough to decipher the short password within quite a short time, even if passwords contains upper case letters, lower case letters, numbers, and a special symbol. The longer the password is, the more powerful it would be.
