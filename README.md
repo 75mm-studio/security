@@ -4,7 +4,12 @@
 
 이 리포지터리는 임직원, 협력업체의 보안 교육목적으로 작성합니다.
 
-이 문서는 회사에서 업무용 장비, 서버장비, 네트워크 장비, 보안관련 담당자 변경등 보안이슈가 발생할 때마다 주기적으로 갱신됩니다.
+이 문서는 다음 보안이슈가 발생할 때마다 주기적으로 갱신됩니다.
+- 보안관련 담당자 변경
+- 업무용 장비 변경
+- 서버장비 변경
+- 네트워크 장비 변경
+
 
 This repository is documented about security policy of 75mm Studio Co., Ltd.(hereinafter called *Company*) This repository is written for the purpose of security education for an employer and partner. This document will be updated in the case of occurrence of security issues including:
 - Change of security official
@@ -13,7 +18,7 @@ This repository is documented about security policy of 75mm Studio Co., Ltd.(her
 - Supplement of network equipment
 
 ## 세부보안정책 / Security Policies
-- [기밀유지협약](docs/nda.md) - NDA(Non-Disclosure Agreement)
+- 기밀유지협약 / NDA(Non-Disclosure Agreement) [한글](docs/nda.md) / [English](docs/nda_eng.md)
 - [인터넷,무선정책](docs/internet.md) - Internet and Wireless Network Policy
 - [모바일 장치정책](docs/mobile.md) - Mobile Device Policy
 - [네트워크](docs/network.md) - Network Policy
@@ -32,20 +37,13 @@ This repository is documented about security policy of 75mm Studio Co., Ltd.(her
 - Main Contact No. : +82-02-512-7520
 
 #### 보안담당자 / Security officials
-- 신철호(정) +82-10-5316-2746
-- 조세환(부) +82-10-5430-6763
-
-- Chol Ho Shin(main) +82-10-5316-2746
-- Se Hwan Jo(vice) +82-10-5430-6763
+- 신철호(정) / Chol Ho Shin(main) +82-10-5316-2746
+- 조세환(부) / Se Hwan Jo(vice) +82-10-5430-6763
 
 #### 시스템관리자 / System administrator
-- 신철호(정) +82-10-5316-2746
-- 고 혁(부) +82-10-6306-4784
-- 최원준(부) +82-10-5800-1134
-
-- Chol Ho Shin(main) +82-10-5316-2746
-- Hyuk Ko(vice) +82-10-6306-4784
-- Won Jun Choi(vice) +82-10-5800-1134
+- 신철호(정) / Chol Ho Shin(main) +82-10-5316-2746
+- 고 혁(부) / Hyuk Ko(vice) +82-10-6306-4784
+- 최원준(부) / Won Jun Choi(vice) +82-10-5800-1134
 
 ## 작성기준 / Documentation Guidelines
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/MPAA.jpg" width="150">
