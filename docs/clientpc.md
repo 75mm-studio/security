@@ -1,9 +1,6 @@
-# 클라이언트 컴퓨터,장비 정책 / Client Computer and Equipment Policy
+# 클라이언트 컴퓨터,장비 정책
 아티스트 컴퓨터 보안정책입니다.
 MPAA 보안규칙 : DS-2.0, DS-5.1, DS-6.7, DS-10.3, DS-10.8, DS-11.5, MS-4.3
-
-This is document for artist computer security policy.
-MPAA-related rule : DS-2.0, DS-5.1, DS-6.7, DS-10.3, DS-10.8, DS-11.5, MS-4.3
 
 ## Linux
 - 작업자 PC는 인터넷이 허용되지 않습니다.
@@ -16,42 +13,16 @@ MPAA-related rule : DS-2.0, DS-5.1, DS-6.7, DS-10.3, DS-10.8, DS-11.5, MS-4.3
 - 물리적인 USB 접근이 허용되지 않도록 설정되어 있습니다.
 - USB포트에 보안씰이 부착되어 있습니다.
 
-- PC of the artist shall not be connected to the internet.
-- The project data shall not be stored on local disk. All data shall be stored on the storage.
-- Passwords for the user shall require eight or more characters including:
-  - English upper case letters
-  - English lower case letters
-  - Special symbol
-  - Number
-- If it is hard to come up with password, [PASSWORD GENERATOR](https://passwordsgenerator.net) would be useful.
-- On the work storage, the permission shall be set by a user.
-- Except for the system administrator, common users are prohibited from installing software without permission.
-- Only the system administrator shall access to the root.
-- Access to physical USB is not allowed.
-- The security seal shall be attached to the USB port.
-
-
 ## Windows
 - 회계PC : 프린터 용도 이외에 모든 데이터는 USB에 저장, 따로 보관합니다.
 - 인터넷을 허용하지 않습니다.
-
-- PC for the accounting: Except for the purpose of printing, all data shall be stored on the USB and be kept separately.
-- The internet shall not be allowed.
-
 
 ## macOS
 - 회의용 macmini : 서버실에 본체를 넣고 HDMI 연장선으로만 운용 합니다.
 - 인터넷을 사용합니다.
 
-- The Mac mini for a meeting: The Mac mini shall be placed in the server room. Only the extension line of HDMI shall be allowed.
-- The internet is allowed.
-
-## 노트북/ Labtop
+## 노트북
 - 데이터 전송포트, USB포트에 보안씰을 붙혀서 사용합니다.
-- Security seal shall be attached to the USB port and data transfer port.
 
-
-## 특이사항/ Remark
+## 특이사항
 - 매치무브 소프트웨어 3D이퀄라이저는 인증을 위해서 최초 1회 인터넷 연결합니다. 보안담당자의 관리하에 인증을 진행합니다.
-- For the purpose of authentication, the 3D equalizer, Match Move software, shall be connected to the internet once for the first time.
-- The authentication shall proceed under the security official's control.
