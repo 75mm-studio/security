@@ -1,25 +1,17 @@
-# 보안 징계 조치 / Measures for Discipline Against Violation of Security Policy.
+# 보안 징계 조치
 
-# 징계, 제재 정책 / Discipline and Sanction Policy
+# 징계, 제재 정책
 이 문서는 회사 취업규칙 문서에서 "제9장 표창 및 징계 부분" 문서 내용중 보안항목만 작성한다.
 아래 내용은 교육을 위해서 게시하며, 입사이후 취업규칙 문서 각 장에 항목을 읽고 서명한다.
 
-This document only covers the security part of "Article 9. Commendation and Discipline" of internal employment regulation document. Contents herein are posted for the purpose of education. An employee shall be required to complete and sign to each provision of employment regulation.
-
-## 제59조 : 징계 / Article 59 : Discipline
+## 제59조 : 징계
 회사는 보안사고 관련하여 징계위원회의 의결을 거쳐 징계할 수 있다.
 
 1. 업무상 비밀 및 기밀을 누설하여 회사에 피해를 입힌 자
 1. 회사의 보안 규율을 어겨 질서를 문란하게 한 자
 1. 회사가 정한 보안규정을 위반한 자
 
-*Company* may discipline the accused person(hereinafter called *Subject*) through the decision of a disciplinary committee.
-
-1. Any person who causes damage or loss to *Company* by divulgence of confidential information.
-1. Any person who violates internal security discipline.
-1. Any person who violates security policy provision.
-
-## 제60조 : 징계의 종류/ Article 60: Kinds of disciplinary action
+## 제60조 : 징계의 종류
 징계의 종류는 다음과 같다.
 
 1. 견책 : 징계사유 발생 자에 대하여 시말서를 받고 문서로 견책한다.
@@ -27,42 +19,17 @@ This document only covers the security part of "Article 9. Commendation and Disc
 1. 정직 : 중대 징계사유 발생 자에 대하여 3개월 이내로 하고, 그 기간중에는 직무에 종사하지 못하며 그 기간동안 임금을 지급하지 아니한다.
 1. 해고 : 근로계약을 해지하는 것으로 한다.
 
-Each kind of disciplinary action shall be defined in detail as follows:
-1. Reprimand: *Subject* shall be required to submit a written account of the affair.
-1. Salary reduction: Salary shall be reduced by not more than half of the daily average wage at a time and 10 percent of the total amount of wages in total. 
-1. Suspension from office: In the period of suspension, *Subject* shall not be allowed to work and shall not be paid.
-1. Dismissal: Dismissal means termination of an employment contract.
-
-## 제61조 : 징계심의/ Article 61: Disciplinary Review
+## 제61조 : 징계심의
 1. 징계위원회의 위원장은 징계의결을 위한 회의 7일전 까지 징계위원회의 위원들에게는 회의일시, 장소, 의제 등을, 징계대상 사원에게는 서면으로 별지2의 출석통지를 각 통보한다.
 1. 징계위원회는 징계사유를 조사한 서류와 입증자료 및 당사자의 진술 등 충분한 증거를 확보하여 공정하게 심의한다. 이 경우, 징계대상자가 징계위원회의 출석을 원하지 아니하거나 서면진술을 하였을 때는 진술권포기서 또는 서면 진술서를 징구하여 기록에 첨부하고 서면심사만으로 징계의결을 할 수 있다.
 1. 징계윈원회의 위원이 징계대상자와 친족관계에 있거나 그 징계사유와 관계가 있을 때에는 그 위원은 그 징계의결에 관여하지 못한다.
 1. 징계위원회는 의결 전에 해당사원에게 소명할 기회를 부여한다.
 1. 징계 위원회는 징계대상자가 2회에 걸쳐 출석요구에 불응하거나 소명으로 거부하는 경우 또는 소명을 포기하는 의사를 표시하는 경우에는 소명 없이 징계의결 할 수 있다.
 1. 간사는 징계의결을 위한 회의에 참석하여 회의록을 작성하고 이를 보관한다.
------
-1. Chairman of disciplinary committee shall notify meeting date, place, agenda for members of the disciplinary committee at least 7 days before the meeting for the decision of discipline. 
-1. Chairman of disciplinary committee shall notify to *Subject* in the form of a written demand for attendance.
-1. Disciplinary committee shall deliberate the case with fairness including ground for disciplinary action, evidentiary material and statement of the party. If *Subject* does not want to attend to disciplinary committee or already stated in written form, disciplinary committee may decide discipline by examination in writing. In this case, Committee request waiver of the right to staate an opinion and written statement from *Subject* and attach them to record.
-1. A member of disciplinary committee shall not be involved in decision of discipline in the case of follows:
-   - A member of disciplinary committee has relative relationship with *Subject*.
-   - A member of disciplinary committee is related to the cause of discipline.
-1. Disciplinary committee shall give *Subject* a chance to vindicate.
-1. Disciplinary committee may decide discipline without vindication in the following cases:
-    - If *Subject* refuses to attend two times.
-    - If *Subject* refuses to attend.
-    - If *Subject* expresses will to waive vindication.
-1. The secretary shall attend a meeting for disciplinary action and prepare and keep the minutes.
 
-## 제62조 : 징계결과 통보/ Article 62: Notice of Discipline
+## 제62조 : 징계결과 통보
 징계결과통보는 해당사원에게 징계처분사유 설명서로 통보한다.
 
-The committee shall notify ground for disciplinary action to *Subject* in the written form.
-
-## 제63조 : 재심절차 / Article 63: Procedure For a Retrial
+## 제63조 : 재심절차
 1. 징계처분을 받은 사원은 징계결정이 부당하다고 인정될 때 징계통보를 받은 날로부터 7일 이내에 서면으로 1회 재심신청을 할 수 있다.
 1. 재심을 요청받은 경우 징계위원회는 10일 이내에 재심을 위한 회의를 개최하여야 하며 그 절차는 제 61조 및 제 62조를 준용한다.
-
-1. If decided discipline is deemed to be improper, *Subject* may request a retrial within 7 days in written form only once.
-1. Disciplinary committee is under obligation to hold a meeting for a retrial within 10 days from the request of a retrial.
-1. The procedure of retrial shall be in accordance with Article 61 and Article 62.
