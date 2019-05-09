@@ -37,13 +37,13 @@ This repository is documented about security policy of 75mm Studio Co., Ltd.(her
 - Main Contact No. : +82-02-512-7520
 
 #### 보안담당자 / Security officials
-- 신철호(정) / Chol Ho Shin(main) +82-10-5316-2746
-- 조세환(부) / Se Hwan Jo(vice) +82-10-5430-6763
+- 신철호(정) / Chol Ho Shin(main) : +82-10-5316-2746
+- 조세환(부) / Se Hwan Jo(vice) : +82-10-5430-6763
 
 #### 시스템관리자 / System administrator
-- 신철호(정) / Chol Ho Shin(main) +82-10-5316-2746
-- 고 혁(부) / Hyuk Ko(vice) +82-10-6306-4784
-- 최원준(부) / Won Jun Choi(vice) +82-10-5800-1134
+- 신철호(정) / Chol Ho Shin(main) : +82-10-5316-2746
+- 고 혁(부) / Hyuk Ko(vice) : +82-10-6306-4784
+- 최원준(부) / Won Jun Choi(vice) : +82-10-5800-1134
 
 ## 작성기준 / Documentation Guidelines
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/MPAA.jpg" width="150">
