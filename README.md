@@ -19,18 +19,18 @@ This repository is documented about security policy of 75mm Studio Co., Ltd.(her
 
 ## 세부보안정책 / Security Policies
 - 기밀유지협약 / NDA(Non-Disclosure Agreement) [한글](docs/nda.md) / [English](docs/nda_eng.md)
-- [인터넷,무선정책](docs/internet.md) - Internet and Wireless Network Policy
-- [모바일 장치정책](docs/mobile.md) - Mobile Device Policy
-- [네트워크](docs/network.md) - Network Policy
-- [내부 클라이언트 컴퓨터 정책](docs/clientpc.md) - Client Computer and Equipment Policy
-- [물리적인 데이터 배송 정책](docs/data_transfer_information.md)
-- [클라우드 정책](docs/cloud.md) - Cloud Computing Policy
-- [패스워드 정책](docs/password.md) - Password Policy
-- [코드네임 정책](docs/codename.md) - Code Name Policy
-- [방문객 보안](docs/guest.md) - Visitor Security Policy
-- [사고대응 정책](docs/security_incident_response.md) - Countermeasures Against Security Accident
-- [징계/제재 정책](docs/security_disciplinary_action.md) - Discipline and Sanction Policy
-- [FAQ](docs/qna.md) - FAQ
+- 인터넷,무선정책 / Internet and Wireless Network Policy [한글](docs/internet.md) / [English](docs/internet_eng.md)
+- 모바일 장치정책 / Mobile Device Policy [한글](docs/mobile.md) / [English](docs/mobile_eng.md)
+- 네트워크 / Network Policy [한글](docs/network.md) / [English](docs/network_eng.md)
+- 내부 클라이언트 컴퓨터 정책 / Client Computer and Equipment Policy [한글](docs/clientpc.md) / [English](docs/clientpc_eng.md)
+- 물리적 데이터 배송 정책 [한글](docs/data_transfer_information.md) / [English](docs/data_transfer_information_eng.md)
+- 클라우드 정책 / Cloud Computing Policy [한글](docs/cloud.md) / [English](docs/cloud_eng.md)
+- 패스워드 정책 / Password Policy [한글](docs/password.md) / [English](docs/password_eng.md)
+- 코드네임 정책 / Code Name Policy [한글](docs/codename.md) / [English](docs/codename_eng.md)
+- 방문객 보안 / Visitor Security Policy [한글](docs/guest.md) / [English](docs/guest_eng.md)
+- 사고대응 정책 / Countermeasures Against Security Accident [한글](docs/security_incident_response.md) / [English](docs/security_incident_response_eng.md)
+- 징계/제재 정책 / Discipline and Sanction Policy [한글](docs/security_disciplinary_action.md) / [English](docs/security_disciplinary_action_eng.md)
+- FAQ [한글](docs/qna.md) / [English](docs/qna_eng.md)
 
 ## 담당자 / The Person in Charge
 - 대표번호 : +82-02-512-7520
