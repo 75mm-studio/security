@@ -14,7 +14,7 @@ In the case of delivering data via external disk, *Company* shall record followi
 
 [Download data transmssion form](../pdf/data_transfer_information.pdf)
 
-### Obtainment
+### Acquisition
 
 Right after the acquistion of data from client, *Company* shall check wheter the device is damaged by the third party.
 If data is transmitted without damage, inform client of acquisition.
