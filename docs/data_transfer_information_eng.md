@@ -24,7 +24,7 @@ If data is transmitted without damage, inform client of acquisition.
 *Company* only uses disk on which physical security system is applied.
 Even in the case of robbery, the third party cannot open the data.
 
-Disk model : Serotech Security HDD S3 / AES256bit XTS encryption algorithm is applied. the algorithm got top security grade from CIA(Central Intelligence Agency)
+Disk model : Serotech Security HDD S3 / AES256bit XTS encryption algorithm is applied. The algorithm got top security grade from CIA(Central Intelligence Agency)
 
 ### Storage
 Before and after transmission, external disk shall be kept in server room with triple security. 
