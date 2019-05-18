@@ -1,9 +1,12 @@
-# 물리적인 데이터 배송 정책
+# 물리적인 데이터 배송 정책 / Physical Data Transmission Policy
 USB 외장 드라이브를 이용한 클라이언트 데이터 전송 규약입니다.
+This is (규약) for client data transmission via USB external drive.
+
 
 MPAA 관련규칙: MS-8.0, PS-17.1, PS-17.2, PS-17.3, PS-20.1
+MPAA-related rule : MS-8.0, PS-17.1, PS-17.2, PS-17.3, PS-20.1
 
-### 전 달(수 취 / 반 환)
+### 전 달(수 취 / 반 환) / Transmission (Recieve / Return)
 외장 디스크를 외부로 전달활 때 다음 정보를 작성, 보관합니다.
 
 - 배송시간
@@ -14,20 +17,37 @@ MPAA 관련규칙: MS-8.0, PS-17.1, PS-17.2, PS-17.3, PS-20.1
 
 [데이터 배송 양식 다운로드](../pdf/data_transfer_information.pdf)
 
-### 입 수
+In the case of delivering data via external disk, *Company* shall record following elements.
+
+- Time of delivering
+- Name of Sender
+- Name of recienver
+- Address of destination
+- Tracking number assigned by shipper
+
+[Download data transmssion form](../pdf/data_transfer_information.pdf)
+
+### 입 수 / Obtainment
 
 클라언트로부터 데이터를 입수하면 제3자로부터 장치가 훼손되지 않았는지 체크합니다.
 데이터가 잘 도착했다면 클라언트에게 정상적으로 입수 사실을 전달합니다.
 
-### 이 동
+Right after the acquistion of data from client, *Company* shall check wheter the device is damaged by the third party.
+If data is transmitted without damage, inform client of 
+
+### 이 동 / Transmission
 
 75미리 스튜디오(주)에서 사용되는 모든 외장하드디스크는 물리적인 보안장치가 적용되어있는 디스크를 사용합니다.
 만약 배송중 도난사고가 발생하더라도 제3자가 데이터를 열어볼 수 없습니다.
 
-사용모델 : Serotech Security HDD S3 / 미국정보국에서 공인하는 최고 보안등급 AES256bit XTS 암호화 알고리즘 적용모델
+*Company* only uses disk on which physical security system is applied.
+Even in the case of robbery, the third party cannot open the data.
 
-### 보 관
+사용모델 : Serotech Security HDD S3 / 미국정보국에서 공인하는 최고 보안등급 AES256bit XTS 암호화 알고리즘 적용모델
+disk model : Serotech Security HDD S3 / AES256bit XTS encryption algorithm model.
+
+### 보 관 / Storage
 배송전,배송후 보관하는 외장하드 디스크는 3중 보안이 되어있는 서버실에 보관합니다.
 
-### 제 거 / 데이터 파기
+### 제 거 / 데이터 파기 / Removal / Data destruction
 프로젝트에 사용된 클라이언트 데이터는 프로젝트 종료후 클라언트와 상호간 체크후 데이터를 외장하드에서 삭제합니다.
