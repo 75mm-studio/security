@@ -1,33 +1,33 @@
-# 물리적인 데이터 배송 정책
-USB 외장 드라이브를 이용한 클라이언트 데이터 전송 규약입니다.
+# Physical Data Transmission Policy
+These are rules for client data transmission via USB external drive.
 
-MPAA 관련규칙: MS-8.0, PS-17.1, PS-17.2, PS-17.3, PS-20.1
+MPAA-related rule : MS-8.0, PS-17.1, PS-17.2, PS-17.3, PS-20.1
 
-### 전 달(수 취 / 반 환)
-외장 디스크를 외부로 전달활 때 다음 정보를 작성, 보관합니다.
+### Transmission (Recieve / Return)
+In the case of delivering data via external disk, *Company* shall record the following elements.
 
-- 배송시간
-- 발송인 이름
-- 수취인 이름
-- 도착지 주소
-- 배송업체에서 발행한 추적번호
+- Time of delivering
+- Name of Sender
+- Name of receiver
+- Address of destination
+- Tracking number assigned by Shipper
 
-[데이터 배송 양식 다운로드](../pdf/data_transfer_information.pdf)
+[Download data transmssion form](../pdf/data_transfer_information.pdf)
 
-### 입 수
+### Acquisition
 
-클라언트로부터 데이터를 입수하면 제3자로부터 장치가 훼손되지 않았는지 체크합니다.
-데이터가 잘 도착했다면 클라언트에게 정상적으로 입수 사실을 전달합니다.
+Right after the acquisition of data from the client, *Company* shall check whether the device is damaged by the third party.
+If data is transmitted without damage, inform the client of acquisition.
 
-### 이 동
+### Transmission
 
-75미리 스튜디오(주)에서 사용되는 모든 외장하드디스크는 물리적인 보안장치가 적용되어있는 디스크를 사용합니다.
-만약 배송중 도난사고가 발생하더라도 제3자가 데이터를 열어볼 수 없습니다.
+*Company* only uses the disk on which physical security system is applied.
+Even in the case of robbery, the third party cannot open the data.
 
-사용모델 : Serotech Security HDD S3 / 미국정보국에서 공인하는 최고 보안등급 AES256bit XTS 암호화 알고리즘 적용모델
+Disk model: Sarotech Security HDD S3 / AES256bit XTS encryption algorithm is applied. The algorithm got top security grade from the CIA(Central Intelligence Agency)
 
-### 보 관
-배송전,배송후 보관하는 외장하드 디스크는 3중 보안이 되어있는 서버실에 보관합니다.
+### Storage
+Before and after transmission, external disk shall be kept in our server room with triple security.
 
-### 제 거 / 데이터 파기
-프로젝트에 사용된 클라이언트 데이터는 프로젝트 종료후 클라언트와 상호간 체크후 데이터를 외장하드에서 삭제합니다.
+### Removal / Data destruction
+After the end of the project, client data used for the project is removed from an external disk on mutual confirmation.
