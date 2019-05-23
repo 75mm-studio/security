@@ -34,6 +34,7 @@ Items identified below are mandatory for NDA with the partner.
 - Signatory table for project participant including representative
 - Signature list of project participant including representative
 - Signed date
+- Project name
 
 ## External Subcontractor Information
 
@@ -45,6 +46,7 @@ Items identified below are mandatory for NDA with the external subcontractor.
 - Telephone No.
 - Signed date
 - Signature
+- Project name
 
 
 ## *Company* Information
