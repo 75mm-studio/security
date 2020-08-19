@@ -1,4 +1,4 @@
-These are frequently asked question in regard to security issues.
+These are frequently asked questions in regard to security issues.
 
 ### Is the Company affiliated with security specialist?
 
