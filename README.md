@@ -40,7 +40,7 @@ This repository is documented about security policy of 75mm Studio Co., Ltd.(her
 - 신철호(정) / Chol Ho Shin(main) : +82-10-5316-2746
 - 조세환(부) / Se Hwan Jo(vice) : +82-10-5430-6763
 
-#### 시스템관리자 / System administrator
+#### 시스템관리자 / System administrators
 - 신철호(정) / Chol Ho Shin(main) : +82-10-5316-2746
 - 조세환(부) / Se Hwan Jo(vice) : +82-10-5430-6763
 
