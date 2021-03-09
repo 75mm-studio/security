@@ -47,4 +47,4 @@ This repository is documented about security policy of 75mm Studio Co., Ltd.(her
 ## 작성기준 / Documentation Guidelines
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/MPAA.jpg" width="150">
 
-[MPAA Documentation](https://www.mpaa.org/what-we-do/advancing-creativity/additional-resources/#content-protection-best-practices)
+[MPAA Documentation](https://www.motionpictures.org/what-we-do/safeguarding-creativity/additional-resources/#content-protection-best-practices)
